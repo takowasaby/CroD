@@ -1,0 +1,2219 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: CroD.Data
+  name: CroD.Data
+  href: api/CroD.Data.html
+  commentId: N:CroD.Data
+  fullName: CroD.Data
+  nameWithType: CroD.Data
+- uid: CroD.Data.HyperParamater
+  name: HyperParamater
+  href: api/CroD.Data.HyperParamater.html
+  commentId: T:CroD.Data.HyperParamater
+  fullName: CroD.Data.HyperParamater
+  nameWithType: HyperParamater
+- uid: CroD.Data.PutChangeHyperParamater
+  name: PutChangeHyperParamater
+  href: api/CroD.Data.PutChangeHyperParamater.html
+  commentId: T:CroD.Data.PutChangeHyperParamater
+  fullName: CroD.Data.PutChangeHyperParamater
+  nameWithType: PutChangeHyperParamater
+- uid: CroD.Data.PutChangeHyperParamater.OnRefreshAilmentTimesChanged(CroD.Data.RefreshAilmentTimes)
+  name: OnRefreshAilmentTimesChanged(RefreshAilmentTimes)
+  href: api/CroD.Data.PutChangeHyperParamater.html#CroD_Data_PutChangeHyperParamater_OnRefreshAilmentTimesChanged_CroD_Data_RefreshAilmentTimes_
+  commentId: M:CroD.Data.PutChangeHyperParamater.OnRefreshAilmentTimesChanged(CroD.Data.RefreshAilmentTimes)
+  fullName: CroD.Data.PutChangeHyperParamater.OnRefreshAilmentTimesChanged(CroD.Data.RefreshAilmentTimes)
+  nameWithType: PutChangeHyperParamater.OnRefreshAilmentTimesChanged(RefreshAilmentTimes)
+- uid: CroD.Data.PutChangeHyperParamater.OnRefreshAilmentTimesChanged*
+  name: OnRefreshAilmentTimesChanged
+  href: api/CroD.Data.PutChangeHyperParamater.html#CroD_Data_PutChangeHyperParamater_OnRefreshAilmentTimesChanged_
+  commentId: Overload:CroD.Data.PutChangeHyperParamater.OnRefreshAilmentTimesChanged
+  isSpec: "True"
+  fullName: CroD.Data.PutChangeHyperParamater.OnRefreshAilmentTimesChanged
+  nameWithType: PutChangeHyperParamater.OnRefreshAilmentTimesChanged
+- uid: CroD.Data.RefreshAilmentTimes
+  name: RefreshAilmentTimes
+  href: api/CroD.Data.RefreshAilmentTimes.html
+  commentId: T:CroD.Data.RefreshAilmentTimes
+  fullName: CroD.Data.RefreshAilmentTimes
+  nameWithType: RefreshAilmentTimes
+- uid: CroD.Data.RefreshAilmentTimes.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)
+  name: RefreshAilmentTimes(Single, Single, Single, Single, Single, Single)
+  href: api/CroD.Data.RefreshAilmentTimes.html#CroD_Data_RefreshAilmentTimes__ctor_System_Single_System_Single_System_Single_System_Single_System_Single_System_Single_
+  commentId: M:CroD.Data.RefreshAilmentTimes.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)
+  fullName: CroD.Data.RefreshAilmentTimes.RefreshAilmentTimes(System.Single, System.Single, System.Single, System.Single, System.Single, System.Single)
+  nameWithType: RefreshAilmentTimes.RefreshAilmentTimes(Single, Single, Single, Single, Single, Single)
+- uid: CroD.Data.RefreshAilmentTimes.#ctor*
+  name: RefreshAilmentTimes
+  href: api/CroD.Data.RefreshAilmentTimes.html#CroD_Data_RefreshAilmentTimes__ctor_
+  commentId: Overload:CroD.Data.RefreshAilmentTimes.#ctor
+  isSpec: "True"
+  fullName: CroD.Data.RefreshAilmentTimes.RefreshAilmentTimes
+  nameWithType: RefreshAilmentTimes.RefreshAilmentTimes
+- uid: CroD.Data.RefreshAilmentTimes.abnormalGravity
+  name: abnormalGravity
+  href: api/CroD.Data.RefreshAilmentTimes.html#CroD_Data_RefreshAilmentTimes_abnormalGravity
+  commentId: F:CroD.Data.RefreshAilmentTimes.abnormalGravity
+  fullName: CroD.Data.RefreshAilmentTimes.abnormalGravity
+  nameWithType: RefreshAilmentTimes.abnormalGravity
+- uid: CroD.Data.RefreshAilmentTimes.blockRockOn
+  name: blockRockOn
+  href: api/CroD.Data.RefreshAilmentTimes.html#CroD_Data_RefreshAilmentTimes_blockRockOn
+  commentId: F:CroD.Data.RefreshAilmentTimes.blockRockOn
+  fullName: CroD.Data.RefreshAilmentTimes.blockRockOn
+  nameWithType: RefreshAilmentTimes.blockRockOn
+- uid: CroD.Data.RefreshAilmentTimes.fallPrecisely
+  name: fallPrecisely
+  href: api/CroD.Data.RefreshAilmentTimes.html#CroD_Data_RefreshAilmentTimes_fallPrecisely
+  commentId: F:CroD.Data.RefreshAilmentTimes.fallPrecisely
+  fullName: CroD.Data.RefreshAilmentTimes.fallPrecisely
+  nameWithType: RefreshAilmentTimes.fallPrecisely
+- uid: CroD.Data.RefreshAilmentTimes.fallSpeed
+  name: fallSpeed
+  href: api/CroD.Data.RefreshAilmentTimes.html#CroD_Data_RefreshAilmentTimes_fallSpeed
+  commentId: F:CroD.Data.RefreshAilmentTimes.fallSpeed
+  fullName: CroD.Data.RefreshAilmentTimes.fallSpeed
+  nameWithType: RefreshAilmentTimes.fallSpeed
+- uid: CroD.Data.RefreshAilmentTimes.fallSynchrony
+  name: fallSynchrony
+  href: api/CroD.Data.RefreshAilmentTimes.html#CroD_Data_RefreshAilmentTimes_fallSynchrony
+  commentId: F:CroD.Data.RefreshAilmentTimes.fallSynchrony
+  fullName: CroD.Data.RefreshAilmentTimes.fallSynchrony
+  nameWithType: RefreshAilmentTimes.fallSynchrony
+- uid: CroD.Data.RefreshAilmentTimes.panic
+  name: panic
+  href: api/CroD.Data.RefreshAilmentTimes.html#CroD_Data_RefreshAilmentTimes_panic
+  commentId: F:CroD.Data.RefreshAilmentTimes.panic
+  fullName: CroD.Data.RefreshAilmentTimes.panic
+  nameWithType: RefreshAilmentTimes.panic
+- uid: CroD.Data.RefreshAilmentTimesEvent
+  name: RefreshAilmentTimesEvent
+  href: api/CroD.Data.RefreshAilmentTimesEvent.html
+  commentId: T:CroD.Data.RefreshAilmentTimesEvent
+  fullName: CroD.Data.RefreshAilmentTimesEvent
+  nameWithType: RefreshAilmentTimesEvent
+- uid: CroD.Input
+  name: CroD.Input
+  href: api/CroD.Input.html
+  commentId: N:CroD.Input
+  fullName: CroD.Input
+  nameWithType: CroD.Input
+- uid: CroD.Input.ActionStream`3
+  name: ActionStream<TInputEnum, TStateEnum, TTransmit>
+  href: api/CroD.Input.ActionStream-3.html
+  commentId: T:CroD.Input.ActionStream`3
+  name.vb: ActionStream(Of TInputEnum, TStateEnum, TTransmit)
+  fullName: CroD.Input.ActionStream<TInputEnum, TStateEnum, TTransmit>
+  fullName.vb: CroD.Input.ActionStream(Of TInputEnum, TStateEnum, TTransmit)
+  nameWithType: ActionStream<TInputEnum, TStateEnum, TTransmit>
+  nameWithType.vb: ActionStream(Of TInputEnum, TStateEnum, TTransmit)
+- uid: CroD.Input.ActionStream`3.#ctor(UnityEngine.GameObject,System.Func{`1},System.Collections.Generic.Dictionary{`0,System.Func{`2}})
+  name: ActionStream(GameObject, Func<TStateEnum>, Dictionary<TInputEnum, Func<TTransmit>>)
+  href: api/CroD.Input.ActionStream-3.html#CroD_Input_ActionStream_3__ctor_UnityEngine_GameObject_System_Func__1__System_Collections_Generic_Dictionary__0_System_Func__2___
+  commentId: M:CroD.Input.ActionStream`3.#ctor(UnityEngine.GameObject,System.Func{`1},System.Collections.Generic.Dictionary{`0,System.Func{`2}})
+  name.vb: ActionStream(GameObject, Func(Of TStateEnum), Dictionary(Of TInputEnum, Func(Of TTransmit)))
+  fullName: CroD.Input.ActionStream<TInputEnum, TStateEnum, TTransmit>.ActionStream(UnityEngine.GameObject, System.Func<TStateEnum>, System.Collections.Generic.Dictionary<TInputEnum, System.Func<TTransmit>>)
+  fullName.vb: CroD.Input.ActionStream(Of TInputEnum, TStateEnum, TTransmit).ActionStream(UnityEngine.GameObject, System.Func(Of TStateEnum), System.Collections.Generic.Dictionary(Of TInputEnum, System.Func(Of TTransmit)))
+  nameWithType: ActionStream<TInputEnum, TStateEnum, TTransmit>.ActionStream(GameObject, Func<TStateEnum>, Dictionary<TInputEnum, Func<TTransmit>>)
+  nameWithType.vb: ActionStream(Of TInputEnum, TStateEnum, TTransmit).ActionStream(GameObject, Func(Of TStateEnum), Dictionary(Of TInputEnum, Func(Of TTransmit)))
+- uid: CroD.Input.ActionStream`3.#ctor(UnityEngine.GameObject,System.Func{`1},System.Collections.Generic.Dictionary{`0,System.Func{System.Boolean}})
+  name: ActionStream(GameObject, Func<TStateEnum>, Dictionary<TInputEnum, Func<Boolean>>)
+  href: api/CroD.Input.ActionStream-3.html#CroD_Input_ActionStream_3__ctor_UnityEngine_GameObject_System_Func__1__System_Collections_Generic_Dictionary__0_System_Func_System_Boolean___
+  commentId: M:CroD.Input.ActionStream`3.#ctor(UnityEngine.GameObject,System.Func{`1},System.Collections.Generic.Dictionary{`0,System.Func{System.Boolean}})
+  name.vb: ActionStream(GameObject, Func(Of TStateEnum), Dictionary(Of TInputEnum, Func(Of Boolean)))
+  fullName: CroD.Input.ActionStream<TInputEnum, TStateEnum, TTransmit>.ActionStream(UnityEngine.GameObject, System.Func<TStateEnum>, System.Collections.Generic.Dictionary<TInputEnum, System.Func<System.Boolean>>)
+  fullName.vb: CroD.Input.ActionStream(Of TInputEnum, TStateEnum, TTransmit).ActionStream(UnityEngine.GameObject, System.Func(Of TStateEnum), System.Collections.Generic.Dictionary(Of TInputEnum, System.Func(Of System.Boolean)))
+  nameWithType: ActionStream<TInputEnum, TStateEnum, TTransmit>.ActionStream(GameObject, Func<TStateEnum>, Dictionary<TInputEnum, Func<Boolean>>)
+  nameWithType.vb: ActionStream(Of TInputEnum, TStateEnum, TTransmit).ActionStream(GameObject, Func(Of TStateEnum), Dictionary(Of TInputEnum, Func(Of Boolean)))
+- uid: CroD.Input.ActionStream`3.#ctor*
+  name: ActionStream
+  href: api/CroD.Input.ActionStream-3.html#CroD_Input_ActionStream_3__ctor_
+  commentId: Overload:CroD.Input.ActionStream`3.#ctor
+  isSpec: "True"
+  fullName: CroD.Input.ActionStream<TInputEnum, TStateEnum, TTransmit>.ActionStream
+  fullName.vb: CroD.Input.ActionStream(Of TInputEnum, TStateEnum, TTransmit).ActionStream
+  nameWithType: ActionStream<TInputEnum, TStateEnum, TTransmit>.ActionStream
+  nameWithType.vb: ActionStream(Of TInputEnum, TStateEnum, TTransmit).ActionStream
+- uid: CroD.Input.ActionStream`3.Add(`0,`1,System.Action{`2})
+  name: Add(TInputEnum, TStateEnum, Action<TTransmit>)
+  href: api/CroD.Input.ActionStream-3.html#CroD_Input_ActionStream_3_Add__0__1_System_Action__2__
+  commentId: M:CroD.Input.ActionStream`3.Add(`0,`1,System.Action{`2})
+  name.vb: Add(TInputEnum, TStateEnum, Action(Of TTransmit))
+  fullName: CroD.Input.ActionStream<TInputEnum, TStateEnum, TTransmit>.Add(TInputEnum, TStateEnum, System.Action<TTransmit>)
+  fullName.vb: CroD.Input.ActionStream(Of TInputEnum, TStateEnum, TTransmit).Add(TInputEnum, TStateEnum, System.Action(Of TTransmit))
+  nameWithType: ActionStream<TInputEnum, TStateEnum, TTransmit>.Add(TInputEnum, TStateEnum, Action<TTransmit>)
+  nameWithType.vb: ActionStream(Of TInputEnum, TStateEnum, TTransmit).Add(TInputEnum, TStateEnum, Action(Of TTransmit))
+- uid: CroD.Input.ActionStream`3.Add(`0,`1,UnityEngine.Events.UnityAction{`2})
+  name: Add(TInputEnum, TStateEnum, UnityAction<TTransmit>)
+  href: api/CroD.Input.ActionStream-3.html#CroD_Input_ActionStream_3_Add__0__1_UnityEngine_Events_UnityAction__2__
+  commentId: M:CroD.Input.ActionStream`3.Add(`0,`1,UnityEngine.Events.UnityAction{`2})
+  name.vb: Add(TInputEnum, TStateEnum, UnityAction(Of TTransmit))
+  fullName: CroD.Input.ActionStream<TInputEnum, TStateEnum, TTransmit>.Add(TInputEnum, TStateEnum, UnityEngine.Events.UnityAction<TTransmit>)
+  fullName.vb: CroD.Input.ActionStream(Of TInputEnum, TStateEnum, TTransmit).Add(TInputEnum, TStateEnum, UnityEngine.Events.UnityAction(Of TTransmit))
+  nameWithType: ActionStream<TInputEnum, TStateEnum, TTransmit>.Add(TInputEnum, TStateEnum, UnityAction<TTransmit>)
+  nameWithType.vb: ActionStream(Of TInputEnum, TStateEnum, TTransmit).Add(TInputEnum, TStateEnum, UnityAction(Of TTransmit))
+- uid: CroD.Input.ActionStream`3.Add(System.Collections.Generic.Dictionary{`0,System.Collections.Generic.Dictionary{`1,System.Collections.Generic.List{UnityEngine.Events.UnityAction{`2}}}})
+  name: Add(Dictionary<TInputEnum, Dictionary<TStateEnum, List<UnityAction<TTransmit>>>>)
+  href: api/CroD.Input.ActionStream-3.html#CroD_Input_ActionStream_3_Add_System_Collections_Generic_Dictionary__0_System_Collections_Generic_Dictionary__1_System_Collections_Generic_List_UnityEngine_Events_UnityAction__2_____
+  commentId: M:CroD.Input.ActionStream`3.Add(System.Collections.Generic.Dictionary{`0,System.Collections.Generic.Dictionary{`1,System.Collections.Generic.List{UnityEngine.Events.UnityAction{`2}}}})
+  name.vb: Add(Dictionary(Of TInputEnum, Dictionary(Of TStateEnum, List(Of UnityAction(Of TTransmit)))))
+  fullName: CroD.Input.ActionStream<TInputEnum, TStateEnum, TTransmit>.Add(System.Collections.Generic.Dictionary<TInputEnum, System.Collections.Generic.Dictionary<TStateEnum, System.Collections.Generic.List<UnityEngine.Events.UnityAction<TTransmit>>>>)
+  fullName.vb: CroD.Input.ActionStream(Of TInputEnum, TStateEnum, TTransmit).Add(System.Collections.Generic.Dictionary(Of TInputEnum, System.Collections.Generic.Dictionary(Of TStateEnum, System.Collections.Generic.List(Of UnityEngine.Events.UnityAction(Of TTransmit)))))
+  nameWithType: ActionStream<TInputEnum, TStateEnum, TTransmit>.Add(Dictionary<TInputEnum, Dictionary<TStateEnum, List<UnityAction<TTransmit>>>>)
+  nameWithType.vb: ActionStream(Of TInputEnum, TStateEnum, TTransmit).Add(Dictionary(Of TInputEnum, Dictionary(Of TStateEnum, List(Of UnityAction(Of TTransmit)))))
+- uid: CroD.Input.ActionStream`3.Add*
+  name: Add
+  href: api/CroD.Input.ActionStream-3.html#CroD_Input_ActionStream_3_Add_
+  commentId: Overload:CroD.Input.ActionStream`3.Add
+  isSpec: "True"
+  fullName: CroD.Input.ActionStream<TInputEnum, TStateEnum, TTransmit>.Add
+  fullName.vb: CroD.Input.ActionStream(Of TInputEnum, TStateEnum, TTransmit).Add
+  nameWithType: ActionStream<TInputEnum, TStateEnum, TTransmit>.Add
+  nameWithType.vb: ActionStream(Of TInputEnum, TStateEnum, TTransmit).Add
+- uid: CroD.Input.ButtonType
+  name: ButtonType
+  href: api/CroD.Input.ButtonType.html
+  commentId: T:CroD.Input.ButtonType
+  fullName: CroD.Input.ButtonType
+  nameWithType: ButtonType
+- uid: CroD.Input.ButtonType.Button1
+  name: Button1
+  href: api/CroD.Input.ButtonType.html#CroD_Input_ButtonType_Button1
+  commentId: F:CroD.Input.ButtonType.Button1
+  fullName: CroD.Input.ButtonType.Button1
+  nameWithType: ButtonType.Button1
+- uid: CroD.Input.ButtonType.Button2
+  name: Button2
+  href: api/CroD.Input.ButtonType.html#CroD_Input_ButtonType_Button2
+  commentId: F:CroD.Input.ButtonType.Button2
+  fullName: CroD.Input.ButtonType.Button2
+  nameWithType: ButtonType.Button2
+- uid: CroD.Input.ButtonType.Button3
+  name: Button3
+  href: api/CroD.Input.ButtonType.html#CroD_Input_ButtonType_Button3
+  commentId: F:CroD.Input.ButtonType.Button3
+  fullName: CroD.Input.ButtonType.Button3
+  nameWithType: ButtonType.Button3
+- uid: CroD.Input.InputTransmitter
+  name: InputTransmitter
+  href: api/CroD.Input.InputTransmitter.html
+  commentId: T:CroD.Input.InputTransmitter
+  fullName: CroD.Input.InputTransmitter
+  nameWithType: InputTransmitter
+- uid: CroD.Input.InputTransmitter.InputState
+  name: InputState
+  href: api/CroD.Input.InputTransmitter.html#CroD_Input_InputTransmitter_InputState
+  commentId: P:CroD.Input.InputTransmitter.InputState
+  fullName: CroD.Input.InputTransmitter.InputState
+  nameWithType: InputTransmitter.InputState
+- uid: CroD.Input.InputTransmitter.InputState*
+  name: InputState
+  href: api/CroD.Input.InputTransmitter.html#CroD_Input_InputTransmitter_InputState_
+  commentId: Overload:CroD.Input.InputTransmitter.InputState
+  isSpec: "True"
+  fullName: CroD.Input.InputTransmitter.InputState
+  nameWithType: InputTransmitter.InputState
+- uid: CroD.Input.InputTransmitter.RegistAction(CroD.Input.ButtonType,CroD.Input.TransmitterState,System.Action{UniRx.Unit})
+  name: RegistAction(ButtonType, TransmitterState, Action<Unit>)
+  href: api/CroD.Input.InputTransmitter.html#CroD_Input_InputTransmitter_RegistAction_CroD_Input_ButtonType_CroD_Input_TransmitterState_System_Action_UniRx_Unit__
+  commentId: M:CroD.Input.InputTransmitter.RegistAction(CroD.Input.ButtonType,CroD.Input.TransmitterState,System.Action{UniRx.Unit})
+  name.vb: RegistAction(ButtonType, TransmitterState, Action(Of Unit))
+  fullName: CroD.Input.InputTransmitter.RegistAction(CroD.Input.ButtonType, CroD.Input.TransmitterState, System.Action<UniRx.Unit>)
+  fullName.vb: CroD.Input.InputTransmitter.RegistAction(CroD.Input.ButtonType, CroD.Input.TransmitterState, System.Action(Of UniRx.Unit))
+  nameWithType: InputTransmitter.RegistAction(ButtonType, TransmitterState, Action<Unit>)
+  nameWithType.vb: InputTransmitter.RegistAction(ButtonType, TransmitterState, Action(Of Unit))
+- uid: CroD.Input.InputTransmitter.RegistAction(CroD.Input.StickType,CroD.Input.TransmitterState,System.Action{UnityEngine.Vector2})
+  name: RegistAction(StickType, TransmitterState, Action<Vector2>)
+  href: api/CroD.Input.InputTransmitter.html#CroD_Input_InputTransmitter_RegistAction_CroD_Input_StickType_CroD_Input_TransmitterState_System_Action_UnityEngine_Vector2__
+  commentId: M:CroD.Input.InputTransmitter.RegistAction(CroD.Input.StickType,CroD.Input.TransmitterState,System.Action{UnityEngine.Vector2})
+  name.vb: RegistAction(StickType, TransmitterState, Action(Of Vector2))
+  fullName: CroD.Input.InputTransmitter.RegistAction(CroD.Input.StickType, CroD.Input.TransmitterState, System.Action<UnityEngine.Vector2>)
+  fullName.vb: CroD.Input.InputTransmitter.RegistAction(CroD.Input.StickType, CroD.Input.TransmitterState, System.Action(Of UnityEngine.Vector2))
+  nameWithType: InputTransmitter.RegistAction(StickType, TransmitterState, Action<Vector2>)
+  nameWithType.vb: InputTransmitter.RegistAction(StickType, TransmitterState, Action(Of Vector2))
+- uid: CroD.Input.InputTransmitter.RegistAction*
+  name: RegistAction
+  href: api/CroD.Input.InputTransmitter.html#CroD_Input_InputTransmitter_RegistAction_
+  commentId: Overload:CroD.Input.InputTransmitter.RegistAction
+  isSpec: "True"
+  fullName: CroD.Input.InputTransmitter.RegistAction
+  nameWithType: InputTransmitter.RegistAction
+- uid: CroD.Input.OperatorRegister
+  name: OperatorRegister
+  href: api/CroD.Input.OperatorRegister.html
+  commentId: T:CroD.Input.OperatorRegister
+  fullName: CroD.Input.OperatorRegister
+  nameWithType: OperatorRegister
+- uid: CroD.Input.OperatorRegister.Initialize(CroD.Input.TransmitterState)
+  name: Initialize(TransmitterState)
+  href: api/CroD.Input.OperatorRegister.html#CroD_Input_OperatorRegister_Initialize_CroD_Input_TransmitterState_
+  commentId: M:CroD.Input.OperatorRegister.Initialize(CroD.Input.TransmitterState)
+  fullName: CroD.Input.OperatorRegister.Initialize(CroD.Input.TransmitterState)
+  nameWithType: OperatorRegister.Initialize(TransmitterState)
+- uid: CroD.Input.OperatorRegister.Initialize*
+  name: Initialize
+  href: api/CroD.Input.OperatorRegister.html#CroD_Input_OperatorRegister_Initialize_
+  commentId: Overload:CroD.Input.OperatorRegister.Initialize
+  isSpec: "True"
+  fullName: CroD.Input.OperatorRegister.Initialize
+  nameWithType: OperatorRegister.Initialize
+- uid: CroD.Input.OperatorRegister.Regist(System.Collections.Generic.IEnumerable{System.Tuple{CroD.Operator.OperatorID,System.Action{UniRx.Unit}}})
+  name: Regist(IEnumerable<Tuple<OperatorID, Action<Unit>>>)
+  href: api/CroD.Input.OperatorRegister.html#CroD_Input_OperatorRegister_Regist_System_Collections_Generic_IEnumerable_System_Tuple_CroD_Operator_OperatorID_System_Action_UniRx_Unit____
+  commentId: M:CroD.Input.OperatorRegister.Regist(System.Collections.Generic.IEnumerable{System.Tuple{CroD.Operator.OperatorID,System.Action{UniRx.Unit}}})
+  name.vb: Regist(IEnumerable(Of Tuple(Of OperatorID, Action(Of Unit))))
+  fullName: CroD.Input.OperatorRegister.Regist(System.Collections.Generic.IEnumerable<System.Tuple<CroD.Operator.OperatorID, System.Action<UniRx.Unit>>>)
+  fullName.vb: CroD.Input.OperatorRegister.Regist(System.Collections.Generic.IEnumerable(Of System.Tuple(Of CroD.Operator.OperatorID, System.Action(Of UniRx.Unit))))
+  nameWithType: OperatorRegister.Regist(IEnumerable<Tuple<OperatorID, Action<Unit>>>)
+  nameWithType.vb: OperatorRegister.Regist(IEnumerable(Of Tuple(Of OperatorID, Action(Of Unit))))
+- uid: CroD.Input.OperatorRegister.Regist(System.Collections.Generic.IEnumerable{System.Tuple{CroD.Operator.OperatorID,System.Action{UnityEngine.Vector2}}})
+  name: Regist(IEnumerable<Tuple<OperatorID, Action<Vector2>>>)
+  href: api/CroD.Input.OperatorRegister.html#CroD_Input_OperatorRegister_Regist_System_Collections_Generic_IEnumerable_System_Tuple_CroD_Operator_OperatorID_System_Action_UnityEngine_Vector2____
+  commentId: M:CroD.Input.OperatorRegister.Regist(System.Collections.Generic.IEnumerable{System.Tuple{CroD.Operator.OperatorID,System.Action{UnityEngine.Vector2}}})
+  name.vb: Regist(IEnumerable(Of Tuple(Of OperatorID, Action(Of Vector2))))
+  fullName: CroD.Input.OperatorRegister.Regist(System.Collections.Generic.IEnumerable<System.Tuple<CroD.Operator.OperatorID, System.Action<UnityEngine.Vector2>>>)
+  fullName.vb: CroD.Input.OperatorRegister.Regist(System.Collections.Generic.IEnumerable(Of System.Tuple(Of CroD.Operator.OperatorID, System.Action(Of UnityEngine.Vector2))))
+  nameWithType: OperatorRegister.Regist(IEnumerable<Tuple<OperatorID, Action<Vector2>>>)
+  nameWithType.vb: OperatorRegister.Regist(IEnumerable(Of Tuple(Of OperatorID, Action(Of Vector2))))
+- uid: CroD.Input.OperatorRegister.Regist(System.Tuple{CroD.Operator.OperatorID,System.Action{UniRx.Unit}})
+  name: Regist(Tuple<OperatorID, Action<Unit>>)
+  href: api/CroD.Input.OperatorRegister.html#CroD_Input_OperatorRegister_Regist_System_Tuple_CroD_Operator_OperatorID_System_Action_UniRx_Unit___
+  commentId: M:CroD.Input.OperatorRegister.Regist(System.Tuple{CroD.Operator.OperatorID,System.Action{UniRx.Unit}})
+  name.vb: Regist(Tuple(Of OperatorID, Action(Of Unit)))
+  fullName: CroD.Input.OperatorRegister.Regist(System.Tuple<CroD.Operator.OperatorID, System.Action<UniRx.Unit>>)
+  fullName.vb: CroD.Input.OperatorRegister.Regist(System.Tuple(Of CroD.Operator.OperatorID, System.Action(Of UniRx.Unit)))
+  nameWithType: OperatorRegister.Regist(Tuple<OperatorID, Action<Unit>>)
+  nameWithType.vb: OperatorRegister.Regist(Tuple(Of OperatorID, Action(Of Unit)))
+- uid: CroD.Input.OperatorRegister.Regist(System.Tuple{CroD.Operator.OperatorID,System.Action{UnityEngine.Vector2}})
+  name: Regist(Tuple<OperatorID, Action<Vector2>>)
+  href: api/CroD.Input.OperatorRegister.html#CroD_Input_OperatorRegister_Regist_System_Tuple_CroD_Operator_OperatorID_System_Action_UnityEngine_Vector2___
+  commentId: M:CroD.Input.OperatorRegister.Regist(System.Tuple{CroD.Operator.OperatorID,System.Action{UnityEngine.Vector2}})
+  name.vb: Regist(Tuple(Of OperatorID, Action(Of Vector2)))
+  fullName: CroD.Input.OperatorRegister.Regist(System.Tuple<CroD.Operator.OperatorID, System.Action<UnityEngine.Vector2>>)
+  fullName.vb: CroD.Input.OperatorRegister.Regist(System.Tuple(Of CroD.Operator.OperatorID, System.Action(Of UnityEngine.Vector2)))
+  nameWithType: OperatorRegister.Regist(Tuple<OperatorID, Action<Vector2>>)
+  nameWithType.vb: OperatorRegister.Regist(Tuple(Of OperatorID, Action(Of Vector2)))
+- uid: CroD.Input.OperatorRegister.Regist*
+  name: Regist
+  href: api/CroD.Input.OperatorRegister.html#CroD_Input_OperatorRegister_Regist_
+  commentId: Overload:CroD.Input.OperatorRegister.Regist
+  isSpec: "True"
+  fullName: CroD.Input.OperatorRegister.Regist
+  nameWithType: OperatorRegister.Regist
+- uid: CroD.Input.StickType
+  name: StickType
+  href: api/CroD.Input.StickType.html
+  commentId: T:CroD.Input.StickType
+  fullName: CroD.Input.StickType
+  nameWithType: StickType
+- uid: CroD.Input.StickType.Stick1
+  name: Stick1
+  href: api/CroD.Input.StickType.html#CroD_Input_StickType_Stick1
+  commentId: F:CroD.Input.StickType.Stick1
+  fullName: CroD.Input.StickType.Stick1
+  nameWithType: StickType.Stick1
+- uid: CroD.Input.StickType.Stick2
+  name: Stick2
+  href: api/CroD.Input.StickType.html#CroD_Input_StickType_Stick2
+  commentId: F:CroD.Input.StickType.Stick2
+  fullName: CroD.Input.StickType.Stick2
+  nameWithType: StickType.Stick2
+- uid: CroD.Input.TransmitterState
+  name: TransmitterState
+  href: api/CroD.Input.TransmitterState.html
+  commentId: T:CroD.Input.TransmitterState
+  fullName: CroD.Input.TransmitterState
+  nameWithType: TransmitterState
+- uid: CroD.Input.TransmitterState.Battle
+  name: Battle
+  href: api/CroD.Input.TransmitterState.html#CroD_Input_TransmitterState_Battle
+  commentId: F:CroD.Input.TransmitterState.Battle
+  fullName: CroD.Input.TransmitterState.Battle
+  nameWithType: TransmitterState.Battle
+- uid: CroD.Input.TransmitterState.Menu
+  name: Menu
+  href: api/CroD.Input.TransmitterState.html#CroD_Input_TransmitterState_Menu
+  commentId: F:CroD.Input.TransmitterState.Menu
+  fullName: CroD.Input.TransmitterState.Menu
+  nameWithType: TransmitterState.Menu
+- uid: CroD.Operator
+  name: CroD.Operator
+  href: api/CroD.Operator.html
+  commentId: N:CroD.Operator
+  fullName: CroD.Operator
+  nameWithType: CroD.Operator
+- uid: CroD.Operator.IRegister`1
+  name: IRegister<T>
+  href: api/CroD.Operator.IRegister-1.html
+  commentId: T:CroD.Operator.IRegister`1
+  name.vb: IRegister(Of T)
+  fullName: CroD.Operator.IRegister<T>
+  fullName.vb: CroD.Operator.IRegister(Of T)
+  nameWithType: IRegister<T>
+  nameWithType.vb: IRegister(Of T)
+- uid: CroD.Operator.IRegister`1.Regist(System.Collections.Generic.IEnumerable{System.Tuple{CroD.Operator.OperatorID,System.Action{`0}}})
+  name: Regist(IEnumerable<Tuple<OperatorID, Action<T>>>)
+  href: api/CroD.Operator.IRegister-1.html#CroD_Operator_IRegister_1_Regist_System_Collections_Generic_IEnumerable_System_Tuple_CroD_Operator_OperatorID_System_Action__0____
+  commentId: M:CroD.Operator.IRegister`1.Regist(System.Collections.Generic.IEnumerable{System.Tuple{CroD.Operator.OperatorID,System.Action{`0}}})
+  name.vb: Regist(IEnumerable(Of Tuple(Of OperatorID, Action(Of T))))
+  fullName: CroD.Operator.IRegister<T>.Regist(System.Collections.Generic.IEnumerable<System.Tuple<CroD.Operator.OperatorID, System.Action<T>>>)
+  fullName.vb: CroD.Operator.IRegister(Of T).Regist(System.Collections.Generic.IEnumerable(Of System.Tuple(Of CroD.Operator.OperatorID, System.Action(Of T))))
+  nameWithType: IRegister<T>.Regist(IEnumerable<Tuple<OperatorID, Action<T>>>)
+  nameWithType.vb: IRegister(Of T).Regist(IEnumerable(Of Tuple(Of OperatorID, Action(Of T))))
+- uid: CroD.Operator.IRegister`1.Regist(System.Tuple{CroD.Operator.OperatorID,System.Action{`0}})
+  name: Regist(Tuple<OperatorID, Action<T>>)
+  href: api/CroD.Operator.IRegister-1.html#CroD_Operator_IRegister_1_Regist_System_Tuple_CroD_Operator_OperatorID_System_Action__0___
+  commentId: M:CroD.Operator.IRegister`1.Regist(System.Tuple{CroD.Operator.OperatorID,System.Action{`0}})
+  name.vb: Regist(Tuple(Of OperatorID, Action(Of T)))
+  fullName: CroD.Operator.IRegister<T>.Regist(System.Tuple<CroD.Operator.OperatorID, System.Action<T>>)
+  fullName.vb: CroD.Operator.IRegister(Of T).Regist(System.Tuple(Of CroD.Operator.OperatorID, System.Action(Of T)))
+  nameWithType: IRegister<T>.Regist(Tuple<OperatorID, Action<T>>)
+  nameWithType.vb: IRegister(Of T).Regist(Tuple(Of OperatorID, Action(Of T)))
+- uid: CroD.Operator.IRegister`1.Regist*
+  name: Regist
+  href: api/CroD.Operator.IRegister-1.html#CroD_Operator_IRegister_1_Regist_
+  commentId: Overload:CroD.Operator.IRegister`1.Regist
+  isSpec: "True"
+  fullName: CroD.Operator.IRegister<T>.Regist
+  fullName.vb: CroD.Operator.IRegister(Of T).Regist
+  nameWithType: IRegister<T>.Regist
+  nameWithType.vb: IRegister(Of T).Regist
+- uid: CroD.Operator.OperatorID
+  name: OperatorID
+  href: api/CroD.Operator.OperatorID.html
+  commentId: T:CroD.Operator.OperatorID
+  fullName: CroD.Operator.OperatorID
+  nameWithType: OperatorID
+- uid: CroD.Operator.OperatorID.Fire1
+  name: Fire1
+  href: api/CroD.Operator.OperatorID.html#CroD_Operator_OperatorID_Fire1
+  commentId: F:CroD.Operator.OperatorID.Fire1
+  fullName: CroD.Operator.OperatorID.Fire1
+  nameWithType: OperatorID.Fire1
+- uid: CroD.Operator.OperatorID.Fire2
+  name: Fire2
+  href: api/CroD.Operator.OperatorID.html#CroD_Operator_OperatorID_Fire2
+  commentId: F:CroD.Operator.OperatorID.Fire2
+  fullName: CroD.Operator.OperatorID.Fire2
+  nameWithType: OperatorID.Fire2
+- uid: CroD.Operator.ReactiveRegistableOperator`1
+  name: ReactiveRegistableOperator<T>
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html
+  commentId: T:CroD.Operator.ReactiveRegistableOperator`1
+  name.vb: ReactiveRegistableOperator(Of T)
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T)
+  nameWithType: ReactiveRegistableOperator<T>
+  nameWithType.vb: ReactiveRegistableOperator(Of T)
+- uid: CroD.Operator.ReactiveRegistableOperator`1.Add(CroD.Operator.OperatorID,System.Action{`0})
+  name: Add(OperatorID, Action<T>)
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_Add_CroD_Operator_OperatorID_System_Action__0__
+  commentId: M:CroD.Operator.ReactiveRegistableOperator`1.Add(CroD.Operator.OperatorID,System.Action{`0})
+  name.vb: Add(OperatorID, Action(Of T))
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.Add(CroD.Operator.OperatorID, System.Action<T>)
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).Add(CroD.Operator.OperatorID, System.Action(Of T))
+  nameWithType: ReactiveRegistableOperator<T>.Add(OperatorID, Action<T>)
+  nameWithType.vb: ReactiveRegistableOperator(Of T).Add(OperatorID, Action(Of T))
+- uid: CroD.Operator.ReactiveRegistableOperator`1.Add(CroD.Operator.OperatorID,System.Collections.Generic.IEnumerable{System.Action{`0}})
+  name: Add(OperatorID, IEnumerable<Action<T>>)
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_Add_CroD_Operator_OperatorID_System_Collections_Generic_IEnumerable_System_Action__0___
+  commentId: M:CroD.Operator.ReactiveRegistableOperator`1.Add(CroD.Operator.OperatorID,System.Collections.Generic.IEnumerable{System.Action{`0}})
+  name.vb: Add(OperatorID, IEnumerable(Of Action(Of T)))
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.Add(CroD.Operator.OperatorID, System.Collections.Generic.IEnumerable<System.Action<T>>)
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).Add(CroD.Operator.OperatorID, System.Collections.Generic.IEnumerable(Of System.Action(Of T)))
+  nameWithType: ReactiveRegistableOperator<T>.Add(OperatorID, IEnumerable<Action<T>>)
+  nameWithType.vb: ReactiveRegistableOperator(Of T).Add(OperatorID, IEnumerable(Of Action(Of T)))
+- uid: CroD.Operator.ReactiveRegistableOperator`1.Add(CroD.Operator.OperatorID,System.Collections.Generic.IEnumerable{UnityEngine.Events.UnityAction{`0}})
+  name: Add(OperatorID, IEnumerable<UnityAction<T>>)
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_Add_CroD_Operator_OperatorID_System_Collections_Generic_IEnumerable_UnityEngine_Events_UnityAction__0___
+  commentId: M:CroD.Operator.ReactiveRegistableOperator`1.Add(CroD.Operator.OperatorID,System.Collections.Generic.IEnumerable{UnityEngine.Events.UnityAction{`0}})
+  name.vb: Add(OperatorID, IEnumerable(Of UnityAction(Of T)))
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.Add(CroD.Operator.OperatorID, System.Collections.Generic.IEnumerable<UnityEngine.Events.UnityAction<T>>)
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).Add(CroD.Operator.OperatorID, System.Collections.Generic.IEnumerable(Of UnityEngine.Events.UnityAction(Of T)))
+  nameWithType: ReactiveRegistableOperator<T>.Add(OperatorID, IEnumerable<UnityAction<T>>)
+  nameWithType.vb: ReactiveRegistableOperator(Of T).Add(OperatorID, IEnumerable(Of UnityAction(Of T)))
+- uid: CroD.Operator.ReactiveRegistableOperator`1.Add(CroD.Operator.OperatorID,UnityEngine.Events.UnityAction{`0})
+  name: Add(OperatorID, UnityAction<T>)
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_Add_CroD_Operator_OperatorID_UnityEngine_Events_UnityAction__0__
+  commentId: M:CroD.Operator.ReactiveRegistableOperator`1.Add(CroD.Operator.OperatorID,UnityEngine.Events.UnityAction{`0})
+  name.vb: Add(OperatorID, UnityAction(Of T))
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.Add(CroD.Operator.OperatorID, UnityEngine.Events.UnityAction<T>)
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).Add(CroD.Operator.OperatorID, UnityEngine.Events.UnityAction(Of T))
+  nameWithType: ReactiveRegistableOperator<T>.Add(OperatorID, UnityAction<T>)
+  nameWithType.vb: ReactiveRegistableOperator(Of T).Add(OperatorID, UnityAction(Of T))
+- uid: CroD.Operator.ReactiveRegistableOperator`1.Add(System.Collections.Generic.Dictionary{CroD.Operator.OperatorID,System.Collections.Generic.List{System.Action{`0}}})
+  name: Add(Dictionary<OperatorID, List<Action<T>>>)
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_Add_System_Collections_Generic_Dictionary_CroD_Operator_OperatorID_System_Collections_Generic_List_System_Action__0____
+  commentId: M:CroD.Operator.ReactiveRegistableOperator`1.Add(System.Collections.Generic.Dictionary{CroD.Operator.OperatorID,System.Collections.Generic.List{System.Action{`0}}})
+  name.vb: Add(Dictionary(Of OperatorID, List(Of Action(Of T))))
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.Add(System.Collections.Generic.Dictionary<CroD.Operator.OperatorID, System.Collections.Generic.List<System.Action<T>>>)
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).Add(System.Collections.Generic.Dictionary(Of CroD.Operator.OperatorID, System.Collections.Generic.List(Of System.Action(Of T))))
+  nameWithType: ReactiveRegistableOperator<T>.Add(Dictionary<OperatorID, List<Action<T>>>)
+  nameWithType.vb: ReactiveRegistableOperator(Of T).Add(Dictionary(Of OperatorID, List(Of Action(Of T))))
+- uid: CroD.Operator.ReactiveRegistableOperator`1.Add(System.Collections.Generic.Dictionary{CroD.Operator.OperatorID,System.Collections.Generic.List{UnityEngine.Events.UnityAction{`0}}})
+  name: Add(Dictionary<OperatorID, List<UnityAction<T>>>)
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_Add_System_Collections_Generic_Dictionary_CroD_Operator_OperatorID_System_Collections_Generic_List_UnityEngine_Events_UnityAction__0____
+  commentId: M:CroD.Operator.ReactiveRegistableOperator`1.Add(System.Collections.Generic.Dictionary{CroD.Operator.OperatorID,System.Collections.Generic.List{UnityEngine.Events.UnityAction{`0}}})
+  name.vb: Add(Dictionary(Of OperatorID, List(Of UnityAction(Of T))))
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.Add(System.Collections.Generic.Dictionary<CroD.Operator.OperatorID, System.Collections.Generic.List<UnityEngine.Events.UnityAction<T>>>)
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).Add(System.Collections.Generic.Dictionary(Of CroD.Operator.OperatorID, System.Collections.Generic.List(Of UnityEngine.Events.UnityAction(Of T))))
+  nameWithType: ReactiveRegistableOperator<T>.Add(Dictionary<OperatorID, List<UnityAction<T>>>)
+  nameWithType.vb: ReactiveRegistableOperator(Of T).Add(Dictionary(Of OperatorID, List(Of UnityAction(Of T))))
+- uid: CroD.Operator.ReactiveRegistableOperator`1.Add(System.Collections.Generic.IEnumerable{System.Tuple{CroD.Operator.OperatorID,System.Action{`0}}})
+  name: Add(IEnumerable<Tuple<OperatorID, Action<T>>>)
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_Add_System_Collections_Generic_IEnumerable_System_Tuple_CroD_Operator_OperatorID_System_Action__0____
+  commentId: M:CroD.Operator.ReactiveRegistableOperator`1.Add(System.Collections.Generic.IEnumerable{System.Tuple{CroD.Operator.OperatorID,System.Action{`0}}})
+  name.vb: Add(IEnumerable(Of Tuple(Of OperatorID, Action(Of T))))
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.Add(System.Collections.Generic.IEnumerable<System.Tuple<CroD.Operator.OperatorID, System.Action<T>>>)
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).Add(System.Collections.Generic.IEnumerable(Of System.Tuple(Of CroD.Operator.OperatorID, System.Action(Of T))))
+  nameWithType: ReactiveRegistableOperator<T>.Add(IEnumerable<Tuple<OperatorID, Action<T>>>)
+  nameWithType.vb: ReactiveRegistableOperator(Of T).Add(IEnumerable(Of Tuple(Of OperatorID, Action(Of T))))
+- uid: CroD.Operator.ReactiveRegistableOperator`1.Add*
+  name: Add
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_Add_
+  commentId: Overload:CroD.Operator.ReactiveRegistableOperator`1.Add
+  isSpec: "True"
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.Add
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).Add
+  nameWithType: ReactiveRegistableOperator<T>.Add
+  nameWithType.vb: ReactiveRegistableOperator(Of T).Add
+- uid: CroD.Operator.ReactiveRegistableOperator`1.GetEnumerator
+  name: GetEnumerator()
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_GetEnumerator
+  commentId: M:CroD.Operator.ReactiveRegistableOperator`1.GetEnumerator
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.GetEnumerator()
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).GetEnumerator()
+  nameWithType: ReactiveRegistableOperator<T>.GetEnumerator()
+  nameWithType.vb: ReactiveRegistableOperator(Of T).GetEnumerator()
+- uid: CroD.Operator.ReactiveRegistableOperator`1.GetEnumerator*
+  name: GetEnumerator
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_GetEnumerator_
+  commentId: Overload:CroD.Operator.ReactiveRegistableOperator`1.GetEnumerator
+  isSpec: "True"
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.GetEnumerator
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).GetEnumerator
+  nameWithType: ReactiveRegistableOperator<T>.GetEnumerator
+  nameWithType.vb: ReactiveRegistableOperator(Of T).GetEnumerator
+- uid: CroD.Operator.ReactiveRegistableOperator`1.Subscribe(System.IObserver{System.Collections.Generic.IEnumerable{System.Tuple{CroD.Operator.OperatorID,System.Action{`0}}}})
+  name: Subscribe(IObserver<IEnumerable<Tuple<OperatorID, Action<T>>>>)
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_Subscribe_System_IObserver_System_Collections_Generic_IEnumerable_System_Tuple_CroD_Operator_OperatorID_System_Action__0_____
+  commentId: M:CroD.Operator.ReactiveRegistableOperator`1.Subscribe(System.IObserver{System.Collections.Generic.IEnumerable{System.Tuple{CroD.Operator.OperatorID,System.Action{`0}}}})
+  name.vb: Subscribe(IObserver(Of IEnumerable(Of Tuple(Of OperatorID, Action(Of T)))))
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.Subscribe(System.IObserver<System.Collections.Generic.IEnumerable<System.Tuple<CroD.Operator.OperatorID, System.Action<T>>>>)
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).Subscribe(System.IObserver(Of System.Collections.Generic.IEnumerable(Of System.Tuple(Of CroD.Operator.OperatorID, System.Action(Of T)))))
+  nameWithType: ReactiveRegistableOperator<T>.Subscribe(IObserver<IEnumerable<Tuple<OperatorID, Action<T>>>>)
+  nameWithType.vb: ReactiveRegistableOperator(Of T).Subscribe(IObserver(Of IEnumerable(Of Tuple(Of OperatorID, Action(Of T)))))
+- uid: CroD.Operator.ReactiveRegistableOperator`1.Subscribe*
+  name: Subscribe
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_Subscribe_
+  commentId: Overload:CroD.Operator.ReactiveRegistableOperator`1.Subscribe
+  isSpec: "True"
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.Subscribe
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).Subscribe
+  nameWithType: ReactiveRegistableOperator<T>.Subscribe
+  nameWithType.vb: ReactiveRegistableOperator(Of T).Subscribe
+- uid: CroD.Operator.ReactiveRegistableOperator`1.System#Collections#IEnumerable#GetEnumerator
+  name: IEnumerable.GetEnumerator()
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_System_Collections_IEnumerable_GetEnumerator
+  commentId: M:CroD.Operator.ReactiveRegistableOperator`1.System#Collections#IEnumerable#GetEnumerator
+  name.vb: System.Collections.IEnumerable.GetEnumerator()
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.System.Collections.IEnumerable.GetEnumerator()
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).System.Collections.IEnumerable.GetEnumerator()
+  nameWithType: ReactiveRegistableOperator<T>.IEnumerable.GetEnumerator()
+  nameWithType.vb: ReactiveRegistableOperator(Of T).System.Collections.IEnumerable.GetEnumerator()
+- uid: CroD.Operator.ReactiveRegistableOperator`1.System#Collections#IEnumerable#GetEnumerator*
+  name: IEnumerable.GetEnumerator
+  href: api/CroD.Operator.ReactiveRegistableOperator-1.html#CroD_Operator_ReactiveRegistableOperator_1_System_Collections_IEnumerable_GetEnumerator_
+  commentId: Overload:CroD.Operator.ReactiveRegistableOperator`1.System#Collections#IEnumerable#GetEnumerator
+  isSpec: "True"
+  name.vb: System.Collections.IEnumerable.GetEnumerator
+  fullName: CroD.Operator.ReactiveRegistableOperator<T>.System.Collections.IEnumerable.GetEnumerator
+  fullName.vb: CroD.Operator.ReactiveRegistableOperator(Of T).System.Collections.IEnumerable.GetEnumerator
+  nameWithType: ReactiveRegistableOperator<T>.IEnumerable.GetEnumerator
+  nameWithType.vb: ReactiveRegistableOperator(Of T).System.Collections.IEnumerable.GetEnumerator
+- uid: CroD.Operator.RegistableOperater`1
+  name: RegistableOperater<T>
+  href: api/CroD.Operator.RegistableOperater-1.html
+  commentId: T:CroD.Operator.RegistableOperater`1
+  name.vb: RegistableOperater(Of T)
+  fullName: CroD.Operator.RegistableOperater<T>
+  fullName.vb: CroD.Operator.RegistableOperater(Of T)
+  nameWithType: RegistableOperater<T>
+  nameWithType.vb: RegistableOperater(Of T)
+- uid: CroD.Operator.RegistableOperater`1.Add(CroD.Operator.OperatorID,System.Action{`0})
+  name: Add(OperatorID, Action<T>)
+  href: api/CroD.Operator.RegistableOperater-1.html#CroD_Operator_RegistableOperater_1_Add_CroD_Operator_OperatorID_System_Action__0__
+  commentId: M:CroD.Operator.RegistableOperater`1.Add(CroD.Operator.OperatorID,System.Action{`0})
+  name.vb: Add(OperatorID, Action(Of T))
+  fullName: CroD.Operator.RegistableOperater<T>.Add(CroD.Operator.OperatorID, System.Action<T>)
+  fullName.vb: CroD.Operator.RegistableOperater(Of T).Add(CroD.Operator.OperatorID, System.Action(Of T))
+  nameWithType: RegistableOperater<T>.Add(OperatorID, Action<T>)
+  nameWithType.vb: RegistableOperater(Of T).Add(OperatorID, Action(Of T))
+- uid: CroD.Operator.RegistableOperater`1.Add(CroD.Operator.OperatorID,System.Collections.Generic.IEnumerable{System.Action{`0}})
+  name: Add(OperatorID, IEnumerable<Action<T>>)
+  href: api/CroD.Operator.RegistableOperater-1.html#CroD_Operator_RegistableOperater_1_Add_CroD_Operator_OperatorID_System_Collections_Generic_IEnumerable_System_Action__0___
+  commentId: M:CroD.Operator.RegistableOperater`1.Add(CroD.Operator.OperatorID,System.Collections.Generic.IEnumerable{System.Action{`0}})
+  name.vb: Add(OperatorID, IEnumerable(Of Action(Of T)))
+  fullName: CroD.Operator.RegistableOperater<T>.Add(CroD.Operator.OperatorID, System.Collections.Generic.IEnumerable<System.Action<T>>)
+  fullName.vb: CroD.Operator.RegistableOperater(Of T).Add(CroD.Operator.OperatorID, System.Collections.Generic.IEnumerable(Of System.Action(Of T)))
+  nameWithType: RegistableOperater<T>.Add(OperatorID, IEnumerable<Action<T>>)
+  nameWithType.vb: RegistableOperater(Of T).Add(OperatorID, IEnumerable(Of Action(Of T)))
+- uid: CroD.Operator.RegistableOperater`1.Add(CroD.Operator.OperatorID,System.Collections.Generic.IEnumerable{UnityEngine.Events.UnityAction{`0}})
+  name: Add(OperatorID, IEnumerable<UnityAction<T>>)
+  href: api/CroD.Operator.RegistableOperater-1.html#CroD_Operator_RegistableOperater_1_Add_CroD_Operator_OperatorID_System_Collections_Generic_IEnumerable_UnityEngine_Events_UnityAction__0___
+  commentId: M:CroD.Operator.RegistableOperater`1.Add(CroD.Operator.OperatorID,System.Collections.Generic.IEnumerable{UnityEngine.Events.UnityAction{`0}})
+  name.vb: Add(OperatorID, IEnumerable(Of UnityAction(Of T)))
+  fullName: CroD.Operator.RegistableOperater<T>.Add(CroD.Operator.OperatorID, System.Collections.Generic.IEnumerable<UnityEngine.Events.UnityAction<T>>)
+  fullName.vb: CroD.Operator.RegistableOperater(Of T).Add(CroD.Operator.OperatorID, System.Collections.Generic.IEnumerable(Of UnityEngine.Events.UnityAction(Of T)))
+  nameWithType: RegistableOperater<T>.Add(OperatorID, IEnumerable<UnityAction<T>>)
+  nameWithType.vb: RegistableOperater(Of T).Add(OperatorID, IEnumerable(Of UnityAction(Of T)))
+- uid: CroD.Operator.RegistableOperater`1.Add(CroD.Operator.OperatorID,UnityEngine.Events.UnityAction{`0})
+  name: Add(OperatorID, UnityAction<T>)
+  href: api/CroD.Operator.RegistableOperater-1.html#CroD_Operator_RegistableOperater_1_Add_CroD_Operator_OperatorID_UnityEngine_Events_UnityAction__0__
+  commentId: M:CroD.Operator.RegistableOperater`1.Add(CroD.Operator.OperatorID,UnityEngine.Events.UnityAction{`0})
+  name.vb: Add(OperatorID, UnityAction(Of T))
+  fullName: CroD.Operator.RegistableOperater<T>.Add(CroD.Operator.OperatorID, UnityEngine.Events.UnityAction<T>)
+  fullName.vb: CroD.Operator.RegistableOperater(Of T).Add(CroD.Operator.OperatorID, UnityEngine.Events.UnityAction(Of T))
+  nameWithType: RegistableOperater<T>.Add(OperatorID, UnityAction<T>)
+  nameWithType.vb: RegistableOperater(Of T).Add(OperatorID, UnityAction(Of T))
+- uid: CroD.Operator.RegistableOperater`1.Add(System.Collections.Generic.Dictionary{CroD.Operator.OperatorID,System.Collections.Generic.List{System.Action{`0}}})
+  name: Add(Dictionary<OperatorID, List<Action<T>>>)
+  href: api/CroD.Operator.RegistableOperater-1.html#CroD_Operator_RegistableOperater_1_Add_System_Collections_Generic_Dictionary_CroD_Operator_OperatorID_System_Collections_Generic_List_System_Action__0____
+  commentId: M:CroD.Operator.RegistableOperater`1.Add(System.Collections.Generic.Dictionary{CroD.Operator.OperatorID,System.Collections.Generic.List{System.Action{`0}}})
+  name.vb: Add(Dictionary(Of OperatorID, List(Of Action(Of T))))
+  fullName: CroD.Operator.RegistableOperater<T>.Add(System.Collections.Generic.Dictionary<CroD.Operator.OperatorID, System.Collections.Generic.List<System.Action<T>>>)
+  fullName.vb: CroD.Operator.RegistableOperater(Of T).Add(System.Collections.Generic.Dictionary(Of CroD.Operator.OperatorID, System.Collections.Generic.List(Of System.Action(Of T))))
+  nameWithType: RegistableOperater<T>.Add(Dictionary<OperatorID, List<Action<T>>>)
+  nameWithType.vb: RegistableOperater(Of T).Add(Dictionary(Of OperatorID, List(Of Action(Of T))))
+- uid: CroD.Operator.RegistableOperater`1.Add(System.Collections.Generic.Dictionary{CroD.Operator.OperatorID,System.Collections.Generic.List{UnityEngine.Events.UnityAction{`0}}})
+  name: Add(Dictionary<OperatorID, List<UnityAction<T>>>)
+  href: api/CroD.Operator.RegistableOperater-1.html#CroD_Operator_RegistableOperater_1_Add_System_Collections_Generic_Dictionary_CroD_Operator_OperatorID_System_Collections_Generic_List_UnityEngine_Events_UnityAction__0____
+  commentId: M:CroD.Operator.RegistableOperater`1.Add(System.Collections.Generic.Dictionary{CroD.Operator.OperatorID,System.Collections.Generic.List{UnityEngine.Events.UnityAction{`0}}})
+  name.vb: Add(Dictionary(Of OperatorID, List(Of UnityAction(Of T))))
+  fullName: CroD.Operator.RegistableOperater<T>.Add(System.Collections.Generic.Dictionary<CroD.Operator.OperatorID, System.Collections.Generic.List<UnityEngine.Events.UnityAction<T>>>)
+  fullName.vb: CroD.Operator.RegistableOperater(Of T).Add(System.Collections.Generic.Dictionary(Of CroD.Operator.OperatorID, System.Collections.Generic.List(Of UnityEngine.Events.UnityAction(Of T))))
+  nameWithType: RegistableOperater<T>.Add(Dictionary<OperatorID, List<UnityAction<T>>>)
+  nameWithType.vb: RegistableOperater(Of T).Add(Dictionary(Of OperatorID, List(Of UnityAction(Of T))))
+- uid: CroD.Operator.RegistableOperater`1.Add(System.Collections.Generic.IEnumerable{System.Tuple{CroD.Operator.OperatorID,System.Action{`0}}})
+  name: Add(IEnumerable<Tuple<OperatorID, Action<T>>>)
+  href: api/CroD.Operator.RegistableOperater-1.html#CroD_Operator_RegistableOperater_1_Add_System_Collections_Generic_IEnumerable_System_Tuple_CroD_Operator_OperatorID_System_Action__0____
+  commentId: M:CroD.Operator.RegistableOperater`1.Add(System.Collections.Generic.IEnumerable{System.Tuple{CroD.Operator.OperatorID,System.Action{`0}}})
+  name.vb: Add(IEnumerable(Of Tuple(Of OperatorID, Action(Of T))))
+  fullName: CroD.Operator.RegistableOperater<T>.Add(System.Collections.Generic.IEnumerable<System.Tuple<CroD.Operator.OperatorID, System.Action<T>>>)
+  fullName.vb: CroD.Operator.RegistableOperater(Of T).Add(System.Collections.Generic.IEnumerable(Of System.Tuple(Of CroD.Operator.OperatorID, System.Action(Of T))))
+  nameWithType: RegistableOperater<T>.Add(IEnumerable<Tuple<OperatorID, Action<T>>>)
+  nameWithType.vb: RegistableOperater(Of T).Add(IEnumerable(Of Tuple(Of OperatorID, Action(Of T))))
+- uid: CroD.Operator.RegistableOperater`1.Add*
+  name: Add
+  href: api/CroD.Operator.RegistableOperater-1.html#CroD_Operator_RegistableOperater_1_Add_
+  commentId: Overload:CroD.Operator.RegistableOperater`1.Add
+  isSpec: "True"
+  fullName: CroD.Operator.RegistableOperater<T>.Add
+  fullName.vb: CroD.Operator.RegistableOperater(Of T).Add
+  nameWithType: RegistableOperater<T>.Add
+  nameWithType.vb: RegistableOperater(Of T).Add
+- uid: CroD.Operator.RegistableOperater`1.GetEnumerator
+  name: GetEnumerator()
+  href: api/CroD.Operator.RegistableOperater-1.html#CroD_Operator_RegistableOperater_1_GetEnumerator
+  commentId: M:CroD.Operator.RegistableOperater`1.GetEnumerator
+  fullName: CroD.Operator.RegistableOperater<T>.GetEnumerator()
+  fullName.vb: CroD.Operator.RegistableOperater(Of T).GetEnumerator()
+  nameWithType: RegistableOperater<T>.GetEnumerator()
+  nameWithType.vb: RegistableOperater(Of T).GetEnumerator()
+- uid: CroD.Operator.RegistableOperater`1.GetEnumerator*
+  name: GetEnumerator
+  href: api/CroD.Operator.RegistableOperater-1.html#CroD_Operator_RegistableOperater_1_GetEnumerator_
+  commentId: Overload:CroD.Operator.RegistableOperater`1.GetEnumerator
+  isSpec: "True"
+  fullName: CroD.Operator.RegistableOperater<T>.GetEnumerator
+  fullName.vb: CroD.Operator.RegistableOperater(Of T).GetEnumerator
+  nameWithType: RegistableOperater<T>.GetEnumerator
+  nameWithType.vb: RegistableOperater(Of T).GetEnumerator
+- uid: CroD.Operator.RegistableOperater`1.System#Collections#IEnumerable#GetEnumerator
+  name: IEnumerable.GetEnumerator()
+  href: api/CroD.Operator.RegistableOperater-1.html#CroD_Operator_RegistableOperater_1_System_Collections_IEnumerable_GetEnumerator
+  commentId: M:CroD.Operator.RegistableOperater`1.System#Collections#IEnumerable#GetEnumerator
+  name.vb: System.Collections.IEnumerable.GetEnumerator()
+  fullName: CroD.Operator.RegistableOperater<T>.System.Collections.IEnumerable.GetEnumerator()
+  fullName.vb: CroD.Operator.RegistableOperater(Of T).System.Collections.IEnumerable.GetEnumerator()
+  nameWithType: RegistableOperater<T>.IEnumerable.GetEnumerator()
+  nameWithType.vb: RegistableOperater(Of T).System.Collections.IEnumerable.GetEnumerator()
+- uid: CroD.Operator.RegistableOperater`1.System#Collections#IEnumerable#GetEnumerator*
+  name: IEnumerable.GetEnumerator
+  href: api/CroD.Operator.RegistableOperater-1.html#CroD_Operator_RegistableOperater_1_System_Collections_IEnumerable_GetEnumerator_
+  commentId: Overload:CroD.Operator.RegistableOperater`1.System#Collections#IEnumerable#GetEnumerator
+  isSpec: "True"
+  name.vb: System.Collections.IEnumerable.GetEnumerator
+  fullName: CroD.Operator.RegistableOperater<T>.System.Collections.IEnumerable.GetEnumerator
+  fullName.vb: CroD.Operator.RegistableOperater(Of T).System.Collections.IEnumerable.GetEnumerator
+  nameWithType: RegistableOperater<T>.IEnumerable.GetEnumerator
+  nameWithType.vb: RegistableOperater(Of T).System.Collections.IEnumerable.GetEnumerator
+- uid: CroD.Robot
+  name: CroD.Robot
+  href: api/CroD.Robot.html
+  commentId: N:CroD.Robot
+  fullName: CroD.Robot
+  nameWithType: CroD.Robot
+- uid: CroD.Robot.Action
+  name: CroD.Robot.Action
+  href: api/CroD.Robot.Action.html
+  commentId: N:CroD.Robot.Action
+  fullName: CroD.Robot.Action
+  nameWithType: CroD.Robot.Action
+- uid: CroD.Robot.Action.BoostState
+  name: BoostState
+  href: api/CroD.Robot.Action.BoostState.html
+  commentId: T:CroD.Robot.Action.BoostState
+  fullName: CroD.Robot.Action.BoostState
+  nameWithType: BoostState
+- uid: CroD.Robot.Action.BoostState.BoostHorizontal
+  name: BoostHorizontal
+  href: api/CroD.Robot.Action.BoostState.html#CroD_Robot_Action_BoostState_BoostHorizontal
+  commentId: F:CroD.Robot.Action.BoostState.BoostHorizontal
+  fullName: CroD.Robot.Action.BoostState.BoostHorizontal
+  nameWithType: BoostState.BoostHorizontal
+- uid: CroD.Robot.Action.BoostState.BoostHorizontalLockOn
+  name: BoostHorizontalLockOn
+  href: api/CroD.Robot.Action.BoostState.html#CroD_Robot_Action_BoostState_BoostHorizontalLockOn
+  commentId: F:CroD.Robot.Action.BoostState.BoostHorizontalLockOn
+  fullName: CroD.Robot.Action.BoostState.BoostHorizontalLockOn
+  nameWithType: BoostState.BoostHorizontalLockOn
+- uid: CroD.Robot.Action.BoostState.BoostVertical
+  name: BoostVertical
+  href: api/CroD.Robot.Action.BoostState.html#CroD_Robot_Action_BoostState_BoostVertical
+  commentId: F:CroD.Robot.Action.BoostState.BoostVertical
+  fullName: CroD.Robot.Action.BoostState.BoostVertical
+  nameWithType: BoostState.BoostVertical
+- uid: CroD.Robot.Action.BoostState.BoostVerticalLockOn
+  name: BoostVerticalLockOn
+  href: api/CroD.Robot.Action.BoostState.html#CroD_Robot_Action_BoostState_BoostVerticalLockOn
+  commentId: F:CroD.Robot.Action.BoostState.BoostVerticalLockOn
+  fullName: CroD.Robot.Action.BoostState.BoostVerticalLockOn
+  nameWithType: BoostState.BoostVerticalLockOn
+- uid: CroD.Robot.Action.MoveState
+  name: MoveState
+  href: api/CroD.Robot.Action.MoveState.html
+  commentId: T:CroD.Robot.Action.MoveState
+  fullName: CroD.Robot.Action.MoveState
+  nameWithType: MoveState
+- uid: CroD.Robot.Action.MoveState.MoveHorizontal
+  name: MoveHorizontal
+  href: api/CroD.Robot.Action.MoveState.html#CroD_Robot_Action_MoveState_MoveHorizontal
+  commentId: F:CroD.Robot.Action.MoveState.MoveHorizontal
+  fullName: CroD.Robot.Action.MoveState.MoveHorizontal
+  nameWithType: MoveState.MoveHorizontal
+- uid: CroD.Robot.Action.MoveState.MoveHorizontalLockOn
+  name: MoveHorizontalLockOn
+  href: api/CroD.Robot.Action.MoveState.html#CroD_Robot_Action_MoveState_MoveHorizontalLockOn
+  commentId: F:CroD.Robot.Action.MoveState.MoveHorizontalLockOn
+  fullName: CroD.Robot.Action.MoveState.MoveHorizontalLockOn
+  nameWithType: MoveState.MoveHorizontalLockOn
+- uid: CroD.Robot.Action.MoveState.MoveVertical
+  name: MoveVertical
+  href: api/CroD.Robot.Action.MoveState.html#CroD_Robot_Action_MoveState_MoveVertical
+  commentId: F:CroD.Robot.Action.MoveState.MoveVertical
+  fullName: CroD.Robot.Action.MoveState.MoveVertical
+  nameWithType: MoveState.MoveVertical
+- uid: CroD.Robot.Action.MoveState.MoveVerticalLockOn
+  name: MoveVerticalLockOn
+  href: api/CroD.Robot.Action.MoveState.html#CroD_Robot_Action_MoveState_MoveVerticalLockOn
+  commentId: F:CroD.Robot.Action.MoveState.MoveVerticalLockOn
+  fullName: CroD.Robot.Action.MoveState.MoveVerticalLockOn
+  nameWithType: MoveState.MoveVerticalLockOn
+- uid: CroD.Robot.Action.RobotBooster
+  name: RobotBooster
+  href: api/CroD.Robot.Action.RobotBooster.html
+  commentId: T:CroD.Robot.Action.RobotBooster
+  fullName: CroD.Robot.Action.RobotBooster
+  nameWithType: RobotBooster
+- uid: CroD.Robot.Action.RobotBooster.OnBoostRobot(UnityEngine.Vector2)
+  name: OnBoostRobot(Vector2)
+  href: api/CroD.Robot.Action.RobotBooster.html#CroD_Robot_Action_RobotBooster_OnBoostRobot_UnityEngine_Vector2_
+  commentId: M:CroD.Robot.Action.RobotBooster.OnBoostRobot(UnityEngine.Vector2)
+  fullName: CroD.Robot.Action.RobotBooster.OnBoostRobot(UnityEngine.Vector2)
+  nameWithType: RobotBooster.OnBoostRobot(Vector2)
+- uid: CroD.Robot.Action.RobotBooster.OnBoostRobot*
+  name: OnBoostRobot
+  href: api/CroD.Robot.Action.RobotBooster.html#CroD_Robot_Action_RobotBooster_OnBoostRobot_
+  commentId: Overload:CroD.Robot.Action.RobotBooster.OnBoostRobot
+  isSpec: "True"
+  fullName: CroD.Robot.Action.RobotBooster.OnBoostRobot
+  nameWithType: RobotBooster.OnBoostRobot
+- uid: CroD.Robot.Action.RobotBooster.OnChangeBoostState(UniRx.Unit)
+  name: OnChangeBoostState(Unit)
+  href: api/CroD.Robot.Action.RobotBooster.html#CroD_Robot_Action_RobotBooster_OnChangeBoostState_UniRx_Unit_
+  commentId: M:CroD.Robot.Action.RobotBooster.OnChangeBoostState(UniRx.Unit)
+  fullName: CroD.Robot.Action.RobotBooster.OnChangeBoostState(UniRx.Unit)
+  nameWithType: RobotBooster.OnChangeBoostState(Unit)
+- uid: CroD.Robot.Action.RobotBooster.OnChangeBoostState*
+  name: OnChangeBoostState
+  href: api/CroD.Robot.Action.RobotBooster.html#CroD_Robot_Action_RobotBooster_OnChangeBoostState_
+  commentId: Overload:CroD.Robot.Action.RobotBooster.OnChangeBoostState
+  isSpec: "True"
+  fullName: CroD.Robot.Action.RobotBooster.OnChangeBoostState
+  nameWithType: RobotBooster.OnChangeBoostState
+- uid: CroD.Robot.Action.RobotBooster.SetAnimationCurve(UnityEngine.AnimationCurve)
+  name: SetAnimationCurve(AnimationCurve)
+  href: api/CroD.Robot.Action.RobotBooster.html#CroD_Robot_Action_RobotBooster_SetAnimationCurve_UnityEngine_AnimationCurve_
+  commentId: M:CroD.Robot.Action.RobotBooster.SetAnimationCurve(UnityEngine.AnimationCurve)
+  fullName: CroD.Robot.Action.RobotBooster.SetAnimationCurve(UnityEngine.AnimationCurve)
+  nameWithType: RobotBooster.SetAnimationCurve(AnimationCurve)
+- uid: CroD.Robot.Action.RobotBooster.SetAnimationCurve*
+  name: SetAnimationCurve
+  href: api/CroD.Robot.Action.RobotBooster.html#CroD_Robot_Action_RobotBooster_SetAnimationCurve_
+  commentId: Overload:CroD.Robot.Action.RobotBooster.SetAnimationCurve
+  isSpec: "True"
+  fullName: CroD.Robot.Action.RobotBooster.SetAnimationCurve
+  nameWithType: RobotBooster.SetAnimationCurve
+- uid: CroD.Robot.Action.RobotBooster.SetBoostPower
+  name: SetBoostPower()
+  href: api/CroD.Robot.Action.RobotBooster.html#CroD_Robot_Action_RobotBooster_SetBoostPower
+  commentId: M:CroD.Robot.Action.RobotBooster.SetBoostPower
+  fullName: CroD.Robot.Action.RobotBooster.SetBoostPower()
+  nameWithType: RobotBooster.SetBoostPower()
+- uid: CroD.Robot.Action.RobotBooster.SetBoostPower*
+  name: SetBoostPower
+  href: api/CroD.Robot.Action.RobotBooster.html#CroD_Robot_Action_RobotBooster_SetBoostPower_
+  commentId: Overload:CroD.Robot.Action.RobotBooster.SetBoostPower
+  isSpec: "True"
+  fullName: CroD.Robot.Action.RobotBooster.SetBoostPower
+  nameWithType: RobotBooster.SetBoostPower
+- uid: CroD.Robot.Action.RobotBooster.SetTargetRobot(UnityEngine.Transform)
+  name: SetTargetRobot(Transform)
+  href: api/CroD.Robot.Action.RobotBooster.html#CroD_Robot_Action_RobotBooster_SetTargetRobot_UnityEngine_Transform_
+  commentId: M:CroD.Robot.Action.RobotBooster.SetTargetRobot(UnityEngine.Transform)
+  fullName: CroD.Robot.Action.RobotBooster.SetTargetRobot(UnityEngine.Transform)
+  nameWithType: RobotBooster.SetTargetRobot(Transform)
+- uid: CroD.Robot.Action.RobotBooster.SetTargetRobot*
+  name: SetTargetRobot
+  href: api/CroD.Robot.Action.RobotBooster.html#CroD_Robot_Action_RobotBooster_SetTargetRobot_
+  commentId: Overload:CroD.Robot.Action.RobotBooster.SetTargetRobot
+  isSpec: "True"
+  fullName: CroD.Robot.Action.RobotBooster.SetTargetRobot
+  nameWithType: RobotBooster.SetTargetRobot
+- uid: CroD.Robot.Action.RobotBooster.SwitchBoostDirection(CroD.Robot.Action.BoostState)
+  name: SwitchBoostDirection(BoostState)
+  href: api/CroD.Robot.Action.RobotBooster.html#CroD_Robot_Action_RobotBooster_SwitchBoostDirection_CroD_Robot_Action_BoostState_
+  commentId: M:CroD.Robot.Action.RobotBooster.SwitchBoostDirection(CroD.Robot.Action.BoostState)
+  fullName: CroD.Robot.Action.RobotBooster.SwitchBoostDirection(CroD.Robot.Action.BoostState)
+  nameWithType: RobotBooster.SwitchBoostDirection(BoostState)
+- uid: CroD.Robot.Action.RobotBooster.SwitchBoostDirection*
+  name: SwitchBoostDirection
+  href: api/CroD.Robot.Action.RobotBooster.html#CroD_Robot_Action_RobotBooster_SwitchBoostDirection_
+  commentId: Overload:CroD.Robot.Action.RobotBooster.SwitchBoostDirection
+  isSpec: "True"
+  fullName: CroD.Robot.Action.RobotBooster.SwitchBoostDirection
+  nameWithType: RobotBooster.SwitchBoostDirection
+- uid: CroD.Robot.Action.RobotMover
+  name: RobotMover
+  href: api/CroD.Robot.Action.RobotMover.html
+  commentId: T:CroD.Robot.Action.RobotMover
+  fullName: CroD.Robot.Action.RobotMover
+  nameWithType: RobotMover
+- uid: CroD.Robot.Action.RobotMover.OnChangeMoveState(UniRx.Unit)
+  name: OnChangeMoveState(Unit)
+  href: api/CroD.Robot.Action.RobotMover.html#CroD_Robot_Action_RobotMover_OnChangeMoveState_UniRx_Unit_
+  commentId: M:CroD.Robot.Action.RobotMover.OnChangeMoveState(UniRx.Unit)
+  fullName: CroD.Robot.Action.RobotMover.OnChangeMoveState(UniRx.Unit)
+  nameWithType: RobotMover.OnChangeMoveState(Unit)
+- uid: CroD.Robot.Action.RobotMover.OnChangeMoveState*
+  name: OnChangeMoveState
+  href: api/CroD.Robot.Action.RobotMover.html#CroD_Robot_Action_RobotMover_OnChangeMoveState_
+  commentId: Overload:CroD.Robot.Action.RobotMover.OnChangeMoveState
+  isSpec: "True"
+  fullName: CroD.Robot.Action.RobotMover.OnChangeMoveState
+  nameWithType: RobotMover.OnChangeMoveState
+- uid: CroD.Robot.Action.RobotMover.OnMoveRobot(UnityEngine.Vector2)
+  name: OnMoveRobot(Vector2)
+  href: api/CroD.Robot.Action.RobotMover.html#CroD_Robot_Action_RobotMover_OnMoveRobot_UnityEngine_Vector2_
+  commentId: M:CroD.Robot.Action.RobotMover.OnMoveRobot(UnityEngine.Vector2)
+  fullName: CroD.Robot.Action.RobotMover.OnMoveRobot(UnityEngine.Vector2)
+  nameWithType: RobotMover.OnMoveRobot(Vector2)
+- uid: CroD.Robot.Action.RobotMover.OnMoveRobot*
+  name: OnMoveRobot
+  href: api/CroD.Robot.Action.RobotMover.html#CroD_Robot_Action_RobotMover_OnMoveRobot_
+  commentId: Overload:CroD.Robot.Action.RobotMover.OnMoveRobot
+  isSpec: "True"
+  fullName: CroD.Robot.Action.RobotMover.OnMoveRobot
+  nameWithType: RobotMover.OnMoveRobot
+- uid: CroD.Robot.Action.RobotMover.SetMovePower
+  name: SetMovePower()
+  href: api/CroD.Robot.Action.RobotMover.html#CroD_Robot_Action_RobotMover_SetMovePower
+  commentId: M:CroD.Robot.Action.RobotMover.SetMovePower
+  fullName: CroD.Robot.Action.RobotMover.SetMovePower()
+  nameWithType: RobotMover.SetMovePower()
+- uid: CroD.Robot.Action.RobotMover.SetMovePower*
+  name: SetMovePower
+  href: api/CroD.Robot.Action.RobotMover.html#CroD_Robot_Action_RobotMover_SetMovePower_
+  commentId: Overload:CroD.Robot.Action.RobotMover.SetMovePower
+  isSpec: "True"
+  fullName: CroD.Robot.Action.RobotMover.SetMovePower
+  nameWithType: RobotMover.SetMovePower
+- uid: CroD.Robot.Action.RobotMover.SetTargetRobot(UnityEngine.Transform)
+  name: SetTargetRobot(Transform)
+  href: api/CroD.Robot.Action.RobotMover.html#CroD_Robot_Action_RobotMover_SetTargetRobot_UnityEngine_Transform_
+  commentId: M:CroD.Robot.Action.RobotMover.SetTargetRobot(UnityEngine.Transform)
+  fullName: CroD.Robot.Action.RobotMover.SetTargetRobot(UnityEngine.Transform)
+  nameWithType: RobotMover.SetTargetRobot(Transform)
+- uid: CroD.Robot.Action.RobotMover.SetTargetRobot*
+  name: SetTargetRobot
+  href: api/CroD.Robot.Action.RobotMover.html#CroD_Robot_Action_RobotMover_SetTargetRobot_
+  commentId: Overload:CroD.Robot.Action.RobotMover.SetTargetRobot
+  isSpec: "True"
+  fullName: CroD.Robot.Action.RobotMover.SetTargetRobot
+  nameWithType: RobotMover.SetTargetRobot
+- uid: CroD.Robot.Action.RobotMover.SwitchMoveDirection(CroD.Robot.Action.MoveState)
+  name: SwitchMoveDirection(MoveState)
+  href: api/CroD.Robot.Action.RobotMover.html#CroD_Robot_Action_RobotMover_SwitchMoveDirection_CroD_Robot_Action_MoveState_
+  commentId: M:CroD.Robot.Action.RobotMover.SwitchMoveDirection(CroD.Robot.Action.MoveState)
+  fullName: CroD.Robot.Action.RobotMover.SwitchMoveDirection(CroD.Robot.Action.MoveState)
+  nameWithType: RobotMover.SwitchMoveDirection(MoveState)
+- uid: CroD.Robot.Action.RobotMover.SwitchMoveDirection*
+  name: SwitchMoveDirection
+  href: api/CroD.Robot.Action.RobotMover.html#CroD_Robot_Action_RobotMover_SwitchMoveDirection_
+  commentId: Overload:CroD.Robot.Action.RobotMover.SwitchMoveDirection
+  isSpec: "True"
+  fullName: CroD.Robot.Action.RobotMover.SwitchMoveDirection
+  nameWithType: RobotMover.SwitchMoveDirection
+- uid: CroD.Robot.RobotOperatorSet
+  name: RobotOperatorSet
+  href: api/CroD.Robot.RobotOperatorSet.html
+  commentId: T:CroD.Robot.RobotOperatorSet
+  fullName: CroD.Robot.RobotOperatorSet
+  nameWithType: RobotOperatorSet
+- uid: CroD.Robot.RobotOperatorSet.AddRobotOperator(CroD.Operator.OperatorID,System.Action{UniRx.Unit})
+  name: AddRobotOperator(OperatorID, Action<Unit>)
+  href: api/CroD.Robot.RobotOperatorSet.html#CroD_Robot_RobotOperatorSet_AddRobotOperator_CroD_Operator_OperatorID_System_Action_UniRx_Unit__
+  commentId: M:CroD.Robot.RobotOperatorSet.AddRobotOperator(CroD.Operator.OperatorID,System.Action{UniRx.Unit})
+  name.vb: AddRobotOperator(OperatorID, Action(Of Unit))
+  fullName: CroD.Robot.RobotOperatorSet.AddRobotOperator(CroD.Operator.OperatorID, System.Action<UniRx.Unit>)
+  fullName.vb: CroD.Robot.RobotOperatorSet.AddRobotOperator(CroD.Operator.OperatorID, System.Action(Of UniRx.Unit))
+  nameWithType: RobotOperatorSet.AddRobotOperator(OperatorID, Action<Unit>)
+  nameWithType.vb: RobotOperatorSet.AddRobotOperator(OperatorID, Action(Of Unit))
+- uid: CroD.Robot.RobotOperatorSet.AddRobotOperator(CroD.Operator.OperatorID,System.Action{UnityEngine.Vector2})
+  name: AddRobotOperator(OperatorID, Action<Vector2>)
+  href: api/CroD.Robot.RobotOperatorSet.html#CroD_Robot_RobotOperatorSet_AddRobotOperator_CroD_Operator_OperatorID_System_Action_UnityEngine_Vector2__
+  commentId: M:CroD.Robot.RobotOperatorSet.AddRobotOperator(CroD.Operator.OperatorID,System.Action{UnityEngine.Vector2})
+  name.vb: AddRobotOperator(OperatorID, Action(Of Vector2))
+  fullName: CroD.Robot.RobotOperatorSet.AddRobotOperator(CroD.Operator.OperatorID, System.Action<UnityEngine.Vector2>)
+  fullName.vb: CroD.Robot.RobotOperatorSet.AddRobotOperator(CroD.Operator.OperatorID, System.Action(Of UnityEngine.Vector2))
+  nameWithType: RobotOperatorSet.AddRobotOperator(OperatorID, Action<Vector2>)
+  nameWithType.vb: RobotOperatorSet.AddRobotOperator(OperatorID, Action(Of Vector2))
+- uid: CroD.Robot.RobotOperatorSet.AddRobotOperator*
+  name: AddRobotOperator
+  href: api/CroD.Robot.RobotOperatorSet.html#CroD_Robot_RobotOperatorSet_AddRobotOperator_
+  commentId: Overload:CroD.Robot.RobotOperatorSet.AddRobotOperator
+  isSpec: "True"
+  fullName: CroD.Robot.RobotOperatorSet.AddRobotOperator
+  nameWithType: RobotOperatorSet.AddRobotOperator
+- uid: CroD.Robot.RobotOperatorSet.SetOperatorResister(CroD.Operator.IRegister{UniRx.Unit},CroD.Operator.IRegister{UnityEngine.Vector2})
+  name: SetOperatorResister(IRegister<Unit>, IRegister<Vector2>)
+  href: api/CroD.Robot.RobotOperatorSet.html#CroD_Robot_RobotOperatorSet_SetOperatorResister_CroD_Operator_IRegister_UniRx_Unit__CroD_Operator_IRegister_UnityEngine_Vector2__
+  commentId: M:CroD.Robot.RobotOperatorSet.SetOperatorResister(CroD.Operator.IRegister{UniRx.Unit},CroD.Operator.IRegister{UnityEngine.Vector2})
+  name.vb: SetOperatorResister(IRegister(Of Unit), IRegister(Of Vector2))
+  fullName: CroD.Robot.RobotOperatorSet.SetOperatorResister(CroD.Operator.IRegister<UniRx.Unit>, CroD.Operator.IRegister<UnityEngine.Vector2>)
+  fullName.vb: CroD.Robot.RobotOperatorSet.SetOperatorResister(CroD.Operator.IRegister(Of UniRx.Unit), CroD.Operator.IRegister(Of UnityEngine.Vector2))
+  nameWithType: RobotOperatorSet.SetOperatorResister(IRegister<Unit>, IRegister<Vector2>)
+  nameWithType.vb: RobotOperatorSet.SetOperatorResister(IRegister(Of Unit), IRegister(Of Vector2))
+- uid: CroD.Robot.RobotOperatorSet.SetOperatorResister*
+  name: SetOperatorResister
+  href: api/CroD.Robot.RobotOperatorSet.html#CroD_Robot_RobotOperatorSet_SetOperatorResister_
+  commentId: Overload:CroD.Robot.RobotOperatorSet.SetOperatorResister
+  isSpec: "True"
+  fullName: CroD.Robot.RobotOperatorSet.SetOperatorResister
+  nameWithType: RobotOperatorSet.SetOperatorResister
+- uid: CroD.Robot.Status
+  name: CroD.Robot.Status
+  href: api/CroD.Robot.Status.html
+  commentId: N:CroD.Robot.Status
+  fullName: CroD.Robot.Status
+  nameWithType: CroD.Robot.Status
+- uid: CroD.Robot.Status.ConstantStatusHolder`1
+  name: ConstantStatusHolder<T>
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html
+  commentId: T:CroD.Robot.Status.ConstantStatusHolder`1
+  name.vb: ConstantStatusHolder(Of T)
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T)
+  nameWithType: ConstantStatusHolder<T>
+  nameWithType.vb: ConstantStatusHolder(Of T)
+- uid: CroD.Robot.Status.ConstantStatusHolder`1.AddCorrection(System.String,System.Func{`0,`0})
+  name: AddCorrection(String, Func<T, T>)
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html#CroD_Robot_Status_ConstantStatusHolder_1_AddCorrection_System_String_System_Func__0__0__
+  commentId: M:CroD.Robot.Status.ConstantStatusHolder`1.AddCorrection(System.String,System.Func{`0,`0})
+  name.vb: AddCorrection(String, Func(Of T, T))
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>.AddCorrection(System.String, System.Func<T, T>)
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T).AddCorrection(System.String, System.Func(Of T, T))
+  nameWithType: ConstantStatusHolder<T>.AddCorrection(String, Func<T, T>)
+  nameWithType.vb: ConstantStatusHolder(Of T).AddCorrection(String, Func(Of T, T))
+- uid: CroD.Robot.Status.ConstantStatusHolder`1.AddCorrection*
+  name: AddCorrection
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html#CroD_Robot_Status_ConstantStatusHolder_1_AddCorrection_
+  commentId: Overload:CroD.Robot.Status.ConstantStatusHolder`1.AddCorrection
+  isSpec: "True"
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>.AddCorrection
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T).AddCorrection
+  nameWithType: ConstantStatusHolder<T>.AddCorrection
+  nameWithType.vb: ConstantStatusHolder(Of T).AddCorrection
+- uid: CroD.Robot.Status.ConstantStatusHolder`1.CurrentValue
+  name: CurrentValue
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html#CroD_Robot_Status_ConstantStatusHolder_1_CurrentValue
+  commentId: P:CroD.Robot.Status.ConstantStatusHolder`1.CurrentValue
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>.CurrentValue
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T).CurrentValue
+  nameWithType: ConstantStatusHolder<T>.CurrentValue
+  nameWithType.vb: ConstantStatusHolder(Of T).CurrentValue
+- uid: CroD.Robot.Status.ConstantStatusHolder`1.CurrentValue*
+  name: CurrentValue
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html#CroD_Robot_Status_ConstantStatusHolder_1_CurrentValue_
+  commentId: Overload:CroD.Robot.Status.ConstantStatusHolder`1.CurrentValue
+  isSpec: "True"
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>.CurrentValue
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T).CurrentValue
+  nameWithType: ConstantStatusHolder<T>.CurrentValue
+  nameWithType.vb: ConstantStatusHolder(Of T).CurrentValue
+- uid: CroD.Robot.Status.ConstantStatusHolder`1.Initialize(`0)
+  name: Initialize(T)
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html#CroD_Robot_Status_ConstantStatusHolder_1_Initialize__0_
+  commentId: M:CroD.Robot.Status.ConstantStatusHolder`1.Initialize(`0)
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>.Initialize(T)
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T).Initialize(T)
+  nameWithType: ConstantStatusHolder<T>.Initialize(T)
+  nameWithType.vb: ConstantStatusHolder(Of T).Initialize(T)
+- uid: CroD.Robot.Status.ConstantStatusHolder`1.Initialize*
+  name: Initialize
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html#CroD_Robot_Status_ConstantStatusHolder_1_Initialize_
+  commentId: Overload:CroD.Robot.Status.ConstantStatusHolder`1.Initialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>.Initialize
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T).Initialize
+  nameWithType: ConstantStatusHolder<T>.Initialize
+  nameWithType.vb: ConstantStatusHolder(Of T).Initialize
+- uid: CroD.Robot.Status.ConstantStatusHolder`1.OriginalValue
+  name: OriginalValue
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html#CroD_Robot_Status_ConstantStatusHolder_1_OriginalValue
+  commentId: P:CroD.Robot.Status.ConstantStatusHolder`1.OriginalValue
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>.OriginalValue
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T).OriginalValue
+  nameWithType: ConstantStatusHolder<T>.OriginalValue
+  nameWithType.vb: ConstantStatusHolder(Of T).OriginalValue
+- uid: CroD.Robot.Status.ConstantStatusHolder`1.OriginalValue*
+  name: OriginalValue
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html#CroD_Robot_Status_ConstantStatusHolder_1_OriginalValue_
+  commentId: Overload:CroD.Robot.Status.ConstantStatusHolder`1.OriginalValue
+  isSpec: "True"
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>.OriginalValue
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T).OriginalValue
+  nameWithType: ConstantStatusHolder<T>.OriginalValue
+  nameWithType.vb: ConstantStatusHolder(Of T).OriginalValue
+- uid: CroD.Robot.Status.ConstantStatusHolder`1.RemoveCorrection(System.String)
+  name: RemoveCorrection(String)
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html#CroD_Robot_Status_ConstantStatusHolder_1_RemoveCorrection_System_String_
+  commentId: M:CroD.Robot.Status.ConstantStatusHolder`1.RemoveCorrection(System.String)
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>.RemoveCorrection(System.String)
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T).RemoveCorrection(System.String)
+  nameWithType: ConstantStatusHolder<T>.RemoveCorrection(String)
+  nameWithType.vb: ConstantStatusHolder(Of T).RemoveCorrection(String)
+- uid: CroD.Robot.Status.ConstantStatusHolder`1.RemoveCorrection*
+  name: RemoveCorrection
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html#CroD_Robot_Status_ConstantStatusHolder_1_RemoveCorrection_
+  commentId: Overload:CroD.Robot.Status.ConstantStatusHolder`1.RemoveCorrection
+  isSpec: "True"
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>.RemoveCorrection
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T).RemoveCorrection
+  nameWithType: ConstantStatusHolder<T>.RemoveCorrection
+  nameWithType.vb: ConstantStatusHolder(Of T).RemoveCorrection
+- uid: CroD.Robot.Status.ConstantStatusHolder`1.Subscribe(System.IObserver{`0})
+  name: Subscribe(IObserver<T>)
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html#CroD_Robot_Status_ConstantStatusHolder_1_Subscribe_System_IObserver__0__
+  commentId: M:CroD.Robot.Status.ConstantStatusHolder`1.Subscribe(System.IObserver{`0})
+  name.vb: Subscribe(IObserver(Of T))
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>.Subscribe(System.IObserver<T>)
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T).Subscribe(System.IObserver(Of T))
+  nameWithType: ConstantStatusHolder<T>.Subscribe(IObserver<T>)
+  nameWithType.vb: ConstantStatusHolder(Of T).Subscribe(IObserver(Of T))
+- uid: CroD.Robot.Status.ConstantStatusHolder`1.Subscribe*
+  name: Subscribe
+  href: api/CroD.Robot.Status.ConstantStatusHolder-1.html#CroD_Robot_Status_ConstantStatusHolder_1_Subscribe_
+  commentId: Overload:CroD.Robot.Status.ConstantStatusHolder`1.Subscribe
+  isSpec: "True"
+  fullName: CroD.Robot.Status.ConstantStatusHolder<T>.Subscribe
+  fullName.vb: CroD.Robot.Status.ConstantStatusHolder(Of T).Subscribe
+  nameWithType: ConstantStatusHolder<T>.Subscribe
+  nameWithType.vb: ConstantStatusHolder(Of T).Subscribe
+- uid: CroD.Robot.Status.RobotStatus
+  name: RobotStatus
+  href: api/CroD.Robot.Status.RobotStatus.html
+  commentId: T:CroD.Robot.Status.RobotStatus
+  fullName: CroD.Robot.Status.RobotStatus
+  nameWithType: RobotStatus
+- uid: CroD.Robot.Status.RobotStatus.BeamResistance
+  name: BeamResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_BeamResistance
+  commentId: P:CroD.Robot.Status.RobotStatus.BeamResistance
+  fullName: CroD.Robot.Status.RobotStatus.BeamResistance
+  nameWithType: RobotStatus.BeamResistance
+- uid: CroD.Robot.Status.RobotStatus.BeamResistance*
+  name: BeamResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_BeamResistance_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.BeamResistance
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.BeamResistance
+  nameWithType: RobotStatus.BeamResistance
+- uid: CroD.Robot.Status.RobotStatus.Boost
+  name: Boost
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_Boost
+  commentId: P:CroD.Robot.Status.RobotStatus.Boost
+  fullName: CroD.Robot.Status.RobotStatus.Boost
+  nameWithType: RobotStatus.Boost
+- uid: CroD.Robot.Status.RobotStatus.Boost*
+  name: Boost
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_Boost_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.Boost
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.Boost
+  nameWithType: RobotStatus.Boost
+- uid: CroD.Robot.Status.RobotStatus.CosmicGodResistance
+  name: CosmicGodResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_CosmicGodResistance
+  commentId: P:CroD.Robot.Status.RobotStatus.CosmicGodResistance
+  fullName: CroD.Robot.Status.RobotStatus.CosmicGodResistance
+  nameWithType: RobotStatus.CosmicGodResistance
+- uid: CroD.Robot.Status.RobotStatus.CosmicGodResistance*
+  name: CosmicGodResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_CosmicGodResistance_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.CosmicGodResistance
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.CosmicGodResistance
+  nameWithType: RobotStatus.CosmicGodResistance
+- uid: CroD.Robot.Status.RobotStatus.ExplosionResistance
+  name: ExplosionResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_ExplosionResistance
+  commentId: P:CroD.Robot.Status.RobotStatus.ExplosionResistance
+  fullName: CroD.Robot.Status.RobotStatus.ExplosionResistance
+  nameWithType: RobotStatus.ExplosionResistance
+- uid: CroD.Robot.Status.RobotStatus.ExplosionResistance*
+  name: ExplosionResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_ExplosionResistance_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.ExplosionResistance
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.ExplosionResistance
+  nameWithType: RobotStatus.ExplosionResistance
+- uid: CroD.Robot.Status.RobotStatus.HP
+  name: HP
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_HP
+  commentId: P:CroD.Robot.Status.RobotStatus.HP
+  fullName: CroD.Robot.Status.RobotStatus.HP
+  nameWithType: RobotStatus.HP
+- uid: CroD.Robot.Status.RobotStatus.HP*
+  name: HP
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_HP_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.HP
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.HP
+  nameWithType: RobotStatus.HP
+- uid: CroD.Robot.Status.RobotStatus.Insanity
+  name: Insanity
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_Insanity
+  commentId: P:CroD.Robot.Status.RobotStatus.Insanity
+  fullName: CroD.Robot.Status.RobotStatus.Insanity
+  nameWithType: RobotStatus.Insanity
+- uid: CroD.Robot.Status.RobotStatus.Insanity*
+  name: Insanity
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_Insanity_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.Insanity
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.Insanity
+  nameWithType: RobotStatus.Insanity
+- uid: CroD.Robot.Status.RobotStatus.IsInAction
+  name: IsInAction
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_IsInAction
+  commentId: P:CroD.Robot.Status.RobotStatus.IsInAction
+  fullName: CroD.Robot.Status.RobotStatus.IsInAction
+  nameWithType: RobotStatus.IsInAction
+- uid: CroD.Robot.Status.RobotStatus.IsInAction*
+  name: IsInAction
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_IsInAction_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.IsInAction
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.IsInAction
+  nameWithType: RobotStatus.IsInAction
+- uid: CroD.Robot.Status.RobotStatus.IsInDamaging
+  name: IsInDamaging
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_IsInDamaging
+  commentId: P:CroD.Robot.Status.RobotStatus.IsInDamaging
+  fullName: CroD.Robot.Status.RobotStatus.IsInDamaging
+  nameWithType: RobotStatus.IsInDamaging
+- uid: CroD.Robot.Status.RobotStatus.IsInDamaging*
+  name: IsInDamaging
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_IsInDamaging_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.IsInDamaging
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.IsInDamaging
+  nameWithType: RobotStatus.IsInDamaging
+- uid: CroD.Robot.Status.RobotStatus.MalevolentGodResistance
+  name: MalevolentGodResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_MalevolentGodResistance
+  commentId: P:CroD.Robot.Status.RobotStatus.MalevolentGodResistance
+  fullName: CroD.Robot.Status.RobotStatus.MalevolentGodResistance
+  nameWithType: RobotStatus.MalevolentGodResistance
+- uid: CroD.Robot.Status.RobotStatus.MalevolentGodResistance*
+  name: MalevolentGodResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_MalevolentGodResistance_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.MalevolentGodResistance
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.MalevolentGodResistance
+  nameWithType: RobotStatus.MalevolentGodResistance
+- uid: CroD.Robot.Status.RobotStatus.MaxHP
+  name: MaxHP
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_MaxHP
+  commentId: P:CroD.Robot.Status.RobotStatus.MaxHP
+  fullName: CroD.Robot.Status.RobotStatus.MaxHP
+  nameWithType: RobotStatus.MaxHP
+- uid: CroD.Robot.Status.RobotStatus.MaxHP*
+  name: MaxHP
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_MaxHP_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.MaxHP
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.MaxHP
+  nameWithType: RobotStatus.MaxHP
+- uid: CroD.Robot.Status.RobotStatus.OldGodResistance
+  name: OldGodResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_OldGodResistance
+  commentId: P:CroD.Robot.Status.RobotStatus.OldGodResistance
+  fullName: CroD.Robot.Status.RobotStatus.OldGodResistance
+  nameWithType: RobotStatus.OldGodResistance
+- uid: CroD.Robot.Status.RobotStatus.OldGodResistance*
+  name: OldGodResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_OldGodResistance_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.OldGodResistance
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.OldGodResistance
+  nameWithType: RobotStatus.OldGodResistance
+- uid: CroD.Robot.Status.RobotStatus.OnRefreshAilmentTimesChanged(CroD.Data.RefreshAilmentTimes)
+  name: OnRefreshAilmentTimesChanged(RefreshAilmentTimes)
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_OnRefreshAilmentTimesChanged_CroD_Data_RefreshAilmentTimes_
+  commentId: M:CroD.Robot.Status.RobotStatus.OnRefreshAilmentTimesChanged(CroD.Data.RefreshAilmentTimes)
+  fullName: CroD.Robot.Status.RobotStatus.OnRefreshAilmentTimesChanged(CroD.Data.RefreshAilmentTimes)
+  nameWithType: RobotStatus.OnRefreshAilmentTimesChanged(RefreshAilmentTimes)
+- uid: CroD.Robot.Status.RobotStatus.OnRefreshAilmentTimesChanged*
+  name: OnRefreshAilmentTimesChanged
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_OnRefreshAilmentTimesChanged_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.OnRefreshAilmentTimesChanged
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.OnRefreshAilmentTimesChanged
+  nameWithType: RobotStatus.OnRefreshAilmentTimesChanged
+- uid: CroD.Robot.Status.RobotStatus.PhysicalResistance
+  name: PhysicalResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_PhysicalResistance
+  commentId: P:CroD.Robot.Status.RobotStatus.PhysicalResistance
+  fullName: CroD.Robot.Status.RobotStatus.PhysicalResistance
+  nameWithType: RobotStatus.PhysicalResistance
+- uid: CroD.Robot.Status.RobotStatus.PhysicalResistance*
+  name: PhysicalResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_PhysicalResistance_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.PhysicalResistance
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.PhysicalResistance
+  nameWithType: RobotStatus.PhysicalResistance
+- uid: CroD.Robot.Status.RobotStatus.PreciseMobility
+  name: PreciseMobility
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_PreciseMobility
+  commentId: P:CroD.Robot.Status.RobotStatus.PreciseMobility
+  fullName: CroD.Robot.Status.RobotStatus.PreciseMobility
+  nameWithType: RobotStatus.PreciseMobility
+- uid: CroD.Robot.Status.RobotStatus.PreciseMobility*
+  name: PreciseMobility
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_PreciseMobility_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.PreciseMobility
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.PreciseMobility
+  nameWithType: RobotStatus.PreciseMobility
+- uid: CroD.Robot.Status.RobotStatus.Resource
+  name: Resource
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_Resource
+  commentId: P:CroD.Robot.Status.RobotStatus.Resource
+  fullName: CroD.Robot.Status.RobotStatus.Resource
+  nameWithType: RobotStatus.Resource
+- uid: CroD.Robot.Status.RobotStatus.Resource*
+  name: Resource
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_Resource_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.Resource
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.Resource
+  nameWithType: RobotStatus.Resource
+- uid: CroD.Robot.Status.RobotStatus.statusAliment
+  name: statusAliment
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_statusAliment
+  commentId: P:CroD.Robot.Status.RobotStatus.statusAliment
+  fullName: CroD.Robot.Status.RobotStatus.statusAliment
+  nameWithType: RobotStatus.statusAliment
+- uid: CroD.Robot.Status.RobotStatus.statusAliment*
+  name: statusAliment
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_statusAliment_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.statusAliment
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.statusAliment
+  nameWithType: RobotStatus.statusAliment
+- uid: CroD.Robot.Status.RobotStatus.Synchrony
+  name: Synchrony
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_Synchrony
+  commentId: P:CroD.Robot.Status.RobotStatus.Synchrony
+  fullName: CroD.Robot.Status.RobotStatus.Synchrony
+  nameWithType: RobotStatus.Synchrony
+- uid: CroD.Robot.Status.RobotStatus.Synchrony*
+  name: Synchrony
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_Synchrony_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.Synchrony
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.Synchrony
+  nameWithType: RobotStatus.Synchrony
+- uid: CroD.Robot.Status.RobotStatus.TotalWeight
+  name: TotalWeight
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_TotalWeight
+  commentId: P:CroD.Robot.Status.RobotStatus.TotalWeight
+  fullName: CroD.Robot.Status.RobotStatus.TotalWeight
+  nameWithType: RobotStatus.TotalWeight
+- uid: CroD.Robot.Status.RobotStatus.TotalWeight*
+  name: TotalWeight
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_TotalWeight_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.TotalWeight
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.TotalWeight
+  nameWithType: RobotStatus.TotalWeight
+- uid: CroD.Robot.Status.RobotStatus.UnitPower
+  name: UnitPower
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_UnitPower
+  commentId: P:CroD.Robot.Status.RobotStatus.UnitPower
+  fullName: CroD.Robot.Status.RobotStatus.UnitPower
+  nameWithType: RobotStatus.UnitPower
+- uid: CroD.Robot.Status.RobotStatus.UnitPower*
+  name: UnitPower
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_UnitPower_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.UnitPower
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.UnitPower
+  nameWithType: RobotStatus.UnitPower
+- uid: CroD.Robot.Status.StatusAilmentType
+  name: StatusAilmentType
+  href: api/CroD.Robot.Status.StatusAilmentType.html
+  commentId: T:CroD.Robot.Status.StatusAilmentType
+  fullName: CroD.Robot.Status.StatusAilmentType
+  nameWithType: StatusAilmentType
+- uid: CroD.Robot.Status.StatusAilmentType.AbnormalGravity
+  name: AbnormalGravity
+  href: api/CroD.Robot.Status.StatusAilmentType.html#CroD_Robot_Status_StatusAilmentType_AbnormalGravity
+  commentId: F:CroD.Robot.Status.StatusAilmentType.AbnormalGravity
+  fullName: CroD.Robot.Status.StatusAilmentType.AbnormalGravity
+  nameWithType: StatusAilmentType.AbnormalGravity
+- uid: CroD.Robot.Status.StatusAilmentType.BlockRockOn
+  name: BlockRockOn
+  href: api/CroD.Robot.Status.StatusAilmentType.html#CroD_Robot_Status_StatusAilmentType_BlockRockOn
+  commentId: F:CroD.Robot.Status.StatusAilmentType.BlockRockOn
+  fullName: CroD.Robot.Status.StatusAilmentType.BlockRockOn
+  nameWithType: StatusAilmentType.BlockRockOn
+- uid: CroD.Robot.Status.StatusAilmentType.FallPrecisely
+  name: FallPrecisely
+  href: api/CroD.Robot.Status.StatusAilmentType.html#CroD_Robot_Status_StatusAilmentType_FallPrecisely
+  commentId: F:CroD.Robot.Status.StatusAilmentType.FallPrecisely
+  fullName: CroD.Robot.Status.StatusAilmentType.FallPrecisely
+  nameWithType: StatusAilmentType.FallPrecisely
+- uid: CroD.Robot.Status.StatusAilmentType.FallSpeed
+  name: FallSpeed
+  href: api/CroD.Robot.Status.StatusAilmentType.html#CroD_Robot_Status_StatusAilmentType_FallSpeed
+  commentId: F:CroD.Robot.Status.StatusAilmentType.FallSpeed
+  fullName: CroD.Robot.Status.StatusAilmentType.FallSpeed
+  nameWithType: StatusAilmentType.FallSpeed
+- uid: CroD.Robot.Status.StatusAilmentType.FallSynchrony
+  name: FallSynchrony
+  href: api/CroD.Robot.Status.StatusAilmentType.html#CroD_Robot_Status_StatusAilmentType_FallSynchrony
+  commentId: F:CroD.Robot.Status.StatusAilmentType.FallSynchrony
+  fullName: CroD.Robot.Status.StatusAilmentType.FallSynchrony
+  nameWithType: StatusAilmentType.FallSynchrony
+- uid: CroD.Robot.Status.StatusAilmentType.Panic
+  name: Panic
+  href: api/CroD.Robot.Status.StatusAilmentType.html#CroD_Robot_Status_StatusAilmentType_Panic
+  commentId: F:CroD.Robot.Status.StatusAilmentType.Panic
+  fullName: CroD.Robot.Status.StatusAilmentType.Panic
+  nameWithType: StatusAilmentType.Panic
+- uid: CroD.Robot.Status.StatusAliment
+  name: StatusAliment
+  href: api/CroD.Robot.Status.StatusAliment.html
+  commentId: T:CroD.Robot.Status.StatusAliment
+  fullName: CroD.Robot.Status.StatusAliment
+  nameWithType: StatusAliment
+- uid: CroD.Robot.Status.StatusAliment.Initialize(CroD.Robot.Status.RobotStatus)
+  name: Initialize(RobotStatus)
+  href: api/CroD.Robot.Status.StatusAliment.html#CroD_Robot_Status_StatusAliment_Initialize_CroD_Robot_Status_RobotStatus_
+  commentId: M:CroD.Robot.Status.StatusAliment.Initialize(CroD.Robot.Status.RobotStatus)
+  fullName: CroD.Robot.Status.StatusAliment.Initialize(CroD.Robot.Status.RobotStatus)
+  nameWithType: StatusAliment.Initialize(RobotStatus)
+- uid: CroD.Robot.Status.StatusAliment.Initialize*
+  name: Initialize
+  href: api/CroD.Robot.Status.StatusAliment.html#CroD_Robot_Status_StatusAliment_Initialize_
+  commentId: Overload:CroD.Robot.Status.StatusAliment.Initialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliment.Initialize
+  nameWithType: StatusAliment.Initialize
+- uid: CroD.Robot.Status.StatusAliment.IsStatusAliment(CroD.Robot.Status.StatusAilmentType)
+  name: IsStatusAliment(StatusAilmentType)
+  href: api/CroD.Robot.Status.StatusAliment.html#CroD_Robot_Status_StatusAliment_IsStatusAliment_CroD_Robot_Status_StatusAilmentType_
+  commentId: M:CroD.Robot.Status.StatusAliment.IsStatusAliment(CroD.Robot.Status.StatusAilmentType)
+  fullName: CroD.Robot.Status.StatusAliment.IsStatusAliment(CroD.Robot.Status.StatusAilmentType)
+  nameWithType: StatusAliment.IsStatusAliment(StatusAilmentType)
+- uid: CroD.Robot.Status.StatusAliment.IsStatusAliment*
+  name: IsStatusAliment
+  href: api/CroD.Robot.Status.StatusAliment.html#CroD_Robot_Status_StatusAliment_IsStatusAliment_
+  commentId: Overload:CroD.Robot.Status.StatusAliment.IsStatusAliment
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliment.IsStatusAliment
+  nameWithType: StatusAliment.IsStatusAliment
+- uid: CroD.Robot.Status.StatusAliment.OnRefreshAilmentTimesChanged(CroD.Data.RefreshAilmentTimes)
+  name: OnRefreshAilmentTimesChanged(RefreshAilmentTimes)
+  href: api/CroD.Robot.Status.StatusAliment.html#CroD_Robot_Status_StatusAliment_OnRefreshAilmentTimesChanged_CroD_Data_RefreshAilmentTimes_
+  commentId: M:CroD.Robot.Status.StatusAliment.OnRefreshAilmentTimesChanged(CroD.Data.RefreshAilmentTimes)
+  fullName: CroD.Robot.Status.StatusAliment.OnRefreshAilmentTimesChanged(CroD.Data.RefreshAilmentTimes)
+  nameWithType: StatusAliment.OnRefreshAilmentTimesChanged(RefreshAilmentTimes)
+- uid: CroD.Robot.Status.StatusAliment.OnRefreshAilmentTimesChanged*
+  name: OnRefreshAilmentTimesChanged
+  href: api/CroD.Robot.Status.StatusAliment.html#CroD_Robot_Status_StatusAliment_OnRefreshAilmentTimesChanged_
+  commentId: Overload:CroD.Robot.Status.StatusAliment.OnRefreshAilmentTimesChanged
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliment.OnRefreshAilmentTimesChanged
+  nameWithType: StatusAliment.OnRefreshAilmentTimesChanged
+- uid: CroD.Robot.Status.StatusAliment.PutStatusAliment(CroD.Robot.Status.StatusAilmentType,System.Int32)
+  name: PutStatusAliment(StatusAilmentType, Int32)
+  href: api/CroD.Robot.Status.StatusAliment.html#CroD_Robot_Status_StatusAliment_PutStatusAliment_CroD_Robot_Status_StatusAilmentType_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliment.PutStatusAliment(CroD.Robot.Status.StatusAilmentType,System.Int32)
+  fullName: CroD.Robot.Status.StatusAliment.PutStatusAliment(CroD.Robot.Status.StatusAilmentType, System.Int32)
+  nameWithType: StatusAliment.PutStatusAliment(StatusAilmentType, Int32)
+- uid: CroD.Robot.Status.StatusAliment.PutStatusAliment*
+  name: PutStatusAliment
+  href: api/CroD.Robot.Status.StatusAliment.html#CroD_Robot_Status_StatusAliment_PutStatusAliment_
+  commentId: Overload:CroD.Robot.Status.StatusAliment.PutStatusAliment
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliment.PutStatusAliment
+  nameWithType: StatusAliment.PutStatusAliment
+- uid: CroD.Robot.Status.StatusAliment.SolveStatusAliment(CroD.Robot.Status.StatusAilmentType)
+  name: SolveStatusAliment(StatusAilmentType)
+  href: api/CroD.Robot.Status.StatusAliment.html#CroD_Robot_Status_StatusAliment_SolveStatusAliment_CroD_Robot_Status_StatusAilmentType_
+  commentId: M:CroD.Robot.Status.StatusAliment.SolveStatusAliment(CroD.Robot.Status.StatusAilmentType)
+  fullName: CroD.Robot.Status.StatusAliment.SolveStatusAliment(CroD.Robot.Status.StatusAilmentType)
+  nameWithType: StatusAliment.SolveStatusAliment(StatusAilmentType)
+- uid: CroD.Robot.Status.StatusAliment.SolveStatusAliment*
+  name: SolveStatusAliment
+  href: api/CroD.Robot.Status.StatusAliment.html#CroD_Robot_Status_StatusAliment_SolveStatusAliment_
+  commentId: Overload:CroD.Robot.Status.StatusAliment.SolveStatusAliment
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliment.SolveStatusAliment
+  nameWithType: StatusAliment.SolveStatusAliment
+- uid: CroD.Robot.Status.StatusAlimentComponent
+  name: StatusAlimentComponent
+  href: api/CroD.Robot.Status.StatusAlimentComponent.html
+  commentId: T:CroD.Robot.Status.StatusAlimentComponent
+  fullName: CroD.Robot.Status.StatusAlimentComponent
+  nameWithType: StatusAlimentComponent
+- uid: CroD.Robot.Status.StatusAlimentComponent.IAliment
+  name: StatusAlimentComponent.IAliment
+  href: api/CroD.Robot.Status.StatusAlimentComponent.IAliment.html
+  commentId: T:CroD.Robot.Status.StatusAlimentComponent.IAliment
+  fullName: CroD.Robot.Status.StatusAlimentComponent.IAliment
+  nameWithType: StatusAlimentComponent.IAliment
+- uid: CroD.Robot.Status.StatusAlimentComponent.IAliment.AlimentFinalize
+  name: AlimentFinalize()
+  href: api/CroD.Robot.Status.StatusAlimentComponent.IAliment.html#CroD_Robot_Status_StatusAlimentComponent_IAliment_AlimentFinalize
+  commentId: M:CroD.Robot.Status.StatusAlimentComponent.IAliment.AlimentFinalize
+  fullName: CroD.Robot.Status.StatusAlimentComponent.IAliment.AlimentFinalize()
+  nameWithType: StatusAlimentComponent.IAliment.AlimentFinalize()
+- uid: CroD.Robot.Status.StatusAlimentComponent.IAliment.AlimentFinalize*
+  name: AlimentFinalize
+  href: api/CroD.Robot.Status.StatusAlimentComponent.IAliment.html#CroD_Robot_Status_StatusAlimentComponent_IAliment_AlimentFinalize_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentComponent.IAliment.AlimentFinalize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentComponent.IAliment.AlimentFinalize
+  nameWithType: StatusAlimentComponent.IAliment.AlimentFinalize
+- uid: CroD.Robot.Status.StatusAlimentComponent.IAliment.AlimentInitialize(System.Int32)
+  name: AlimentInitialize(Int32)
+  href: api/CroD.Robot.Status.StatusAlimentComponent.IAliment.html#CroD_Robot_Status_StatusAlimentComponent_IAliment_AlimentInitialize_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentComponent.IAliment.AlimentInitialize(System.Int32)
+  fullName: CroD.Robot.Status.StatusAlimentComponent.IAliment.AlimentInitialize(System.Int32)
+  nameWithType: StatusAlimentComponent.IAliment.AlimentInitialize(Int32)
+- uid: CroD.Robot.Status.StatusAlimentComponent.IAliment.AlimentInitialize*
+  name: AlimentInitialize
+  href: api/CroD.Robot.Status.StatusAlimentComponent.IAliment.html#CroD_Robot_Status_StatusAlimentComponent_IAliment_AlimentInitialize_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentComponent.IAliment.AlimentInitialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentComponent.IAliment.AlimentInitialize
+  nameWithType: StatusAlimentComponent.IAliment.AlimentInitialize
+- uid: CroD.Robot.Status.StatusAlimentComponent.IAliment.SetProgress(System.Int32)
+  name: SetProgress(Int32)
+  href: api/CroD.Robot.Status.StatusAlimentComponent.IAliment.html#CroD_Robot_Status_StatusAlimentComponent_IAliment_SetProgress_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentComponent.IAliment.SetProgress(System.Int32)
+  fullName: CroD.Robot.Status.StatusAlimentComponent.IAliment.SetProgress(System.Int32)
+  nameWithType: StatusAlimentComponent.IAliment.SetProgress(Int32)
+- uid: CroD.Robot.Status.StatusAlimentComponent.IAliment.SetProgress*
+  name: SetProgress
+  href: api/CroD.Robot.Status.StatusAlimentComponent.IAliment.html#CroD_Robot_Status_StatusAlimentComponent_IAliment_SetProgress_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentComponent.IAliment.SetProgress
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentComponent.IAliment.SetProgress
+  nameWithType: StatusAlimentComponent.IAliment.SetProgress
+- uid: CroD.Robot.Status.StatusAlimentComponent.Initialize(CroD.Robot.Status.StatusAlimentComponent.IAliment,System.Single,System.Int32)
+  name: Initialize(StatusAlimentComponent.IAliment, Single, Int32)
+  href: api/CroD.Robot.Status.StatusAlimentComponent.html#CroD_Robot_Status_StatusAlimentComponent_Initialize_CroD_Robot_Status_StatusAlimentComponent_IAliment_System_Single_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentComponent.Initialize(CroD.Robot.Status.StatusAlimentComponent.IAliment,System.Single,System.Int32)
+  fullName: CroD.Robot.Status.StatusAlimentComponent.Initialize(CroD.Robot.Status.StatusAlimentComponent.IAliment, System.Single, System.Int32)
+  nameWithType: StatusAlimentComponent.Initialize(StatusAlimentComponent.IAliment, Single, Int32)
+- uid: CroD.Robot.Status.StatusAlimentComponent.Initialize*
+  name: Initialize
+  href: api/CroD.Robot.Status.StatusAlimentComponent.html#CroD_Robot_Status_StatusAlimentComponent_Initialize_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentComponent.Initialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentComponent.Initialize
+  nameWithType: StatusAlimentComponent.Initialize
+- uid: CroD.Robot.Status.StatusAlimentComponent.MakeProgress(System.Int32)
+  name: MakeProgress(Int32)
+  href: api/CroD.Robot.Status.StatusAlimentComponent.html#CroD_Robot_Status_StatusAlimentComponent_MakeProgress_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentComponent.MakeProgress(System.Int32)
+  fullName: CroD.Robot.Status.StatusAlimentComponent.MakeProgress(System.Int32)
+  nameWithType: StatusAlimentComponent.MakeProgress(Int32)
+- uid: CroD.Robot.Status.StatusAlimentComponent.MakeProgress*
+  name: MakeProgress
+  href: api/CroD.Robot.Status.StatusAlimentComponent.html#CroD_Robot_Status_StatusAlimentComponent_MakeProgress_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentComponent.MakeProgress
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentComponent.MakeProgress
+  nameWithType: StatusAlimentComponent.MakeProgress
+- uid: CroD.Robot.Status.StatusAlimentComponent.Progress
+  name: Progress
+  href: api/CroD.Robot.Status.StatusAlimentComponent.html#CroD_Robot_Status_StatusAlimentComponent_Progress
+  commentId: P:CroD.Robot.Status.StatusAlimentComponent.Progress
+  fullName: CroD.Robot.Status.StatusAlimentComponent.Progress
+  nameWithType: StatusAlimentComponent.Progress
+- uid: CroD.Robot.Status.StatusAlimentComponent.Progress*
+  name: Progress
+  href: api/CroD.Robot.Status.StatusAlimentComponent.html#CroD_Robot_Status_StatusAlimentComponent_Progress_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentComponent.Progress
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentComponent.Progress
+  nameWithType: StatusAlimentComponent.Progress
+- uid: CroD.Robot.Status.StatusAlimentComponent.ResetTimer
+  name: ResetTimer()
+  href: api/CroD.Robot.Status.StatusAlimentComponent.html#CroD_Robot_Status_StatusAlimentComponent_ResetTimer
+  commentId: M:CroD.Robot.Status.StatusAlimentComponent.ResetTimer
+  fullName: CroD.Robot.Status.StatusAlimentComponent.ResetTimer()
+  nameWithType: StatusAlimentComponent.ResetTimer()
+- uid: CroD.Robot.Status.StatusAlimentComponent.ResetTimer*
+  name: ResetTimer
+  href: api/CroD.Robot.Status.StatusAlimentComponent.html#CroD_Robot_Status_StatusAlimentComponent_ResetTimer_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentComponent.ResetTimer
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentComponent.ResetTimer
+  nameWithType: StatusAlimentComponent.ResetTimer
+- uid: CroD.Robot.Status.StatusAlimentComponent.RestoreProgress(System.Int32)
+  name: RestoreProgress(Int32)
+  href: api/CroD.Robot.Status.StatusAlimentComponent.html#CroD_Robot_Status_StatusAlimentComponent_RestoreProgress_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentComponent.RestoreProgress(System.Int32)
+  fullName: CroD.Robot.Status.StatusAlimentComponent.RestoreProgress(System.Int32)
+  nameWithType: StatusAlimentComponent.RestoreProgress(Int32)
+- uid: CroD.Robot.Status.StatusAlimentComponent.RestoreProgress*
+  name: RestoreProgress
+  href: api/CroD.Robot.Status.StatusAlimentComponent.html#CroD_Robot_Status_StatusAlimentComponent_RestoreProgress_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentComponent.RestoreProgress
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentComponent.RestoreProgress
+  nameWithType: StatusAlimentComponent.RestoreProgress
+- uid: CroD.Robot.Status.StatusAlimentFactory
+  name: StatusAlimentFactory
+  href: api/CroD.Robot.Status.StatusAlimentFactory.html
+  commentId: T:CroD.Robot.Status.StatusAlimentFactory
+  fullName: CroD.Robot.Status.StatusAlimentFactory
+  nameWithType: StatusAlimentFactory
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder
+  name: StatusAlimentFactory.Builder
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html
+  commentId: T:CroD.Robot.Status.StatusAlimentFactory.Builder
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder
+  nameWithType: StatusAlimentFactory.Builder
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.#ctor(System.Single)
+  name: Builder(Single)
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder__ctor_System_Single_
+  commentId: M:CroD.Robot.Status.StatusAlimentFactory.Builder.#ctor(System.Single)
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.Builder(System.Single)
+  nameWithType: StatusAlimentFactory.Builder.Builder(Single)
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.#ctor*
+  name: Builder
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder__ctor_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentFactory.Builder.#ctor
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.Builder
+  nameWithType: StatusAlimentFactory.Builder.Builder
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single},System.Int32)
+  name: FallSynchrony(StatusAilmentType, ConstantStatusHolder<Int32>, List<Single>, Int32)
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_FallSynchrony_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Collections_Generic_List_System_Single__System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single},System.Int32)
+  name.vb: FallSynchrony(StatusAilmentType, ConstantStatusHolder(Of Int32), List(Of Single), Int32)
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.ConstantStatusHolder<System.Int32>, System.Collections.Generic.List<System.Single>, System.Int32)
+  fullName.vb: CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.ConstantStatusHolder(Of System.Int32), System.Collections.Generic.List(Of System.Single), System.Int32)
+  nameWithType: StatusAlimentFactory.Builder.FallSynchrony(StatusAilmentType, ConstantStatusHolder<Int32>, List<Single>, Int32)
+  nameWithType.vb: StatusAlimentFactory.Builder.FallSynchrony(StatusAilmentType, ConstantStatusHolder(Of Int32), List(Of Single), Int32)
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single,System.Int32)
+  name: FallSynchrony(StatusAilmentType, ConstantStatusHolder<Int32>, Single, Int32)
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_FallSynchrony_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Single_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single,System.Int32)
+  name.vb: FallSynchrony(StatusAilmentType, ConstantStatusHolder(Of Int32), Single, Int32)
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.ConstantStatusHolder<System.Int32>, System.Single, System.Int32)
+  fullName.vb: CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.ConstantStatusHolder(Of System.Int32), System.Single, System.Int32)
+  nameWithType: StatusAlimentFactory.Builder.FallSynchrony(StatusAilmentType, ConstantStatusHolder<Int32>, Single, Int32)
+  nameWithType.vb: StatusAlimentFactory.Builder.FallSynchrony(StatusAilmentType, ConstantStatusHolder(Of Int32), Single, Int32)
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony*
+  name: FallSynchrony
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_FallSynchrony_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony
+  nameWithType: StatusAlimentFactory.Builder.FallSynchrony
+- uid: CroD.Robot.Status.StatusAliments
+  name: CroD.Robot.Status.StatusAliments
+  href: api/CroD.Robot.Status.StatusAliments.html
+  commentId: N:CroD.Robot.Status.StatusAliments
+  fullName: CroD.Robot.Status.StatusAliments
+  nameWithType: CroD.Robot.Status.StatusAliments
+- uid: CroD.Robot.Status.StatusAliments.BlockRockOn
+  name: BlockRockOn
+  href: api/CroD.Robot.Status.StatusAliments.BlockRockOn.html
+  commentId: T:CroD.Robot.Status.StatusAliments.BlockRockOn
+  fullName: CroD.Robot.Status.StatusAliments.BlockRockOn
+  nameWithType: BlockRockOn
+- uid: CroD.Robot.Status.StatusAliments.BlockRockOn.AlimentFinalize
+  name: AlimentFinalize()
+  href: api/CroD.Robot.Status.StatusAliments.BlockRockOn.html#CroD_Robot_Status_StatusAliments_BlockRockOn_AlimentFinalize
+  commentId: M:CroD.Robot.Status.StatusAliments.BlockRockOn.AlimentFinalize
+  fullName: CroD.Robot.Status.StatusAliments.BlockRockOn.AlimentFinalize()
+  nameWithType: BlockRockOn.AlimentFinalize()
+- uid: CroD.Robot.Status.StatusAliments.BlockRockOn.AlimentFinalize*
+  name: AlimentFinalize
+  href: api/CroD.Robot.Status.StatusAliments.BlockRockOn.html#CroD_Robot_Status_StatusAliments_BlockRockOn_AlimentFinalize_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.BlockRockOn.AlimentFinalize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.BlockRockOn.AlimentFinalize
+  nameWithType: BlockRockOn.AlimentFinalize
+- uid: CroD.Robot.Status.StatusAliments.BlockRockOn.AlimentInitialize(System.Int32)
+  name: AlimentInitialize(Int32)
+  href: api/CroD.Robot.Status.StatusAliments.BlockRockOn.html#CroD_Robot_Status_StatusAliments_BlockRockOn_AlimentInitialize_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliments.BlockRockOn.AlimentInitialize(System.Int32)
+  fullName: CroD.Robot.Status.StatusAliments.BlockRockOn.AlimentInitialize(System.Int32)
+  nameWithType: BlockRockOn.AlimentInitialize(Int32)
+- uid: CroD.Robot.Status.StatusAliments.BlockRockOn.AlimentInitialize*
+  name: AlimentInitialize
+  href: api/CroD.Robot.Status.StatusAliments.BlockRockOn.html#CroD_Robot_Status_StatusAliments_BlockRockOn_AlimentInitialize_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.BlockRockOn.AlimentInitialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.BlockRockOn.AlimentInitialize
+  nameWithType: BlockRockOn.AlimentInitialize
+- uid: CroD.Robot.Status.StatusAliments.BlockRockOn.SetProgress(System.Int32)
+  name: SetProgress(Int32)
+  href: api/CroD.Robot.Status.StatusAliments.BlockRockOn.html#CroD_Robot_Status_StatusAliments_BlockRockOn_SetProgress_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliments.BlockRockOn.SetProgress(System.Int32)
+  fullName: CroD.Robot.Status.StatusAliments.BlockRockOn.SetProgress(System.Int32)
+  nameWithType: BlockRockOn.SetProgress(Int32)
+- uid: CroD.Robot.Status.StatusAliments.BlockRockOn.SetProgress*
+  name: SetProgress
+  href: api/CroD.Robot.Status.StatusAliments.BlockRockOn.html#CroD_Robot_Status_StatusAliments_BlockRockOn_SetProgress_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.BlockRockOn.SetProgress
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.BlockRockOn.SetProgress
+  nameWithType: BlockRockOn.SetProgress
+- uid: CroD.Robot.Status.StatusAliments.FallPrecisely
+  name: FallPrecisely
+  href: api/CroD.Robot.Status.StatusAliments.FallPrecisely.html
+  commentId: T:CroD.Robot.Status.StatusAliments.FallPrecisely
+  fullName: CroD.Robot.Status.StatusAliments.FallPrecisely
+  nameWithType: FallPrecisely
+- uid: CroD.Robot.Status.StatusAliments.FallPrecisely.#ctor(CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single})
+  name: FallPrecisely(ConstantStatusHolder<Int32>, List<Single>)
+  href: api/CroD.Robot.Status.StatusAliments.FallPrecisely.html#CroD_Robot_Status_StatusAliments_FallPrecisely__ctor_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Collections_Generic_List_System_Single__
+  commentId: M:CroD.Robot.Status.StatusAliments.FallPrecisely.#ctor(CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single})
+  name.vb: FallPrecisely(ConstantStatusHolder(Of Int32), List(Of Single))
+  fullName: CroD.Robot.Status.StatusAliments.FallPrecisely.FallPrecisely(CroD.Robot.Status.ConstantStatusHolder<System.Int32>, System.Collections.Generic.List<System.Single>)
+  fullName.vb: CroD.Robot.Status.StatusAliments.FallPrecisely.FallPrecisely(CroD.Robot.Status.ConstantStatusHolder(Of System.Int32), System.Collections.Generic.List(Of System.Single))
+  nameWithType: FallPrecisely.FallPrecisely(ConstantStatusHolder<Int32>, List<Single>)
+  nameWithType.vb: FallPrecisely.FallPrecisely(ConstantStatusHolder(Of Int32), List(Of Single))
+- uid: CroD.Robot.Status.StatusAliments.FallPrecisely.#ctor(CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single)
+  name: FallPrecisely(ConstantStatusHolder<Int32>, Single)
+  href: api/CroD.Robot.Status.StatusAliments.FallPrecisely.html#CroD_Robot_Status_StatusAliments_FallPrecisely__ctor_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Single_
+  commentId: M:CroD.Robot.Status.StatusAliments.FallPrecisely.#ctor(CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single)
+  name.vb: FallPrecisely(ConstantStatusHolder(Of Int32), Single)
+  fullName: CroD.Robot.Status.StatusAliments.FallPrecisely.FallPrecisely(CroD.Robot.Status.ConstantStatusHolder<System.Int32>, System.Single)
+  fullName.vb: CroD.Robot.Status.StatusAliments.FallPrecisely.FallPrecisely(CroD.Robot.Status.ConstantStatusHolder(Of System.Int32), System.Single)
+  nameWithType: FallPrecisely.FallPrecisely(ConstantStatusHolder<Int32>, Single)
+  nameWithType.vb: FallPrecisely.FallPrecisely(ConstantStatusHolder(Of Int32), Single)
+- uid: CroD.Robot.Status.StatusAliments.FallPrecisely.#ctor*
+  name: FallPrecisely
+  href: api/CroD.Robot.Status.StatusAliments.FallPrecisely.html#CroD_Robot_Status_StatusAliments_FallPrecisely__ctor_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.FallPrecisely.#ctor
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.FallPrecisely.FallPrecisely
+  nameWithType: FallPrecisely.FallPrecisely
+- uid: CroD.Robot.Status.StatusAliments.FallPrecisely.AlimentFinalize
+  name: AlimentFinalize()
+  href: api/CroD.Robot.Status.StatusAliments.FallPrecisely.html#CroD_Robot_Status_StatusAliments_FallPrecisely_AlimentFinalize
+  commentId: M:CroD.Robot.Status.StatusAliments.FallPrecisely.AlimentFinalize
+  fullName: CroD.Robot.Status.StatusAliments.FallPrecisely.AlimentFinalize()
+  nameWithType: FallPrecisely.AlimentFinalize()
+- uid: CroD.Robot.Status.StatusAliments.FallPrecisely.AlimentFinalize*
+  name: AlimentFinalize
+  href: api/CroD.Robot.Status.StatusAliments.FallPrecisely.html#CroD_Robot_Status_StatusAliments_FallPrecisely_AlimentFinalize_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.FallPrecisely.AlimentFinalize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.FallPrecisely.AlimentFinalize
+  nameWithType: FallPrecisely.AlimentFinalize
+- uid: CroD.Robot.Status.StatusAliments.FallPrecisely.AlimentInitialize(System.Int32)
+  name: AlimentInitialize(Int32)
+  href: api/CroD.Robot.Status.StatusAliments.FallPrecisely.html#CroD_Robot_Status_StatusAliments_FallPrecisely_AlimentInitialize_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliments.FallPrecisely.AlimentInitialize(System.Int32)
+  fullName: CroD.Robot.Status.StatusAliments.FallPrecisely.AlimentInitialize(System.Int32)
+  nameWithType: FallPrecisely.AlimentInitialize(Int32)
+- uid: CroD.Robot.Status.StatusAliments.FallPrecisely.AlimentInitialize*
+  name: AlimentInitialize
+  href: api/CroD.Robot.Status.StatusAliments.FallPrecisely.html#CroD_Robot_Status_StatusAliments_FallPrecisely_AlimentInitialize_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.FallPrecisely.AlimentInitialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.FallPrecisely.AlimentInitialize
+  nameWithType: FallPrecisely.AlimentInitialize
+- uid: CroD.Robot.Status.StatusAliments.FallPrecisely.SetProgress(System.Int32)
+  name: SetProgress(Int32)
+  href: api/CroD.Robot.Status.StatusAliments.FallPrecisely.html#CroD_Robot_Status_StatusAliments_FallPrecisely_SetProgress_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliments.FallPrecisely.SetProgress(System.Int32)
+  fullName: CroD.Robot.Status.StatusAliments.FallPrecisely.SetProgress(System.Int32)
+  nameWithType: FallPrecisely.SetProgress(Int32)
+- uid: CroD.Robot.Status.StatusAliments.FallPrecisely.SetProgress*
+  name: SetProgress
+  href: api/CroD.Robot.Status.StatusAliments.FallPrecisely.html#CroD_Robot_Status_StatusAliments_FallPrecisely_SetProgress_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.FallPrecisely.SetProgress
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.FallPrecisely.SetProgress
+  nameWithType: FallPrecisely.SetProgress
+- uid: CroD.Robot.Status.StatusAliments.FallSpeed
+  name: FallSpeed
+  href: api/CroD.Robot.Status.StatusAliments.FallSpeed.html
+  commentId: T:CroD.Robot.Status.StatusAliments.FallSpeed
+  fullName: CroD.Robot.Status.StatusAliments.FallSpeed
+  nameWithType: FallSpeed
+- uid: CroD.Robot.Status.StatusAliments.FallSpeed.AlimentFinalize
+  name: AlimentFinalize()
+  href: api/CroD.Robot.Status.StatusAliments.FallSpeed.html#CroD_Robot_Status_StatusAliments_FallSpeed_AlimentFinalize
+  commentId: M:CroD.Robot.Status.StatusAliments.FallSpeed.AlimentFinalize
+  fullName: CroD.Robot.Status.StatusAliments.FallSpeed.AlimentFinalize()
+  nameWithType: FallSpeed.AlimentFinalize()
+- uid: CroD.Robot.Status.StatusAliments.FallSpeed.AlimentFinalize*
+  name: AlimentFinalize
+  href: api/CroD.Robot.Status.StatusAliments.FallSpeed.html#CroD_Robot_Status_StatusAliments_FallSpeed_AlimentFinalize_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.FallSpeed.AlimentFinalize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.FallSpeed.AlimentFinalize
+  nameWithType: FallSpeed.AlimentFinalize
+- uid: CroD.Robot.Status.StatusAliments.FallSpeed.AlimentInitialize(System.Int32)
+  name: AlimentInitialize(Int32)
+  href: api/CroD.Robot.Status.StatusAliments.FallSpeed.html#CroD_Robot_Status_StatusAliments_FallSpeed_AlimentInitialize_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliments.FallSpeed.AlimentInitialize(System.Int32)
+  fullName: CroD.Robot.Status.StatusAliments.FallSpeed.AlimentInitialize(System.Int32)
+  nameWithType: FallSpeed.AlimentInitialize(Int32)
+- uid: CroD.Robot.Status.StatusAliments.FallSpeed.AlimentInitialize*
+  name: AlimentInitialize
+  href: api/CroD.Robot.Status.StatusAliments.FallSpeed.html#CroD_Robot_Status_StatusAliments_FallSpeed_AlimentInitialize_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.FallSpeed.AlimentInitialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.FallSpeed.AlimentInitialize
+  nameWithType: FallSpeed.AlimentInitialize
+- uid: CroD.Robot.Status.StatusAliments.FallSpeed.SetProgress(System.Int32)
+  name: SetProgress(Int32)
+  href: api/CroD.Robot.Status.StatusAliments.FallSpeed.html#CroD_Robot_Status_StatusAliments_FallSpeed_SetProgress_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliments.FallSpeed.SetProgress(System.Int32)
+  fullName: CroD.Robot.Status.StatusAliments.FallSpeed.SetProgress(System.Int32)
+  nameWithType: FallSpeed.SetProgress(Int32)
+- uid: CroD.Robot.Status.StatusAliments.FallSpeed.SetProgress*
+  name: SetProgress
+  href: api/CroD.Robot.Status.StatusAliments.FallSpeed.html#CroD_Robot_Status_StatusAliments_FallSpeed_SetProgress_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.FallSpeed.SetProgress
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.FallSpeed.SetProgress
+  nameWithType: FallSpeed.SetProgress
+- uid: CroD.Robot.Status.StatusAliments.FallSynchrony
+  name: FallSynchrony
+  href: api/CroD.Robot.Status.StatusAliments.FallSynchrony.html
+  commentId: T:CroD.Robot.Status.StatusAliments.FallSynchrony
+  fullName: CroD.Robot.Status.StatusAliments.FallSynchrony
+  nameWithType: FallSynchrony
+- uid: CroD.Robot.Status.StatusAliments.FallSynchrony.#ctor(CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single})
+  name: FallSynchrony(ConstantStatusHolder<Int32>, List<Single>)
+  href: api/CroD.Robot.Status.StatusAliments.FallSynchrony.html#CroD_Robot_Status_StatusAliments_FallSynchrony__ctor_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Collections_Generic_List_System_Single__
+  commentId: M:CroD.Robot.Status.StatusAliments.FallSynchrony.#ctor(CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single})
+  name.vb: FallSynchrony(ConstantStatusHolder(Of Int32), List(Of Single))
+  fullName: CroD.Robot.Status.StatusAliments.FallSynchrony.FallSynchrony(CroD.Robot.Status.ConstantStatusHolder<System.Int32>, System.Collections.Generic.List<System.Single>)
+  fullName.vb: CroD.Robot.Status.StatusAliments.FallSynchrony.FallSynchrony(CroD.Robot.Status.ConstantStatusHolder(Of System.Int32), System.Collections.Generic.List(Of System.Single))
+  nameWithType: FallSynchrony.FallSynchrony(ConstantStatusHolder<Int32>, List<Single>)
+  nameWithType.vb: FallSynchrony.FallSynchrony(ConstantStatusHolder(Of Int32), List(Of Single))
+- uid: CroD.Robot.Status.StatusAliments.FallSynchrony.#ctor(CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single)
+  name: FallSynchrony(ConstantStatusHolder<Int32>, Single)
+  href: api/CroD.Robot.Status.StatusAliments.FallSynchrony.html#CroD_Robot_Status_StatusAliments_FallSynchrony__ctor_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Single_
+  commentId: M:CroD.Robot.Status.StatusAliments.FallSynchrony.#ctor(CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single)
+  name.vb: FallSynchrony(ConstantStatusHolder(Of Int32), Single)
+  fullName: CroD.Robot.Status.StatusAliments.FallSynchrony.FallSynchrony(CroD.Robot.Status.ConstantStatusHolder<System.Int32>, System.Single)
+  fullName.vb: CroD.Robot.Status.StatusAliments.FallSynchrony.FallSynchrony(CroD.Robot.Status.ConstantStatusHolder(Of System.Int32), System.Single)
+  nameWithType: FallSynchrony.FallSynchrony(ConstantStatusHolder<Int32>, Single)
+  nameWithType.vb: FallSynchrony.FallSynchrony(ConstantStatusHolder(Of Int32), Single)
+- uid: CroD.Robot.Status.StatusAliments.FallSynchrony.#ctor*
+  name: FallSynchrony
+  href: api/CroD.Robot.Status.StatusAliments.FallSynchrony.html#CroD_Robot_Status_StatusAliments_FallSynchrony__ctor_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.FallSynchrony.#ctor
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.FallSynchrony.FallSynchrony
+  nameWithType: FallSynchrony.FallSynchrony
+- uid: CroD.Robot.Status.StatusAliments.FallSynchrony.AlimentFinalize
+  name: AlimentFinalize()
+  href: api/CroD.Robot.Status.StatusAliments.FallSynchrony.html#CroD_Robot_Status_StatusAliments_FallSynchrony_AlimentFinalize
+  commentId: M:CroD.Robot.Status.StatusAliments.FallSynchrony.AlimentFinalize
+  fullName: CroD.Robot.Status.StatusAliments.FallSynchrony.AlimentFinalize()
+  nameWithType: FallSynchrony.AlimentFinalize()
+- uid: CroD.Robot.Status.StatusAliments.FallSynchrony.AlimentFinalize*
+  name: AlimentFinalize
+  href: api/CroD.Robot.Status.StatusAliments.FallSynchrony.html#CroD_Robot_Status_StatusAliments_FallSynchrony_AlimentFinalize_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.FallSynchrony.AlimentFinalize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.FallSynchrony.AlimentFinalize
+  nameWithType: FallSynchrony.AlimentFinalize
+- uid: CroD.Robot.Status.StatusAliments.FallSynchrony.AlimentInitialize(System.Int32)
+  name: AlimentInitialize(Int32)
+  href: api/CroD.Robot.Status.StatusAliments.FallSynchrony.html#CroD_Robot_Status_StatusAliments_FallSynchrony_AlimentInitialize_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliments.FallSynchrony.AlimentInitialize(System.Int32)
+  fullName: CroD.Robot.Status.StatusAliments.FallSynchrony.AlimentInitialize(System.Int32)
+  nameWithType: FallSynchrony.AlimentInitialize(Int32)
+- uid: CroD.Robot.Status.StatusAliments.FallSynchrony.AlimentInitialize*
+  name: AlimentInitialize
+  href: api/CroD.Robot.Status.StatusAliments.FallSynchrony.html#CroD_Robot_Status_StatusAliments_FallSynchrony_AlimentInitialize_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.FallSynchrony.AlimentInitialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.FallSynchrony.AlimentInitialize
+  nameWithType: FallSynchrony.AlimentInitialize
+- uid: CroD.Robot.Status.StatusAliments.FallSynchrony.SetProgress(System.Int32)
+  name: SetProgress(Int32)
+  href: api/CroD.Robot.Status.StatusAliments.FallSynchrony.html#CroD_Robot_Status_StatusAliments_FallSynchrony_SetProgress_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliments.FallSynchrony.SetProgress(System.Int32)
+  fullName: CroD.Robot.Status.StatusAliments.FallSynchrony.SetProgress(System.Int32)
+  nameWithType: FallSynchrony.SetProgress(Int32)
+- uid: CroD.Robot.Status.StatusAliments.FallSynchrony.SetProgress*
+  name: SetProgress
+  href: api/CroD.Robot.Status.StatusAliments.FallSynchrony.html#CroD_Robot_Status_StatusAliments_FallSynchrony_SetProgress_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.FallSynchrony.SetProgress
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.FallSynchrony.SetProgress
+  nameWithType: FallSynchrony.SetProgress
+- uid: CroD.Robot.Status.StatusOnGauge
+  name: CroD.Robot.Status.StatusOnGauge
+  href: api/CroD.Robot.Status.StatusOnGauge.html
+  commentId: N:CroD.Robot.Status.StatusOnGauge
+  fullName: CroD.Robot.Status.StatusOnGauge
+  nameWithType: CroD.Robot.Status.StatusOnGauge
+- uid: CroD.Robot.Status.StatusOnGauge.Boost
+  name: Boost
+  href: api/CroD.Robot.Status.StatusOnGauge.Boost.html
+  commentId: T:CroD.Robot.Status.StatusOnGauge.Boost
+  fullName: CroD.Robot.Status.StatusOnGauge.Boost
+  nameWithType: Boost
+- uid: CroD.Robot.Status.StatusOnGauge.Boost.OnChangePreciseMobility(System.Int32)
+  name: OnChangePreciseMobility(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.Boost.html#CroD_Robot_Status_StatusOnGauge_Boost_OnChangePreciseMobility_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.Boost.OnChangePreciseMobility(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.Boost.OnChangePreciseMobility(System.Int32)
+  nameWithType: Boost.OnChangePreciseMobility(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.Boost.OnChangePreciseMobility*
+  name: OnChangePreciseMobility
+  href: api/CroD.Robot.Status.StatusOnGauge.Boost.html#CroD_Robot_Status_StatusOnGauge_Boost_OnChangePreciseMobility_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.Boost.OnChangePreciseMobility
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.Boost.OnChangePreciseMobility
+  nameWithType: Boost.OnChangePreciseMobility
+- uid: CroD.Robot.Status.StatusOnGauge.Boost.OnChangeSynchrony(System.Int32)
+  name: OnChangeSynchrony(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.Boost.html#CroD_Robot_Status_StatusOnGauge_Boost_OnChangeSynchrony_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.Boost.OnChangeSynchrony(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.Boost.OnChangeSynchrony(System.Int32)
+  nameWithType: Boost.OnChangeSynchrony(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.Boost.OnChangeSynchrony*
+  name: OnChangeSynchrony
+  href: api/CroD.Robot.Status.StatusOnGauge.Boost.html#CroD_Robot_Status_StatusOnGauge_Boost_OnChangeSynchrony_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.Boost.OnChangeSynchrony
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.Boost.OnChangeSynchrony
+  nameWithType: Boost.OnChangeSynchrony
+- uid: CroD.Robot.Status.StatusOnGauge.Boost.OnChangeUnitPower(System.Int32)
+  name: OnChangeUnitPower(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.Boost.html#CroD_Robot_Status_StatusOnGauge_Boost_OnChangeUnitPower_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.Boost.OnChangeUnitPower(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.Boost.OnChangeUnitPower(System.Int32)
+  nameWithType: Boost.OnChangeUnitPower(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.Boost.OnChangeUnitPower*
+  name: OnChangeUnitPower
+  href: api/CroD.Robot.Status.StatusOnGauge.Boost.html#CroD_Robot_Status_StatusOnGauge_Boost_OnChangeUnitPower_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.Boost.OnChangeUnitPower
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.Boost.OnChangeUnitPower
+  nameWithType: Boost.OnChangeUnitPower
+- uid: CroD.Robot.Status.StatusOnGauge.Boost.ReduceInBoost
+  name: ReduceInBoost()
+  href: api/CroD.Robot.Status.StatusOnGauge.Boost.html#CroD_Robot_Status_StatusOnGauge_Boost_ReduceInBoost
+  commentId: M:CroD.Robot.Status.StatusOnGauge.Boost.ReduceInBoost
+  fullName: CroD.Robot.Status.StatusOnGauge.Boost.ReduceInBoost()
+  nameWithType: Boost.ReduceInBoost()
+- uid: CroD.Robot.Status.StatusOnGauge.Boost.ReduceInBoost*
+  name: ReduceInBoost
+  href: api/CroD.Robot.Status.StatusOnGauge.Boost.html#CroD_Robot_Status_StatusOnGauge_Boost_ReduceInBoost_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.Boost.ReduceInBoost
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.Boost.ReduceInBoost
+  nameWithType: Boost.ReduceInBoost
+- uid: CroD.Robot.Status.StatusOnGauge.Boost.SpecificInitialize(UnityEngine.GameObject)
+  name: SpecificInitialize(GameObject)
+  href: api/CroD.Robot.Status.StatusOnGauge.Boost.html#CroD_Robot_Status_StatusOnGauge_Boost_SpecificInitialize_UnityEngine_GameObject_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.Boost.SpecificInitialize(UnityEngine.GameObject)
+  fullName: CroD.Robot.Status.StatusOnGauge.Boost.SpecificInitialize(UnityEngine.GameObject)
+  nameWithType: Boost.SpecificInitialize(GameObject)
+- uid: CroD.Robot.Status.StatusOnGauge.Boost.SpecificInitialize*
+  name: SpecificInitialize
+  href: api/CroD.Robot.Status.StatusOnGauge.Boost.html#CroD_Robot_Status_StatusOnGauge_Boost_SpecificInitialize_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.Boost.SpecificInitialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.Boost.SpecificInitialize
+  nameWithType: Boost.SpecificInitialize
+- uid: CroD.Robot.Status.StatusOnGauge.HP
+  name: HP
+  href: api/CroD.Robot.Status.StatusOnGauge.HP.html
+  commentId: T:CroD.Robot.Status.StatusOnGauge.HP
+  fullName: CroD.Robot.Status.StatusOnGauge.HP
+  nameWithType: HP
+- uid: CroD.Robot.Status.StatusOnGauge.HP.Increase(System.Int32)
+  name: Increase(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.HP.html#CroD_Robot_Status_StatusOnGauge_HP_Increase_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.HP.Increase(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.HP.Increase(System.Int32)
+  nameWithType: HP.Increase(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.HP.Increase*
+  name: Increase
+  href: api/CroD.Robot.Status.StatusOnGauge.HP.html#CroD_Robot_Status_StatusOnGauge_HP_Increase_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.HP.Increase
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.HP.Increase
+  nameWithType: HP.Increase
+- uid: CroD.Robot.Status.StatusOnGauge.HP.OnChangeMaxHP(System.Int32)
+  name: OnChangeMaxHP(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.HP.html#CroD_Robot_Status_StatusOnGauge_HP_OnChangeMaxHP_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.HP.OnChangeMaxHP(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.HP.OnChangeMaxHP(System.Int32)
+  nameWithType: HP.OnChangeMaxHP(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.HP.OnChangeMaxHP*
+  name: OnChangeMaxHP
+  href: api/CroD.Robot.Status.StatusOnGauge.HP.html#CroD_Robot_Status_StatusOnGauge_HP_OnChangeMaxHP_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.HP.OnChangeMaxHP
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.HP.OnChangeMaxHP
+  nameWithType: HP.OnChangeMaxHP
+- uid: CroD.Robot.Status.StatusOnGauge.HP.Reduce(System.Int32)
+  name: Reduce(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.HP.html#CroD_Robot_Status_StatusOnGauge_HP_Reduce_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.HP.Reduce(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.HP.Reduce(System.Int32)
+  nameWithType: HP.Reduce(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.HP.Reduce*
+  name: Reduce
+  href: api/CroD.Robot.Status.StatusOnGauge.HP.html#CroD_Robot_Status_StatusOnGauge_HP_Reduce_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.HP.Reduce
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.HP.Reduce
+  nameWithType: HP.Reduce
+- uid: CroD.Robot.Status.StatusOnGauge.Insanity
+  name: Insanity
+  href: api/CroD.Robot.Status.StatusOnGauge.Insanity.html
+  commentId: T:CroD.Robot.Status.StatusOnGauge.Insanity
+  fullName: CroD.Robot.Status.StatusOnGauge.Insanity
+  nameWithType: Insanity
+- uid: CroD.Robot.Status.StatusOnGauge.Insanity.Increase(System.Int32)
+  name: Increase(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.Insanity.html#CroD_Robot_Status_StatusOnGauge_Insanity_Increase_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.Insanity.Increase(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.Insanity.Increase(System.Int32)
+  nameWithType: Insanity.Increase(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.Insanity.Increase*
+  name: Increase
+  href: api/CroD.Robot.Status.StatusOnGauge.Insanity.html#CroD_Robot_Status_StatusOnGauge_Insanity_Increase_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.Insanity.Increase
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.Insanity.Increase
+  nameWithType: Insanity.Increase
+- uid: CroD.Robot.Status.StatusOnGauge.Insanity.OnChangeMaxInsanity(System.Int32)
+  name: OnChangeMaxInsanity(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.Insanity.html#CroD_Robot_Status_StatusOnGauge_Insanity_OnChangeMaxInsanity_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.Insanity.OnChangeMaxInsanity(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.Insanity.OnChangeMaxInsanity(System.Int32)
+  nameWithType: Insanity.OnChangeMaxInsanity(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.Insanity.OnChangeMaxInsanity*
+  name: OnChangeMaxInsanity
+  href: api/CroD.Robot.Status.StatusOnGauge.Insanity.html#CroD_Robot_Status_StatusOnGauge_Insanity_OnChangeMaxInsanity_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.Insanity.OnChangeMaxInsanity
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.Insanity.OnChangeMaxInsanity
+  nameWithType: Insanity.OnChangeMaxInsanity
+- uid: CroD.Robot.Status.StatusOnGauge.Resource
+  name: Resource
+  href: api/CroD.Robot.Status.StatusOnGauge.Resource.html
+  commentId: T:CroD.Robot.Status.StatusOnGauge.Resource
+  fullName: CroD.Robot.Status.StatusOnGauge.Resource
+  nameWithType: Resource
+- uid: CroD.Robot.Status.StatusOnGauge.Resource.OnChangePreciseMobility(System.Int32)
+  name: OnChangePreciseMobility(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.Resource.html#CroD_Robot_Status_StatusOnGauge_Resource_OnChangePreciseMobility_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.Resource.OnChangePreciseMobility(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.Resource.OnChangePreciseMobility(System.Int32)
+  nameWithType: Resource.OnChangePreciseMobility(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.Resource.OnChangePreciseMobility*
+  name: OnChangePreciseMobility
+  href: api/CroD.Robot.Status.StatusOnGauge.Resource.html#CroD_Robot_Status_StatusOnGauge_Resource_OnChangePreciseMobility_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.Resource.OnChangePreciseMobility
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.Resource.OnChangePreciseMobility
+  nameWithType: Resource.OnChangePreciseMobility
+- uid: CroD.Robot.Status.StatusOnGauge.Resource.OnChangeSynchrony(System.Int32)
+  name: OnChangeSynchrony(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.Resource.html#CroD_Robot_Status_StatusOnGauge_Resource_OnChangeSynchrony_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.Resource.OnChangeSynchrony(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.Resource.OnChangeSynchrony(System.Int32)
+  nameWithType: Resource.OnChangeSynchrony(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.Resource.OnChangeSynchrony*
+  name: OnChangeSynchrony
+  href: api/CroD.Robot.Status.StatusOnGauge.Resource.html#CroD_Robot_Status_StatusOnGauge_Resource_OnChangeSynchrony_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.Resource.OnChangeSynchrony
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.Resource.OnChangeSynchrony
+  nameWithType: Resource.OnChangeSynchrony
+- uid: CroD.Robot.Status.StatusOnGauge.Resource.OnChangeUnitPower(System.Int32)
+  name: OnChangeUnitPower(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.Resource.html#CroD_Robot_Status_StatusOnGauge_Resource_OnChangeUnitPower_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.Resource.OnChangeUnitPower(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.Resource.OnChangeUnitPower(System.Int32)
+  nameWithType: Resource.OnChangeUnitPower(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.Resource.OnChangeUnitPower*
+  name: OnChangeUnitPower
+  href: api/CroD.Robot.Status.StatusOnGauge.Resource.html#CroD_Robot_Status_StatusOnGauge_Resource_OnChangeUnitPower_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.Resource.OnChangeUnitPower
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.Resource.OnChangeUnitPower
+  nameWithType: Resource.OnChangeUnitPower
+- uid: CroD.Robot.Status.StatusOnGauge.Resource.Reduce(System.Int32)
+  name: Reduce(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.Resource.html#CroD_Robot_Status_StatusOnGauge_Resource_Reduce_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.Resource.Reduce(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.Resource.Reduce(System.Int32)
+  nameWithType: Resource.Reduce(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.Resource.Reduce*
+  name: Reduce
+  href: api/CroD.Robot.Status.StatusOnGauge.Resource.html#CroD_Robot_Status_StatusOnGauge_Resource_Reduce_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.Resource.Reduce
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.Resource.Reduce
+  nameWithType: Resource.Reduce
+- uid: CroD.Robot.Status.StatusOnGauge.Resource.SpecificInitialize(UnityEngine.GameObject)
+  name: SpecificInitialize(GameObject)
+  href: api/CroD.Robot.Status.StatusOnGauge.Resource.html#CroD_Robot_Status_StatusOnGauge_Resource_SpecificInitialize_UnityEngine_GameObject_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.Resource.SpecificInitialize(UnityEngine.GameObject)
+  fullName: CroD.Robot.Status.StatusOnGauge.Resource.SpecificInitialize(UnityEngine.GameObject)
+  nameWithType: Resource.SpecificInitialize(GameObject)
+- uid: CroD.Robot.Status.StatusOnGauge.Resource.SpecificInitialize*
+  name: SpecificInitialize
+  href: api/CroD.Robot.Status.StatusOnGauge.Resource.html#CroD_Robot_Status_StatusOnGauge_Resource_SpecificInitialize_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.Resource.SpecificInitialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.Resource.SpecificInitialize
+  nameWithType: Resource.SpecificInitialize
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase
+  name: StatusOnGaugeBase
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html
+  commentId: T:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase
+  nameWithType: StatusOnGaugeBase
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.#ctor
+  name: StatusOnGaugeBase()
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase__ctor
+  commentId: M:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.#ctor
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.StatusOnGaugeBase()
+  nameWithType: StatusOnGaugeBase.StatusOnGaugeBase()
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.#ctor*
+  name: StatusOnGaugeBase
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase__ctor_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.#ctor
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.StatusOnGaugeBase
+  nameWithType: StatusOnGaugeBase.StatusOnGaugeBase
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.changeValueSubject
+  name: changeValueSubject
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_changeValueSubject
+  commentId: F:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.changeValueSubject
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.changeValueSubject
+  nameWithType: StatusOnGaugeBase.changeValueSubject
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Initialize(System.Single,UnityEngine.GameObject)
+  name: Initialize(Single, GameObject)
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Initialize_System_Single_UnityEngine_GameObject_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Initialize(System.Single,UnityEngine.GameObject)
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Initialize(System.Single, UnityEngine.GameObject)
+  nameWithType: StatusOnGaugeBase.Initialize(Single, GameObject)
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Initialize*
+  name: Initialize
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Initialize_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Initialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Initialize
+  nameWithType: StatusOnGaugeBase.Initialize
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.MAX
+  name: MAX
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_MAX
+  commentId: P:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.MAX
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.MAX
+  nameWithType: StatusOnGaugeBase.MAX
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.MAX*
+  name: MAX
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_MAX_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.MAX
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.MAX
+  nameWithType: StatusOnGaugeBase.MAX
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.SpecificInitialize(UnityEngine.GameObject)
+  name: SpecificInitialize(GameObject)
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_SpecificInitialize_UnityEngine_GameObject_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.SpecificInitialize(UnityEngine.GameObject)
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.SpecificInitialize(UnityEngine.GameObject)
+  nameWithType: StatusOnGaugeBase.SpecificInitialize(GameObject)
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.SpecificInitialize*
+  name: SpecificInitialize
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_SpecificInitialize_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.SpecificInitialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.SpecificInitialize
+  nameWithType: StatusOnGaugeBase.SpecificInitialize
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver{System.Int32})
+  name: Subscribe(IObserver<Int32>)
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Subscribe_UniRx_IObserver_System_Int32__
+  commentId: M:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver{System.Int32})
+  name.vb: Subscribe(IObserver(Of Int32))
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver<System.Int32>)
+  fullName.vb: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver(Of System.Int32))
+  nameWithType: StatusOnGaugeBase.Subscribe(IObserver<Int32>)
+  nameWithType.vb: StatusOnGaugeBase.Subscribe(IObserver(Of Int32))
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe*
+  name: Subscribe
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Subscribe_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe
+  nameWithType: StatusOnGaugeBase.Subscribe
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Value
+  name: Value
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Value
+  commentId: P:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Value
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Value
+  nameWithType: StatusOnGaugeBase.Value
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Value*
+  name: Value
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Value_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Value
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Value
+  nameWithType: StatusOnGaugeBase.Value
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.WithInRange(System.Int32)
+  name: WithInRange(Int32)
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_WithInRange_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.WithInRange(System.Int32)
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.WithInRange(System.Int32)
+  nameWithType: StatusOnGaugeBase.WithInRange(Int32)
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.WithInRange*
+  name: WithInRange
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_WithInRange_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.WithInRange
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.WithInRange
+  nameWithType: StatusOnGaugeBase.WithInRange
+- uid: CroD.UI
+  name: CroD.UI
+  href: api/CroD.UI.html
+  commentId: N:CroD.UI
+  fullName: CroD.UI
+  nameWithType: CroD.UI
+- uid: CroD.UI.GaugeManager
+  name: GaugeManager
+  href: api/CroD.UI.GaugeManager.html
+  commentId: T:CroD.UI.GaugeManager
+  fullName: CroD.UI.GaugeManager
+  nameWithType: GaugeManager
+- uid: CroD.UI.GaugeManager.HPGaugeRegister(CroD.UI.HPGauge)
+  name: HPGaugeRegister(HPGauge)
+  href: api/CroD.UI.GaugeManager.html#CroD_UI_GaugeManager_HPGaugeRegister_CroD_UI_HPGauge_
+  commentId: M:CroD.UI.GaugeManager.HPGaugeRegister(CroD.UI.HPGauge)
+  fullName: CroD.UI.GaugeManager.HPGaugeRegister(CroD.UI.HPGauge)
+  nameWithType: GaugeManager.HPGaugeRegister(HPGauge)
+- uid: CroD.UI.GaugeManager.HPGaugeRegister*
+  name: HPGaugeRegister
+  href: api/CroD.UI.GaugeManager.html#CroD_UI_GaugeManager_HPGaugeRegister_
+  commentId: Overload:CroD.UI.GaugeManager.HPGaugeRegister
+  isSpec: "True"
+  fullName: CroD.UI.GaugeManager.HPGaugeRegister
+  nameWithType: GaugeManager.HPGaugeRegister
+- uid: CroD.UI.GaugeManager.RobotRegister(CroD.Robot.Status.RobotStatus)
+  name: RobotRegister(RobotStatus)
+  href: api/CroD.UI.GaugeManager.html#CroD_UI_GaugeManager_RobotRegister_CroD_Robot_Status_RobotStatus_
+  commentId: M:CroD.UI.GaugeManager.RobotRegister(CroD.Robot.Status.RobotStatus)
+  fullName: CroD.UI.GaugeManager.RobotRegister(CroD.Robot.Status.RobotStatus)
+  nameWithType: GaugeManager.RobotRegister(RobotStatus)
+- uid: CroD.UI.GaugeManager.RobotRegister*
+  name: RobotRegister
+  href: api/CroD.UI.GaugeManager.html#CroD_UI_GaugeManager_RobotRegister_
+  commentId: Overload:CroD.UI.GaugeManager.RobotRegister
+  isSpec: "True"
+  fullName: CroD.UI.GaugeManager.RobotRegister
+  nameWithType: GaugeManager.RobotRegister
+- uid: CroD.UI.HPGauge
+  name: HPGauge
+  href: api/CroD.UI.HPGauge.html
+  commentId: T:CroD.UI.HPGauge
+  fullName: CroD.UI.HPGauge
+  nameWithType: HPGauge
+- uid: CroD.UI.HPGauge.changePropotion(System.Single)
+  name: changePropotion(Single)
+  href: api/CroD.UI.HPGauge.html#CroD_UI_HPGauge_changePropotion_System_Single_
+  commentId: M:CroD.UI.HPGauge.changePropotion(System.Single)
+  fullName: CroD.UI.HPGauge.changePropotion(System.Single)
+  nameWithType: HPGauge.changePropotion(Single)
+- uid: CroD.UI.HPGauge.changePropotion*
+  name: changePropotion
+  href: api/CroD.UI.HPGauge.html#CroD_UI_HPGauge_changePropotion_
+  commentId: Overload:CroD.UI.HPGauge.changePropotion
+  isSpec: "True"
+  fullName: CroD.UI.HPGauge.changePropotion
+  nameWithType: HPGauge.changePropotion
+- uid: CroD.UI.IGauge
+  name: IGauge
+  href: api/CroD.UI.IGauge.html
+  commentId: T:CroD.UI.IGauge
+  fullName: CroD.UI.IGauge
+  nameWithType: IGauge
+- uid: CroD.UI.IGauge.changePropotion(System.Single)
+  name: changePropotion(Single)
+  href: api/CroD.UI.IGauge.html#CroD_UI_IGauge_changePropotion_System_Single_
+  commentId: M:CroD.UI.IGauge.changePropotion(System.Single)
+  fullName: CroD.UI.IGauge.changePropotion(System.Single)
+  nameWithType: IGauge.changePropotion(Single)
+- uid: CroD.UI.IGauge.changePropotion*
+  name: changePropotion
+  href: api/CroD.UI.IGauge.html#CroD_UI_IGauge_changePropotion_
+  commentId: Overload:CroD.UI.IGauge.changePropotion
+  isSpec: "True"
+  fullName: CroD.UI.IGauge.changePropotion
+  nameWithType: IGauge.changePropotion

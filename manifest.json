@@ -1,0 +1,703 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/tomio/Desktop/Git/CroD",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Data.HyperParamater.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Data.HyperParamater.html",
+          "hash": "82ZvR2Qw33r/EjVwMJcbhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Data.PutChangeHyperParamater.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Data.PutChangeHyperParamater.html",
+          "hash": "BVa2+jpuZ6mGDitPyCYuGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Data.RefreshAilmentTimes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Data.RefreshAilmentTimes.html",
+          "hash": "3xbqGexUkNeiqIig/ZdBtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Data.RefreshAilmentTimesEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Data.RefreshAilmentTimesEvent.html",
+          "hash": "Vs6M4CsY2LLrVyPr02sliA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Data.html",
+          "hash": "QqGEc1geMYFmoET82ajw8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Input.ActionStream-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Input.ActionStream-3.html",
+          "hash": "SQW3f9cP0r66aZ8bwTBefg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Input.ButtonType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Input.ButtonType.html",
+          "hash": "lPKaKlfyZcNrHIwtWwxtgQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Input.InputTransmitter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Input.InputTransmitter.html",
+          "hash": "dY3c+L9duydH6W9rqZVT3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Input.OperatorRegister.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Input.OperatorRegister.html",
+          "hash": "JQaP8irfQSnOjkmT3NftJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Input.StickType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Input.StickType.html",
+          "hash": "rrt+ANoHBHyyjwDaSLnilw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Input.TransmitterState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Input.TransmitterState.html",
+          "hash": "xnCmdEQLzR2jRQTxNIsVnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Input.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Input.html",
+          "hash": "YO0bGYWl3Jh+GPTt40TmHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Operator.IRegister-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Operator.IRegister-1.html",
+          "hash": "i7KohnmwgfYKAwfav8uf9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Operator.OperatorID.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Operator.OperatorID.html",
+          "hash": "i3TxEtYHuUcGz7Z8Ytd+Gw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Operator.ReactiveRegistableOperator-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Operator.ReactiveRegistableOperator-1.html",
+          "hash": "/eSs4yEu6WZOke8305fMPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Operator.RegistableOperater-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Operator.RegistableOperater-1.html",
+          "hash": "K1l7mGakGqt5opqYSDl17A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Operator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Operator.html",
+          "hash": "3W1OnxAkuuqgwH071fKdiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Action.BoostState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Action.BoostState.html",
+          "hash": "rWBLC90nHG7mqeWh1F5pvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Action.MoveState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Action.MoveState.html",
+          "hash": "yF70lttviK1IkvUsgysBPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Action.RobotBooster.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Action.RobotBooster.html",
+          "hash": "hFyXxKtC2cz9yOa/0FOH9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Action.RobotMover.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Action.RobotMover.html",
+          "hash": "Hc61pdPmkw3Qpz6r6AYkgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Action.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Action.html",
+          "hash": "DSZAAG58rtuVYb9mQn9jKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.RobotOperatorSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.RobotOperatorSet.html",
+          "hash": "YDE06BN/YlW7zA6EvynNpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.ConstantStatusHolder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.ConstantStatusHolder-1.html",
+          "hash": "Gj3FlRu8DRT2e4GzxzHZQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.RobotStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.RobotStatus.html",
+          "hash": "/b2WnvmM5Tuh3xDVbVjj2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilmentType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAilmentType.html",
+          "hash": "Zeh65BxNHw9ypURjPXlNnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAliment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAliment.html",
+          "hash": "IZgfLBsj+f2hUL2Zi5nZ0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAlimentComponent.IAliment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAlimentComponent.IAliment.html",
+          "hash": "e4uX8GNPuGX8SFELtbI8KQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAlimentComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAlimentComponent.html",
+          "hash": "WdnMxOSO12ZjmLjhEGZlrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAlimentFactory.Builder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAlimentFactory.Builder.html",
+          "hash": "uA/vfcqfmCftv61wUY49fw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAlimentFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAlimentFactory.html",
+          "hash": "+b+9/n2KUdrVSJMJcAyfdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAliments.BlockRockOn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAliments.BlockRockOn.html",
+          "hash": "bVunLYch6DoEmxSrqQba9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAliments.FallPrecisely.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAliments.FallPrecisely.html",
+          "hash": "OqCcPA9M6sQsSicoFGRg+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAliments.FallSpeed.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAliments.FallSpeed.html",
+          "hash": "xVUWh4r9rODydRF0RmZJEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAliments.FallSynchrony.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAliments.FallSynchrony.html",
+          "hash": "owZK/89V6VVs8FR9vVI85g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAliments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAliments.html",
+          "hash": "fB8A9MsgYcr48I4wJKEYVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusOnGauge.Boost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusOnGauge.Boost.html",
+          "hash": "U8+1FxjznDeIf5sNjqo+hQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusOnGauge.HP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusOnGauge.HP.html",
+          "hash": "Z43RsZtEEeiDJaaSNrljDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusOnGauge.Insanity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusOnGauge.Insanity.html",
+          "hash": "4X4tyqAgXF3Ol7nVZmLTZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusOnGauge.Resource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusOnGauge.Resource.html",
+          "hash": "fVGxrWjJD/8DZa1surGpQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html",
+          "hash": "iGxRpCO1i0JvBKpJohM75w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusOnGauge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusOnGauge.html",
+          "hash": "tiqjdbd8sFLLZtlZ5JeVDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.html",
+          "hash": "E/4z2ihT7kDGYagaEKH2DQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.html",
+          "hash": "bm7tXCQ4VWlGNH6eF0vH+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.UI.GaugeManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.UI.GaugeManager.html",
+          "hash": "pjW9K3kFRc0map7FIcLTwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.UI.HPGauge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.UI.HPGauge.html",
+          "hash": "vwz7T5tVo/msGZgRc1o6gA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.UI.IGauge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.UI.IGauge.html",
+          "hash": "nE5CA7uEl5PIEXbURU/ruw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.UI.html",
+          "hash": "g+j2Q1iLKJCYFGE1PQTnnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "42l0fT5/VBR/ZL5lUNli3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "7eM83VMI/Oy7n+AE1UT/tA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "g2LpfkDDIUtq+eGXhS9Y3w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "t7iiFrmuYmrKWisdq+lN6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "O4eRyfDvkcknVCZWnXZ67g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "k+/dkjFuwAVS32HduMpmBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ManagedReferenceDocumentProcessor disable incremental build because last build doesn't contain version .",
+          "incrementalPhase": "build",
+          "total_file_count": 48,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
