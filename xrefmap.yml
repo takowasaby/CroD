@@ -1087,6 +1087,19 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.RobotStatus.CosmicGodResistance
   nameWithType: RobotStatus.CosmicGodResistance
+- uid: CroD.Robot.Status.RobotStatus.DefaultInitializeAll
+  name: DefaultInitializeAll()
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_DefaultInitializeAll
+  commentId: M:CroD.Robot.Status.RobotStatus.DefaultInitializeAll
+  fullName: CroD.Robot.Status.RobotStatus.DefaultInitializeAll()
+  nameWithType: RobotStatus.DefaultInitializeAll()
+- uid: CroD.Robot.Status.RobotStatus.DefaultInitializeAll*
+  name: DefaultInitializeAll
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_DefaultInitializeAll_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.DefaultInitializeAll
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.DefaultInitializeAll
+  nameWithType: RobotStatus.DefaultInitializeAll
 - uid: CroD.Robot.Status.RobotStatus.ExplosionResistance
   name: ExplosionResistance
   href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_ExplosionResistance
@@ -1113,6 +1126,45 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.RobotStatus.HP
   nameWithType: RobotStatus.HP
+- uid: CroD.Robot.Status.RobotStatus.InitializeGauge(System.Single,System.Single,System.Single,System.Single)
+  name: InitializeGauge(Single, Single, Single, Single)
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_InitializeGauge_System_Single_System_Single_System_Single_System_Single_
+  commentId: M:CroD.Robot.Status.RobotStatus.InitializeGauge(System.Single,System.Single,System.Single,System.Single)
+  fullName: CroD.Robot.Status.RobotStatus.InitializeGauge(System.Single, System.Single, System.Single, System.Single)
+  nameWithType: RobotStatus.InitializeGauge(Single, Single, Single, Single)
+- uid: CroD.Robot.Status.RobotStatus.InitializeGauge*
+  name: InitializeGauge
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_InitializeGauge_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.InitializeGauge
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.InitializeGauge
+  nameWithType: RobotStatus.InitializeGauge
+- uid: CroD.Robot.Status.RobotStatus.InitializeMachineSpec(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: InitializeMachineSpec(Int32, Int32, Int32, Int32, Int32)
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_InitializeMachineSpec_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:CroD.Robot.Status.RobotStatus.InitializeMachineSpec(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: CroD.Robot.Status.RobotStatus.InitializeMachineSpec(System.Int32, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: RobotStatus.InitializeMachineSpec(Int32, Int32, Int32, Int32, Int32)
+- uid: CroD.Robot.Status.RobotStatus.InitializeMachineSpec*
+  name: InitializeMachineSpec
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_InitializeMachineSpec_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.InitializeMachineSpec
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.InitializeMachineSpec
+  nameWithType: RobotStatus.InitializeMachineSpec
+- uid: CroD.Robot.Status.RobotStatus.InitializeResistance(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: InitializeResistance(Int32, Int32, Int32, Int32, Int32, Int32)
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_InitializeResistance_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:CroD.Robot.Status.RobotStatus.InitializeResistance(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: CroD.Robot.Status.RobotStatus.InitializeResistance(System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: RobotStatus.InitializeResistance(Int32, Int32, Int32, Int32, Int32, Int32)
+- uid: CroD.Robot.Status.RobotStatus.InitializeResistance*
+  name: InitializeResistance
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_InitializeResistance_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.InitializeResistance
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.InitializeResistance
+  nameWithType: RobotStatus.InitializeResistance
 - uid: CroD.Robot.Status.RobotStatus.Insanity
   name: Insanity
   href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_Insanity
@@ -1152,6 +1204,19 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.RobotStatus.IsInDamaging
   nameWithType: RobotStatus.IsInDamaging
+- uid: CroD.Robot.Status.RobotStatus.IsInitialized
+  name: IsInitialized
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_IsInitialized
+  commentId: P:CroD.Robot.Status.RobotStatus.IsInitialized
+  fullName: CroD.Robot.Status.RobotStatus.IsInitialized
+  nameWithType: RobotStatus.IsInitialized
+- uid: CroD.Robot.Status.RobotStatus.IsInitialized*
+  name: IsInitialized
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_IsInitialized_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.IsInitialized
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.IsInitialized
+  nameWithType: RobotStatus.IsInitialized
 - uid: CroD.Robot.Status.RobotStatus.MalevolentGodResistance
   name: MalevolentGodResistance
   href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_MalevolentGodResistance
@@ -1243,6 +1308,19 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.RobotStatus.Resource
   nameWithType: RobotStatus.Resource
+- uid: CroD.Robot.Status.RobotStatus.SetIsInitialized
+  name: SetIsInitialized()
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_SetIsInitialized
+  commentId: M:CroD.Robot.Status.RobotStatus.SetIsInitialized
+  fullName: CroD.Robot.Status.RobotStatus.SetIsInitialized()
+  nameWithType: RobotStatus.SetIsInitialized()
+- uid: CroD.Robot.Status.RobotStatus.SetIsInitialized*
+  name: SetIsInitialized
+  href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_SetIsInitialized_
+  commentId: Overload:CroD.Robot.Status.RobotStatus.SetIsInitialized
+  isSpec: "True"
+  fullName: CroD.Robot.Status.RobotStatus.SetIsInitialized
+  nameWithType: RobotStatus.SetIsInitialized
 - uid: CroD.Robot.Status.RobotStatus.statusAliment
   name: statusAliment
   href: api/CroD.Robot.Status.RobotStatus.html#CroD_Robot_Status_RobotStatus_statusAliment
@@ -1549,6 +1627,56 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.Builder
   nameWithType: StatusAlimentFactory.Builder.Builder
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single},System.Int32)
+  name: AbnormalGravity(StatusAilmentType, ConstantStatusHolder<Int32>, List<Single>, Int32)
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_AbnormalGravity_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Collections_Generic_List_System_Single__System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single},System.Int32)
+  name.vb: AbnormalGravity(StatusAilmentType, ConstantStatusHolder(Of Int32), List(Of Single), Int32)
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.ConstantStatusHolder<System.Int32>, System.Collections.Generic.List<System.Single>, System.Int32)
+  fullName.vb: CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.ConstantStatusHolder(Of System.Int32), System.Collections.Generic.List(Of System.Single), System.Int32)
+  nameWithType: StatusAlimentFactory.Builder.AbnormalGravity(StatusAilmentType, ConstantStatusHolder<Int32>, List<Single>, Int32)
+  nameWithType.vb: StatusAlimentFactory.Builder.AbnormalGravity(StatusAilmentType, ConstantStatusHolder(Of Int32), List(Of Single), Int32)
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single,System.Int32)
+  name: AbnormalGravity(StatusAilmentType, ConstantStatusHolder<Int32>, Single, Int32)
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_AbnormalGravity_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Single_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single,System.Int32)
+  name.vb: AbnormalGravity(StatusAilmentType, ConstantStatusHolder(Of Int32), Single, Int32)
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.ConstantStatusHolder<System.Int32>, System.Single, System.Int32)
+  fullName.vb: CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.ConstantStatusHolder(Of System.Int32), System.Single, System.Int32)
+  nameWithType: StatusAlimentFactory.Builder.AbnormalGravity(StatusAilmentType, ConstantStatusHolder<Int32>, Single, Int32)
+  nameWithType.vb: StatusAlimentFactory.Builder.AbnormalGravity(StatusAilmentType, ConstantStatusHolder(Of Int32), Single, Int32)
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity*
+  name: AbnormalGravity
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_AbnormalGravity_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity
+  nameWithType: StatusAlimentFactory.Builder.AbnormalGravity
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single},System.Int32)
+  name: FallPrecisely(StatusAilmentType, ConstantStatusHolder<Int32>, List<Single>, Int32)
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_FallPrecisely_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Collections_Generic_List_System_Single__System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single},System.Int32)
+  name.vb: FallPrecisely(StatusAilmentType, ConstantStatusHolder(Of Int32), List(Of Single), Int32)
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.ConstantStatusHolder<System.Int32>, System.Collections.Generic.List<System.Single>, System.Int32)
+  fullName.vb: CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.ConstantStatusHolder(Of System.Int32), System.Collections.Generic.List(Of System.Single), System.Int32)
+  nameWithType: StatusAlimentFactory.Builder.FallPrecisely(StatusAilmentType, ConstantStatusHolder<Int32>, List<Single>, Int32)
+  nameWithType.vb: StatusAlimentFactory.Builder.FallPrecisely(StatusAilmentType, ConstantStatusHolder(Of Int32), List(Of Single), Int32)
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single,System.Int32)
+  name: FallPrecisely(StatusAilmentType, ConstantStatusHolder<Int32>, Single, Int32)
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_FallPrecisely_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Single_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single,System.Int32)
+  name.vb: FallPrecisely(StatusAilmentType, ConstantStatusHolder(Of Int32), Single, Int32)
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.ConstantStatusHolder<System.Int32>, System.Single, System.Int32)
+  fullName.vb: CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.ConstantStatusHolder(Of System.Int32), System.Single, System.Int32)
+  nameWithType: StatusAlimentFactory.Builder.FallPrecisely(StatusAilmentType, ConstantStatusHolder<Int32>, Single, Int32)
+  nameWithType.vb: StatusAlimentFactory.Builder.FallPrecisely(StatusAilmentType, ConstantStatusHolder(Of Int32), Single, Int32)
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely*
+  name: FallPrecisely
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_FallPrecisely_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely
+  nameWithType: StatusAlimentFactory.Builder.FallPrecisely
 - uid: CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single},System.Int32)
   name: FallSynchrony(StatusAilmentType, ConstantStatusHolder<Int32>, List<Single>, Int32)
   href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_FallSynchrony_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Collections_Generic_List_System_Single__System_Int32_
@@ -1574,12 +1702,122 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony
   nameWithType: StatusAlimentFactory.Builder.FallSynchrony
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.StatusOnGauge.HP,System.Collections.Generic.List{System.Single},System.Collections.Generic.List{System.TimeSpan},System.Int32)
+  name: Panic(StatusAilmentType, HP, List<Single>, List<TimeSpan>, Int32)
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_Panic_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_StatusOnGauge_HP_System_Collections_Generic_List_System_Single__System_Collections_Generic_List_System_TimeSpan__System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.StatusOnGauge.HP,System.Collections.Generic.List{System.Single},System.Collections.Generic.List{System.TimeSpan},System.Int32)
+  name.vb: Panic(StatusAilmentType, HP, List(Of Single), List(Of TimeSpan), Int32)
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.StatusOnGauge.HP, System.Collections.Generic.List<System.Single>, System.Collections.Generic.List<System.TimeSpan>, System.Int32)
+  fullName.vb: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.StatusOnGauge.HP, System.Collections.Generic.List(Of System.Single), System.Collections.Generic.List(Of System.TimeSpan), System.Int32)
+  nameWithType: StatusAlimentFactory.Builder.Panic(StatusAilmentType, HP, List<Single>, List<TimeSpan>, Int32)
+  nameWithType.vb: StatusAlimentFactory.Builder.Panic(StatusAilmentType, HP, List(Of Single), List(Of TimeSpan), Int32)
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.StatusOnGauge.HP,System.Collections.Generic.List{System.Single},System.TimeSpan,System.Int32)
+  name: Panic(StatusAilmentType, HP, List<Single>, TimeSpan, Int32)
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_Panic_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_StatusOnGauge_HP_System_Collections_Generic_List_System_Single__System_TimeSpan_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.StatusOnGauge.HP,System.Collections.Generic.List{System.Single},System.TimeSpan,System.Int32)
+  name.vb: Panic(StatusAilmentType, HP, List(Of Single), TimeSpan, Int32)
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.StatusOnGauge.HP, System.Collections.Generic.List<System.Single>, System.TimeSpan, System.Int32)
+  fullName.vb: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.StatusOnGauge.HP, System.Collections.Generic.List(Of System.Single), System.TimeSpan, System.Int32)
+  nameWithType: StatusAlimentFactory.Builder.Panic(StatusAilmentType, HP, List<Single>, TimeSpan, Int32)
+  nameWithType.vb: StatusAlimentFactory.Builder.Panic(StatusAilmentType, HP, List(Of Single), TimeSpan, Int32)
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.StatusOnGauge.HP,System.Single,System.Collections.Generic.List{System.TimeSpan},System.Int32)
+  name: Panic(StatusAilmentType, HP, Single, List<TimeSpan>, Int32)
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_Panic_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_StatusOnGauge_HP_System_Single_System_Collections_Generic_List_System_TimeSpan__System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.StatusOnGauge.HP,System.Single,System.Collections.Generic.List{System.TimeSpan},System.Int32)
+  name.vb: Panic(StatusAilmentType, HP, Single, List(Of TimeSpan), Int32)
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.StatusOnGauge.HP, System.Single, System.Collections.Generic.List<System.TimeSpan>, System.Int32)
+  fullName.vb: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.StatusOnGauge.HP, System.Single, System.Collections.Generic.List(Of System.TimeSpan), System.Int32)
+  nameWithType: StatusAlimentFactory.Builder.Panic(StatusAilmentType, HP, Single, List<TimeSpan>, Int32)
+  nameWithType.vb: StatusAlimentFactory.Builder.Panic(StatusAilmentType, HP, Single, List(Of TimeSpan), Int32)
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.StatusOnGauge.HP,System.Single,System.TimeSpan,System.Int32)
+  name: Panic(StatusAilmentType, HP, Single, TimeSpan, Int32)
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_Panic_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_StatusOnGauge_HP_System_Single_System_TimeSpan_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.StatusOnGauge.HP,System.Single,System.TimeSpan,System.Int32)
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType, CroD.Robot.Status.StatusOnGauge.HP, System.Single, System.TimeSpan, System.Int32)
+  nameWithType: StatusAlimentFactory.Builder.Panic(StatusAilmentType, HP, Single, TimeSpan, Int32)
+- uid: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic*
+  name: Panic
+  href: api/CroD.Robot.Status.StatusAlimentFactory.Builder.html#CroD_Robot_Status_StatusAlimentFactory_Builder_Panic_
+  commentId: Overload:CroD.Robot.Status.StatusAlimentFactory.Builder.Panic
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAlimentFactory.Builder.Panic
+  nameWithType: StatusAlimentFactory.Builder.Panic
 - uid: CroD.Robot.Status.StatusAliments
   name: CroD.Robot.Status.StatusAliments
   href: api/CroD.Robot.Status.StatusAliments.html
   commentId: N:CroD.Robot.Status.StatusAliments
   fullName: CroD.Robot.Status.StatusAliments
   nameWithType: CroD.Robot.Status.StatusAliments
+- uid: CroD.Robot.Status.StatusAliments.AbnormalGravity
+  name: AbnormalGravity
+  href: api/CroD.Robot.Status.StatusAliments.AbnormalGravity.html
+  commentId: T:CroD.Robot.Status.StatusAliments.AbnormalGravity
+  fullName: CroD.Robot.Status.StatusAliments.AbnormalGravity
+  nameWithType: AbnormalGravity
+- uid: CroD.Robot.Status.StatusAliments.AbnormalGravity.#ctor(CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single})
+  name: AbnormalGravity(ConstantStatusHolder<Int32>, List<Single>)
+  href: api/CroD.Robot.Status.StatusAliments.AbnormalGravity.html#CroD_Robot_Status_StatusAliments_AbnormalGravity__ctor_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Collections_Generic_List_System_Single__
+  commentId: M:CroD.Robot.Status.StatusAliments.AbnormalGravity.#ctor(CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Collections.Generic.List{System.Single})
+  name.vb: AbnormalGravity(ConstantStatusHolder(Of Int32), List(Of Single))
+  fullName: CroD.Robot.Status.StatusAliments.AbnormalGravity.AbnormalGravity(CroD.Robot.Status.ConstantStatusHolder<System.Int32>, System.Collections.Generic.List<System.Single>)
+  fullName.vb: CroD.Robot.Status.StatusAliments.AbnormalGravity.AbnormalGravity(CroD.Robot.Status.ConstantStatusHolder(Of System.Int32), System.Collections.Generic.List(Of System.Single))
+  nameWithType: AbnormalGravity.AbnormalGravity(ConstantStatusHolder<Int32>, List<Single>)
+  nameWithType.vb: AbnormalGravity.AbnormalGravity(ConstantStatusHolder(Of Int32), List(Of Single))
+- uid: CroD.Robot.Status.StatusAliments.AbnormalGravity.#ctor(CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single)
+  name: AbnormalGravity(ConstantStatusHolder<Int32>, Single)
+  href: api/CroD.Robot.Status.StatusAliments.AbnormalGravity.html#CroD_Robot_Status_StatusAliments_AbnormalGravity__ctor_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Single_
+  commentId: M:CroD.Robot.Status.StatusAliments.AbnormalGravity.#ctor(CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single)
+  name.vb: AbnormalGravity(ConstantStatusHolder(Of Int32), Single)
+  fullName: CroD.Robot.Status.StatusAliments.AbnormalGravity.AbnormalGravity(CroD.Robot.Status.ConstantStatusHolder<System.Int32>, System.Single)
+  fullName.vb: CroD.Robot.Status.StatusAliments.AbnormalGravity.AbnormalGravity(CroD.Robot.Status.ConstantStatusHolder(Of System.Int32), System.Single)
+  nameWithType: AbnormalGravity.AbnormalGravity(ConstantStatusHolder<Int32>, Single)
+  nameWithType.vb: AbnormalGravity.AbnormalGravity(ConstantStatusHolder(Of Int32), Single)
+- uid: CroD.Robot.Status.StatusAliments.AbnormalGravity.#ctor*
+  name: AbnormalGravity
+  href: api/CroD.Robot.Status.StatusAliments.AbnormalGravity.html#CroD_Robot_Status_StatusAliments_AbnormalGravity__ctor_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.AbnormalGravity.#ctor
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.AbnormalGravity.AbnormalGravity
+  nameWithType: AbnormalGravity.AbnormalGravity
+- uid: CroD.Robot.Status.StatusAliments.AbnormalGravity.AlimentFinalize
+  name: AlimentFinalize()
+  href: api/CroD.Robot.Status.StatusAliments.AbnormalGravity.html#CroD_Robot_Status_StatusAliments_AbnormalGravity_AlimentFinalize
+  commentId: M:CroD.Robot.Status.StatusAliments.AbnormalGravity.AlimentFinalize
+  fullName: CroD.Robot.Status.StatusAliments.AbnormalGravity.AlimentFinalize()
+  nameWithType: AbnormalGravity.AlimentFinalize()
+- uid: CroD.Robot.Status.StatusAliments.AbnormalGravity.AlimentFinalize*
+  name: AlimentFinalize
+  href: api/CroD.Robot.Status.StatusAliments.AbnormalGravity.html#CroD_Robot_Status_StatusAliments_AbnormalGravity_AlimentFinalize_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.AbnormalGravity.AlimentFinalize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.AbnormalGravity.AlimentFinalize
+  nameWithType: AbnormalGravity.AlimentFinalize
+- uid: CroD.Robot.Status.StatusAliments.AbnormalGravity.AlimentInitialize(System.Int32)
+  name: AlimentInitialize(Int32)
+  href: api/CroD.Robot.Status.StatusAliments.AbnormalGravity.html#CroD_Robot_Status_StatusAliments_AbnormalGravity_AlimentInitialize_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliments.AbnormalGravity.AlimentInitialize(System.Int32)
+  fullName: CroD.Robot.Status.StatusAliments.AbnormalGravity.AlimentInitialize(System.Int32)
+  nameWithType: AbnormalGravity.AlimentInitialize(Int32)
+- uid: CroD.Robot.Status.StatusAliments.AbnormalGravity.AlimentInitialize*
+  name: AlimentInitialize
+  href: api/CroD.Robot.Status.StatusAliments.AbnormalGravity.html#CroD_Robot_Status_StatusAliments_AbnormalGravity_AlimentInitialize_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.AbnormalGravity.AlimentInitialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.AbnormalGravity.AlimentInitialize
+  nameWithType: AbnormalGravity.AlimentInitialize
+- uid: CroD.Robot.Status.StatusAliments.AbnormalGravity.SetProgress(System.Int32)
+  name: SetProgress(Int32)
+  href: api/CroD.Robot.Status.StatusAliments.AbnormalGravity.html#CroD_Robot_Status_StatusAliments_AbnormalGravity_SetProgress_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliments.AbnormalGravity.SetProgress(System.Int32)
+  fullName: CroD.Robot.Status.StatusAliments.AbnormalGravity.SetProgress(System.Int32)
+  nameWithType: AbnormalGravity.SetProgress(Int32)
+- uid: CroD.Robot.Status.StatusAliments.AbnormalGravity.SetProgress*
+  name: SetProgress
+  href: api/CroD.Robot.Status.StatusAliments.AbnormalGravity.html#CroD_Robot_Status_StatusAliments_AbnormalGravity_SetProgress_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.AbnormalGravity.SetProgress
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.AbnormalGravity.SetProgress
+  nameWithType: AbnormalGravity.SetProgress
 - uid: CroD.Robot.Status.StatusAliments.BlockRockOn
   name: BlockRockOn
   href: api/CroD.Robot.Status.StatusAliments.BlockRockOn.html
@@ -1810,6 +2048,91 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.StatusAliments.FallSynchrony.SetProgress
   nameWithType: FallSynchrony.SetProgress
+- uid: CroD.Robot.Status.StatusAliments.Panic
+  name: Panic
+  href: api/CroD.Robot.Status.StatusAliments.Panic.html
+  commentId: T:CroD.Robot.Status.StatusAliments.Panic
+  fullName: CroD.Robot.Status.StatusAliments.Panic
+  nameWithType: Panic
+- uid: CroD.Robot.Status.StatusAliments.Panic.#ctor(CroD.Robot.Status.StatusOnGauge.HP,System.Collections.Generic.List{System.Single},System.Collections.Generic.List{System.TimeSpan})
+  name: Panic(HP, List<Single>, List<TimeSpan>)
+  href: api/CroD.Robot.Status.StatusAliments.Panic.html#CroD_Robot_Status_StatusAliments_Panic__ctor_CroD_Robot_Status_StatusOnGauge_HP_System_Collections_Generic_List_System_Single__System_Collections_Generic_List_System_TimeSpan__
+  commentId: M:CroD.Robot.Status.StatusAliments.Panic.#ctor(CroD.Robot.Status.StatusOnGauge.HP,System.Collections.Generic.List{System.Single},System.Collections.Generic.List{System.TimeSpan})
+  name.vb: Panic(HP, List(Of Single), List(Of TimeSpan))
+  fullName: CroD.Robot.Status.StatusAliments.Panic.Panic(CroD.Robot.Status.StatusOnGauge.HP, System.Collections.Generic.List<System.Single>, System.Collections.Generic.List<System.TimeSpan>)
+  fullName.vb: CroD.Robot.Status.StatusAliments.Panic.Panic(CroD.Robot.Status.StatusOnGauge.HP, System.Collections.Generic.List(Of System.Single), System.Collections.Generic.List(Of System.TimeSpan))
+  nameWithType: Panic.Panic(HP, List<Single>, List<TimeSpan>)
+  nameWithType.vb: Panic.Panic(HP, List(Of Single), List(Of TimeSpan))
+- uid: CroD.Robot.Status.StatusAliments.Panic.#ctor(CroD.Robot.Status.StatusOnGauge.HP,System.Collections.Generic.List{System.Single},System.TimeSpan)
+  name: Panic(HP, List<Single>, TimeSpan)
+  href: api/CroD.Robot.Status.StatusAliments.Panic.html#CroD_Robot_Status_StatusAliments_Panic__ctor_CroD_Robot_Status_StatusOnGauge_HP_System_Collections_Generic_List_System_Single__System_TimeSpan_
+  commentId: M:CroD.Robot.Status.StatusAliments.Panic.#ctor(CroD.Robot.Status.StatusOnGauge.HP,System.Collections.Generic.List{System.Single},System.TimeSpan)
+  name.vb: Panic(HP, List(Of Single), TimeSpan)
+  fullName: CroD.Robot.Status.StatusAliments.Panic.Panic(CroD.Robot.Status.StatusOnGauge.HP, System.Collections.Generic.List<System.Single>, System.TimeSpan)
+  fullName.vb: CroD.Robot.Status.StatusAliments.Panic.Panic(CroD.Robot.Status.StatusOnGauge.HP, System.Collections.Generic.List(Of System.Single), System.TimeSpan)
+  nameWithType: Panic.Panic(HP, List<Single>, TimeSpan)
+  nameWithType.vb: Panic.Panic(HP, List(Of Single), TimeSpan)
+- uid: CroD.Robot.Status.StatusAliments.Panic.#ctor(CroD.Robot.Status.StatusOnGauge.HP,System.Single,System.Collections.Generic.List{System.TimeSpan})
+  name: Panic(HP, Single, List<TimeSpan>)
+  href: api/CroD.Robot.Status.StatusAliments.Panic.html#CroD_Robot_Status_StatusAliments_Panic__ctor_CroD_Robot_Status_StatusOnGauge_HP_System_Single_System_Collections_Generic_List_System_TimeSpan__
+  commentId: M:CroD.Robot.Status.StatusAliments.Panic.#ctor(CroD.Robot.Status.StatusOnGauge.HP,System.Single,System.Collections.Generic.List{System.TimeSpan})
+  name.vb: Panic(HP, Single, List(Of TimeSpan))
+  fullName: CroD.Robot.Status.StatusAliments.Panic.Panic(CroD.Robot.Status.StatusOnGauge.HP, System.Single, System.Collections.Generic.List<System.TimeSpan>)
+  fullName.vb: CroD.Robot.Status.StatusAliments.Panic.Panic(CroD.Robot.Status.StatusOnGauge.HP, System.Single, System.Collections.Generic.List(Of System.TimeSpan))
+  nameWithType: Panic.Panic(HP, Single, List<TimeSpan>)
+  nameWithType.vb: Panic.Panic(HP, Single, List(Of TimeSpan))
+- uid: CroD.Robot.Status.StatusAliments.Panic.#ctor(CroD.Robot.Status.StatusOnGauge.HP,System.Single,System.TimeSpan)
+  name: Panic(HP, Single, TimeSpan)
+  href: api/CroD.Robot.Status.StatusAliments.Panic.html#CroD_Robot_Status_StatusAliments_Panic__ctor_CroD_Robot_Status_StatusOnGauge_HP_System_Single_System_TimeSpan_
+  commentId: M:CroD.Robot.Status.StatusAliments.Panic.#ctor(CroD.Robot.Status.StatusOnGauge.HP,System.Single,System.TimeSpan)
+  fullName: CroD.Robot.Status.StatusAliments.Panic.Panic(CroD.Robot.Status.StatusOnGauge.HP, System.Single, System.TimeSpan)
+  nameWithType: Panic.Panic(HP, Single, TimeSpan)
+- uid: CroD.Robot.Status.StatusAliments.Panic.#ctor*
+  name: Panic
+  href: api/CroD.Robot.Status.StatusAliments.Panic.html#CroD_Robot_Status_StatusAliments_Panic__ctor_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.Panic.#ctor
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.Panic.Panic
+  nameWithType: Panic.Panic
+- uid: CroD.Robot.Status.StatusAliments.Panic.AlimentFinalize
+  name: AlimentFinalize()
+  href: api/CroD.Robot.Status.StatusAliments.Panic.html#CroD_Robot_Status_StatusAliments_Panic_AlimentFinalize
+  commentId: M:CroD.Robot.Status.StatusAliments.Panic.AlimentFinalize
+  fullName: CroD.Robot.Status.StatusAliments.Panic.AlimentFinalize()
+  nameWithType: Panic.AlimentFinalize()
+- uid: CroD.Robot.Status.StatusAliments.Panic.AlimentFinalize*
+  name: AlimentFinalize
+  href: api/CroD.Robot.Status.StatusAliments.Panic.html#CroD_Robot_Status_StatusAliments_Panic_AlimentFinalize_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.Panic.AlimentFinalize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.Panic.AlimentFinalize
+  nameWithType: Panic.AlimentFinalize
+- uid: CroD.Robot.Status.StatusAliments.Panic.AlimentInitialize(System.Int32)
+  name: AlimentInitialize(Int32)
+  href: api/CroD.Robot.Status.StatusAliments.Panic.html#CroD_Robot_Status_StatusAliments_Panic_AlimentInitialize_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliments.Panic.AlimentInitialize(System.Int32)
+  fullName: CroD.Robot.Status.StatusAliments.Panic.AlimentInitialize(System.Int32)
+  nameWithType: Panic.AlimentInitialize(Int32)
+- uid: CroD.Robot.Status.StatusAliments.Panic.AlimentInitialize*
+  name: AlimentInitialize
+  href: api/CroD.Robot.Status.StatusAliments.Panic.html#CroD_Robot_Status_StatusAliments_Panic_AlimentInitialize_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.Panic.AlimentInitialize
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.Panic.AlimentInitialize
+  nameWithType: Panic.AlimentInitialize
+- uid: CroD.Robot.Status.StatusAliments.Panic.SetProgress(System.Int32)
+  name: SetProgress(Int32)
+  href: api/CroD.Robot.Status.StatusAliments.Panic.html#CroD_Robot_Status_StatusAliments_Panic_SetProgress_System_Int32_
+  commentId: M:CroD.Robot.Status.StatusAliments.Panic.SetProgress(System.Int32)
+  fullName: CroD.Robot.Status.StatusAliments.Panic.SetProgress(System.Int32)
+  nameWithType: Panic.SetProgress(Int32)
+- uid: CroD.Robot.Status.StatusAliments.Panic.SetProgress*
+  name: SetProgress
+  href: api/CroD.Robot.Status.StatusAliments.Panic.html#CroD_Robot_Status_StatusAliments_Panic_SetProgress_
+  commentId: Overload:CroD.Robot.Status.StatusAliments.Panic.SetProgress
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusAliments.Panic.SetProgress
+  nameWithType: Panic.SetProgress
 - uid: CroD.Robot.Status.StatusOnGauge
   name: CroD.Robot.Status.StatusOnGauge
   href: api/CroD.Robot.Status.StatusOnGauge.html
@@ -2054,12 +2377,6 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.StatusOnGaugeBase
   nameWithType: StatusOnGaugeBase.StatusOnGaugeBase
-- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.changeValueSubject
-  name: changeValueSubject
-  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_changeValueSubject
-  commentId: F:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.changeValueSubject
-  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.changeValueSubject
-  nameWithType: StatusOnGaugeBase.changeValueSubject
 - uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Initialize(System.Single,UnityEngine.GameObject)
   name: Initialize(Single, GameObject)
   href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Initialize_System_Single_UnityEngine_GameObject_
@@ -2099,22 +2416,6 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.SpecificInitialize
   nameWithType: StatusOnGaugeBase.SpecificInitialize
-- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver{System.Int32})
-  name: Subscribe(IObserver<Int32>)
-  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Subscribe_UniRx_IObserver_System_Int32__
-  commentId: M:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver{System.Int32})
-  name.vb: Subscribe(IObserver(Of Int32))
-  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver<System.Int32>)
-  fullName.vb: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver(Of System.Int32))
-  nameWithType: StatusOnGaugeBase.Subscribe(IObserver<Int32>)
-  nameWithType.vb: StatusOnGaugeBase.Subscribe(IObserver(Of Int32))
-- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe*
-  name: Subscribe
-  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Subscribe_
-  commentId: Overload:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe
-  isSpec: "True"
-  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe
-  nameWithType: StatusOnGaugeBase.Subscribe
 - uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Value
   name: Value
   href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Value
@@ -2141,79 +2442,3 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.WithInRange
   nameWithType: StatusOnGaugeBase.WithInRange
-- uid: CroD.UI
-  name: CroD.UI
-  href: api/CroD.UI.html
-  commentId: N:CroD.UI
-  fullName: CroD.UI
-  nameWithType: CroD.UI
-- uid: CroD.UI.GaugeManager
-  name: GaugeManager
-  href: api/CroD.UI.GaugeManager.html
-  commentId: T:CroD.UI.GaugeManager
-  fullName: CroD.UI.GaugeManager
-  nameWithType: GaugeManager
-- uid: CroD.UI.GaugeManager.HPGaugeRegister(CroD.UI.HPGauge)
-  name: HPGaugeRegister(HPGauge)
-  href: api/CroD.UI.GaugeManager.html#CroD_UI_GaugeManager_HPGaugeRegister_CroD_UI_HPGauge_
-  commentId: M:CroD.UI.GaugeManager.HPGaugeRegister(CroD.UI.HPGauge)
-  fullName: CroD.UI.GaugeManager.HPGaugeRegister(CroD.UI.HPGauge)
-  nameWithType: GaugeManager.HPGaugeRegister(HPGauge)
-- uid: CroD.UI.GaugeManager.HPGaugeRegister*
-  name: HPGaugeRegister
-  href: api/CroD.UI.GaugeManager.html#CroD_UI_GaugeManager_HPGaugeRegister_
-  commentId: Overload:CroD.UI.GaugeManager.HPGaugeRegister
-  isSpec: "True"
-  fullName: CroD.UI.GaugeManager.HPGaugeRegister
-  nameWithType: GaugeManager.HPGaugeRegister
-- uid: CroD.UI.GaugeManager.RobotRegister(CroD.Robot.Status.RobotStatus)
-  name: RobotRegister(RobotStatus)
-  href: api/CroD.UI.GaugeManager.html#CroD_UI_GaugeManager_RobotRegister_CroD_Robot_Status_RobotStatus_
-  commentId: M:CroD.UI.GaugeManager.RobotRegister(CroD.Robot.Status.RobotStatus)
-  fullName: CroD.UI.GaugeManager.RobotRegister(CroD.Robot.Status.RobotStatus)
-  nameWithType: GaugeManager.RobotRegister(RobotStatus)
-- uid: CroD.UI.GaugeManager.RobotRegister*
-  name: RobotRegister
-  href: api/CroD.UI.GaugeManager.html#CroD_UI_GaugeManager_RobotRegister_
-  commentId: Overload:CroD.UI.GaugeManager.RobotRegister
-  isSpec: "True"
-  fullName: CroD.UI.GaugeManager.RobotRegister
-  nameWithType: GaugeManager.RobotRegister
-- uid: CroD.UI.HPGauge
-  name: HPGauge
-  href: api/CroD.UI.HPGauge.html
-  commentId: T:CroD.UI.HPGauge
-  fullName: CroD.UI.HPGauge
-  nameWithType: HPGauge
-- uid: CroD.UI.HPGauge.changePropotion(System.Single)
-  name: changePropotion(Single)
-  href: api/CroD.UI.HPGauge.html#CroD_UI_HPGauge_changePropotion_System_Single_
-  commentId: M:CroD.UI.HPGauge.changePropotion(System.Single)
-  fullName: CroD.UI.HPGauge.changePropotion(System.Single)
-  nameWithType: HPGauge.changePropotion(Single)
-- uid: CroD.UI.HPGauge.changePropotion*
-  name: changePropotion
-  href: api/CroD.UI.HPGauge.html#CroD_UI_HPGauge_changePropotion_
-  commentId: Overload:CroD.UI.HPGauge.changePropotion
-  isSpec: "True"
-  fullName: CroD.UI.HPGauge.changePropotion
-  nameWithType: HPGauge.changePropotion
-- uid: CroD.UI.IGauge
-  name: IGauge
-  href: api/CroD.UI.IGauge.html
-  commentId: T:CroD.UI.IGauge
-  fullName: CroD.UI.IGauge
-  nameWithType: IGauge
-- uid: CroD.UI.IGauge.changePropotion(System.Single)
-  name: changePropotion(Single)
-  href: api/CroD.UI.IGauge.html#CroD_UI_IGauge_changePropotion_System_Single_
-  commentId: M:CroD.UI.IGauge.changePropotion(System.Single)
-  fullName: CroD.UI.IGauge.changePropotion(System.Single)
-  nameWithType: IGauge.changePropotion(Single)
-- uid: CroD.UI.IGauge.changePropotion*
-  name: changePropotion
-  href: api/CroD.UI.IGauge.html#CroD_UI_IGauge_changePropotion_
-  commentId: Overload:CroD.UI.IGauge.changePropotion
-  isSpec: "True"
-  fullName: CroD.UI.IGauge.changePropotion
-  nameWithType: IGauge.changePropotion
