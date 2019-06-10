@@ -876,6 +876,112 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Action.RobotMover.SwitchMoveDirection
   nameWithType: RobotMover.SwitchMoveDirection
+- uid: CroD.Robot.RobotFactory
+  name: RobotFactory
+  href: api/CroD.Robot.RobotFactory.html
+  commentId: T:CroD.Robot.RobotFactory
+  fullName: CroD.Robot.RobotFactory
+  nameWithType: RobotFactory
+- uid: CroD.Robot.RobotFactory.Builder
+  name: RobotFactory.Builder
+  href: api/CroD.Robot.RobotFactory.Builder.html
+  commentId: T:CroD.Robot.RobotFactory.Builder
+  fullName: CroD.Robot.RobotFactory.Builder
+  nameWithType: RobotFactory.Builder
+- uid: CroD.Robot.RobotFactory.Builder.#ctor(System.String,UnityEngine.Vector3,UnityEngine.Quaternion)
+  name: Builder(String, Vector3, Quaternion)
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder__ctor_System_String_UnityEngine_Vector3_UnityEngine_Quaternion_
+  commentId: M:CroD.Robot.RobotFactory.Builder.#ctor(System.String,UnityEngine.Vector3,UnityEngine.Quaternion)
+  fullName: CroD.Robot.RobotFactory.Builder.Builder(System.String, UnityEngine.Vector3, UnityEngine.Quaternion)
+  nameWithType: RobotFactory.Builder.Builder(String, Vector3, Quaternion)
+- uid: CroD.Robot.RobotFactory.Builder.#ctor*
+  name: Builder
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder__ctor_
+  commentId: Overload:CroD.Robot.RobotFactory.Builder.#ctor
+  isSpec: "True"
+  fullName: CroD.Robot.RobotFactory.Builder.Builder
+  nameWithType: RobotFactory.Builder.Builder
+- uid: CroD.Robot.RobotFactory.Builder.Actions(System.String[])
+  name: Actions(String[])
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder_Actions_System_String___
+  commentId: M:CroD.Robot.RobotFactory.Builder.Actions(System.String[])
+  name.vb: Actions(String())
+  fullName: CroD.Robot.RobotFactory.Builder.Actions(System.String[])
+  fullName.vb: CroD.Robot.RobotFactory.Builder.Actions(System.String())
+  nameWithType: RobotFactory.Builder.Actions(String[])
+  nameWithType.vb: RobotFactory.Builder.Actions(String())
+- uid: CroD.Robot.RobotFactory.Builder.Actions*
+  name: Actions
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder_Actions_
+  commentId: Overload:CroD.Robot.RobotFactory.Builder.Actions
+  isSpec: "True"
+  fullName: CroD.Robot.RobotFactory.Builder.Actions
+  nameWithType: RobotFactory.Builder.Actions
+- uid: CroD.Robot.RobotFactory.Builder.Build
+  name: Build()
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder_Build
+  commentId: M:CroD.Robot.RobotFactory.Builder.Build
+  fullName: CroD.Robot.RobotFactory.Builder.Build()
+  nameWithType: RobotFactory.Builder.Build()
+- uid: CroD.Robot.RobotFactory.Builder.Build*
+  name: Build
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder_Build_
+  commentId: Overload:CroD.Robot.RobotFactory.Builder.Build
+  isSpec: "True"
+  fullName: CroD.Robot.RobotFactory.Builder.Build
+  nameWithType: RobotFactory.Builder.Build
+- uid: CroD.Robot.RobotFactory.Builder.DefaultGauge(System.Single,System.Single,System.Single,System.Single)
+  name: DefaultGauge(Single, Single, Single, Single)
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder_DefaultGauge_System_Single_System_Single_System_Single_System_Single_
+  commentId: M:CroD.Robot.RobotFactory.Builder.DefaultGauge(System.Single,System.Single,System.Single,System.Single)
+  fullName: CroD.Robot.RobotFactory.Builder.DefaultGauge(System.Single, System.Single, System.Single, System.Single)
+  nameWithType: RobotFactory.Builder.DefaultGauge(Single, Single, Single, Single)
+- uid: CroD.Robot.RobotFactory.Builder.DefaultGauge*
+  name: DefaultGauge
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder_DefaultGauge_
+  commentId: Overload:CroD.Robot.RobotFactory.Builder.DefaultGauge
+  isSpec: "True"
+  fullName: CroD.Robot.RobotFactory.Builder.DefaultGauge
+  nameWithType: RobotFactory.Builder.DefaultGauge
+- uid: CroD.Robot.RobotFactory.Builder.MachineNamePositionRotation(System.String,UnityEngine.Vector3,UnityEngine.Quaternion)
+  name: MachineNamePositionRotation(String, Vector3, Quaternion)
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder_MachineNamePositionRotation_System_String_UnityEngine_Vector3_UnityEngine_Quaternion_
+  commentId: M:CroD.Robot.RobotFactory.Builder.MachineNamePositionRotation(System.String,UnityEngine.Vector3,UnityEngine.Quaternion)
+  fullName: CroD.Robot.RobotFactory.Builder.MachineNamePositionRotation(System.String, UnityEngine.Vector3, UnityEngine.Quaternion)
+  nameWithType: RobotFactory.Builder.MachineNamePositionRotation(String, Vector3, Quaternion)
+- uid: CroD.Robot.RobotFactory.Builder.MachineNamePositionRotation*
+  name: MachineNamePositionRotation
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder_MachineNamePositionRotation_
+  commentId: Overload:CroD.Robot.RobotFactory.Builder.MachineNamePositionRotation
+  isSpec: "True"
+  fullName: CroD.Robot.RobotFactory.Builder.MachineNamePositionRotation
+  nameWithType: RobotFactory.Builder.MachineNamePositionRotation
+- uid: CroD.Robot.RobotFactory.Builder.MachineSpec(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: MachineSpec(Int32, Int32, Int32, Int32, Int32)
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder_MachineSpec_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:CroD.Robot.RobotFactory.Builder.MachineSpec(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: CroD.Robot.RobotFactory.Builder.MachineSpec(System.Int32, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: RobotFactory.Builder.MachineSpec(Int32, Int32, Int32, Int32, Int32)
+- uid: CroD.Robot.RobotFactory.Builder.MachineSpec*
+  name: MachineSpec
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder_MachineSpec_
+  commentId: Overload:CroD.Robot.RobotFactory.Builder.MachineSpec
+  isSpec: "True"
+  fullName: CroD.Robot.RobotFactory.Builder.MachineSpec
+  nameWithType: RobotFactory.Builder.MachineSpec
+- uid: CroD.Robot.RobotFactory.Builder.Resistance(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: Resistance(Int32, Int32, Int32, Int32, Int32, Int32)
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder_Resistance_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:CroD.Robot.RobotFactory.Builder.Resistance(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: CroD.Robot.RobotFactory.Builder.Resistance(System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: RobotFactory.Builder.Resistance(Int32, Int32, Int32, Int32, Int32, Int32)
+- uid: CroD.Robot.RobotFactory.Builder.Resistance*
+  name: Resistance
+  href: api/CroD.Robot.RobotFactory.Builder.html#CroD_Robot_RobotFactory_Builder_Resistance_
+  commentId: Overload:CroD.Robot.RobotFactory.Builder.Resistance
+  isSpec: "True"
+  fullName: CroD.Robot.RobotFactory.Builder.Resistance
+  nameWithType: RobotFactory.Builder.Resistance
 - uid: CroD.Robot.RobotOperatorSet
   name: RobotOperatorSet
   href: api/CroD.Robot.RobotOperatorSet.html
