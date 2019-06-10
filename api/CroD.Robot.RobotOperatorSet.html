@@ -73,7 +73,8 @@
   
   <h1 id="CroD_Robot_RobotOperatorSet" data-uid="CroD.Robot.RobotOperatorSet" class="text-break">Class RobotOperatorSet
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>Robotを操作するオブジェクト(<see>CroD.Input.InputTrasmitter</see>など)に登録する関数（Operator）を、インスペクタ上とスクリプトから設定するクラス</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -450,7 +451,8 @@
   
   <a id="CroD_Robot_RobotOperatorSet_AddRobotOperator_" data-uid="CroD.Robot.RobotOperatorSet.AddRobotOperator*"></a>
   <h4 id="CroD_Robot_RobotOperatorSet_AddRobotOperator_CroD_Operator_OperatorID_System_Action_UniRx_Unit__" data-uid="CroD.Robot.RobotOperatorSet.AddRobotOperator(CroD.Operator.OperatorID,System.Action{UniRx.Unit})">AddRobotOperator(OperatorID, Action&lt;Unit&gt;)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Unitを受け取るRobotのOperatorを、Robotに入力を行うオブジェクトに登録する</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -469,12 +471,14 @@
       <tr>
         <td><a class="xref" href="CroD.Operator.OperatorID.html">OperatorID</a></td>
         <td><span class="parametername">operatorID</span></td>
-        <td></td>
+        <td><p>登録するOperatorのID</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Action</span>&lt;<span class="xref">UniRx.Unit</span>&gt;</td>
         <td><span class="parametername">op</span></td>
-        <td></td>
+        <td><p>登録するOperatorのデリゲート</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -482,7 +486,8 @@
   
   <a id="CroD_Robot_RobotOperatorSet_AddRobotOperator_" data-uid="CroD.Robot.RobotOperatorSet.AddRobotOperator*"></a>
   <h4 id="CroD_Robot_RobotOperatorSet_AddRobotOperator_CroD_Operator_OperatorID_System_Action_UnityEngine_Vector2__" data-uid="CroD.Robot.RobotOperatorSet.AddRobotOperator(CroD.Operator.OperatorID,System.Action{UnityEngine.Vector2})">AddRobotOperator(OperatorID, Action&lt;Vector2&gt;)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Vector2を受け取るRobotのOperatorを、Robotに入力を行うオブジェクトに登録する</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -501,12 +506,14 @@
       <tr>
         <td><a class="xref" href="CroD.Operator.OperatorID.html">OperatorID</a></td>
         <td><span class="parametername">operatorID</span></td>
-        <td></td>
+        <td><p>登録するOperatorのID</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Action</span>&lt;<span class="xref">UnityEngine.Vector2</span>&gt;</td>
         <td><span class="parametername">op</span></td>
-        <td></td>
+        <td><p>登録するOperatorのデリゲート</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -514,7 +521,8 @@
   
   <a id="CroD_Robot_RobotOperatorSet_SetOperatorResister_" data-uid="CroD.Robot.RobotOperatorSet.SetOperatorResister*"></a>
   <h4 id="CroD_Robot_RobotOperatorSet_SetOperatorResister_CroD_Operator_IRegister_UniRx_Unit__CroD_Operator_IRegister_UnityEngine_Vector2__" data-uid="CroD.Robot.RobotOperatorSet.SetOperatorResister(CroD.Operator.IRegister{UniRx.Unit},CroD.Operator.IRegister{UnityEngine.Vector2})">SetOperatorResister(IRegister&lt;Unit&gt;, IRegister&lt;Vector2&gt;)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Robotに入力を与えるオブジェクトを付け替える</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -533,12 +541,14 @@
       <tr>
         <td><a class="xref" href="CroD.Operator.IRegister-1.html">IRegister</a>&lt;<span class="xref">UniRx.Unit</span>&gt;</td>
         <td><span class="parametername">buttonOperatorRegister</span></td>
-        <td></td>
+        <td><p>Unitの値を受け取るOperatorを登録するオブジェクト</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="CroD.Operator.IRegister-1.html">IRegister</a>&lt;<span class="xref">UnityEngine.Vector2</span>&gt;</td>
         <td><span class="parametername">stickOperatorRegister</span></td>
-        <td></td>
+        <td><p>Vector2の値を受け取るOperatorを登録するオブジェクト</p>
+</td>
       </tr>
     </tbody>
   </table>
