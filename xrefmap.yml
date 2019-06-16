@@ -13,25 +13,6 @@ references:
   commentId: T:CroD.Data.HyperParamater
   fullName: CroD.Data.HyperParamater
   nameWithType: HyperParamater
-- uid: CroD.Data.PutChangeHyperParamater
-  name: PutChangeHyperParamater
-  href: api/CroD.Data.PutChangeHyperParamater.html
-  commentId: T:CroD.Data.PutChangeHyperParamater
-  fullName: CroD.Data.PutChangeHyperParamater
-  nameWithType: PutChangeHyperParamater
-- uid: CroD.Data.PutChangeHyperParamater.OnRefreshAilmentTimesChanged(CroD.Data.RefreshAilmentTimes)
-  name: OnRefreshAilmentTimesChanged(RefreshAilmentTimes)
-  href: api/CroD.Data.PutChangeHyperParamater.html#CroD_Data_PutChangeHyperParamater_OnRefreshAilmentTimesChanged_CroD_Data_RefreshAilmentTimes_
-  commentId: M:CroD.Data.PutChangeHyperParamater.OnRefreshAilmentTimesChanged(CroD.Data.RefreshAilmentTimes)
-  fullName: CroD.Data.PutChangeHyperParamater.OnRefreshAilmentTimesChanged(CroD.Data.RefreshAilmentTimes)
-  nameWithType: PutChangeHyperParamater.OnRefreshAilmentTimesChanged(RefreshAilmentTimes)
-- uid: CroD.Data.PutChangeHyperParamater.OnRefreshAilmentTimesChanged*
-  name: OnRefreshAilmentTimesChanged
-  href: api/CroD.Data.PutChangeHyperParamater.html#CroD_Data_PutChangeHyperParamater_OnRefreshAilmentTimesChanged_
-  commentId: Overload:CroD.Data.PutChangeHyperParamater.OnRefreshAilmentTimesChanged
-  isSpec: "True"
-  fullName: CroD.Data.PutChangeHyperParamater.OnRefreshAilmentTimesChanged
-  nameWithType: PutChangeHyperParamater.OnRefreshAilmentTimesChanged
 - uid: CroD.Data.RefreshAilmentTimes
   name: RefreshAilmentTimes
   href: api/CroD.Data.RefreshAilmentTimes.html
@@ -87,12 +68,6 @@ references:
   commentId: F:CroD.Data.RefreshAilmentTimes.panic
   fullName: CroD.Data.RefreshAilmentTimes.panic
   nameWithType: RefreshAilmentTimes.panic
-- uid: CroD.Data.RefreshAilmentTimesEvent
-  name: RefreshAilmentTimesEvent
-  href: api/CroD.Data.RefreshAilmentTimesEvent.html
-  commentId: T:CroD.Data.RefreshAilmentTimesEvent
-  fullName: CroD.Data.RefreshAilmentTimesEvent
-  nameWithType: RefreshAilmentTimesEvent
 - uid: CroD.Input
   name: CroD.Input
   href: api/CroD.Input.html

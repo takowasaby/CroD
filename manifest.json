@@ -9,19 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Data.HyperParamater.html",
-          "hash": "82ZvR2Qw33r/EjVwMJcbhg=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Data.PutChangeHyperParamater.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CroD.Data.PutChangeHyperParamater.html",
-          "hash": "BVa2+jpuZ6mGDitPyCYuGg=="
+          "hash": "bbUTTuLXdszSk5afIGkjkw=="
         }
       },
       "is_incremental": true,
@@ -33,19 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Data.RefreshAilmentTimes.html",
-          "hash": "3xbqGexUkNeiqIig/ZdBtQ=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Data.RefreshAilmentTimesEvent.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CroD.Data.RefreshAilmentTimesEvent.html",
-          "hash": "Vs6M4CsY2LLrVyPr02sliA=="
+          "hash": "LuamBwe3wKPz2uZYjv+fsA=="
         }
       },
       "is_incremental": true,
@@ -57,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Data.html",
-          "hash": "QqGEc1geMYFmoET82ajw8g=="
+          "hash": "XYx0XvR6aVjAzVguJn/1Pg=="
         }
       },
       "is_incremental": true,
@@ -69,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Input.ActionStream-3.html",
-          "hash": "SQW3f9cP0r66aZ8bwTBefg=="
+          "hash": "Y6YnqPAcKxgmPiHO0ocFHw=="
         }
       },
       "is_incremental": true,
@@ -81,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Input.ButtonType.html",
-          "hash": "lPKaKlfyZcNrHIwtWwxtgQ=="
+          "hash": "stLvjrcZxcLPpjR/3eaTWA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -93,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Input.InputTransmitter.html",
-          "hash": "dY3c+L9duydH6W9rqZVT3w=="
+          "hash": "X9+GuAr45VwEvjQJrb3IYw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -105,10 +81,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Input.OperatorRegister.html",
-          "hash": "JQaP8irfQSnOjkmT3NftJQ=="
+          "hash": "02Ie7Mh8FkowQsKfOhPiyw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -117,10 +93,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Input.StickType.html",
-          "hash": "rrt+ANoHBHyyjwDaSLnilw=="
+          "hash": "MhzXIg4plaJWaME5vEebDQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -129,10 +105,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Input.TransmitterState.html",
-          "hash": "xnCmdEQLzR2jRQTxNIsVnQ=="
+          "hash": "uTwfd0ZOrbTb0bk1QoMGFA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -141,10 +117,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Input.html",
-          "hash": "YO0bGYWl3Jh+GPTt40TmHQ=="
+          "hash": "74q3+3Q3PdclklC4r0EGcg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -165,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Operator.OperatorID.html",
-          "hash": "i3TxEtYHuUcGz7Z8Ytd+Gw=="
+          "hash": "I+3hassXdcnoqkNWYjo78Q=="
         }
       },
       "is_incremental": true,
@@ -177,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Operator.ReactiveRegistableOperator-1.html",
-          "hash": "/eSs4yEu6WZOke8305fMPA=="
+          "hash": "zvKllb7oAdFUoURtGDQBhw=="
         }
       },
       "is_incremental": true,
@@ -189,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Operator.RegistableOperater-1.html",
-          "hash": "K1l7mGakGqt5opqYSDl17A=="
+          "hash": "VcjnNx8VLi02ctzSAtFqOg=="
         }
       },
       "is_incremental": true,
@@ -201,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Operator.html",
-          "hash": "hQqxg6lFdWIr83mxD4HIFQ=="
+          "hash": "y5cInCjtt8i4LDG7Qq0txw=="
         }
       },
       "is_incremental": true,
@@ -300,7 +276,7 @@
           "hash": "3cn9Qi+foHyb59o7R05Cdw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -576,7 +552,7 @@
           "hash": "JgMvcg7UPuM7t0BcOcd5VA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -597,7 +573,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "VxUIjJrSV0oSiJq+of9jyA=="
+          "hash": "+6gYEnZ5KTxPcWmx7TQdfw=="
         }
       },
       "is_incremental": false,
@@ -668,17 +644,17 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
-          "incrementalPhase": "build",
-          "total_file_count": 48,
-          "skipped_file_count": 44
-        },
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 3,
           "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 46,
+          "skipped_file_count": 46
         }
       }
     },
