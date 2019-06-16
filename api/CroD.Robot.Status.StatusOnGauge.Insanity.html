@@ -73,7 +73,8 @@
   
   <h1 id="CroD_Robot_Status_StatusOnGauge_Insanity" data-uid="CroD.Robot.Status.StatusOnGauge.Insanity" class="text-break">Class Insanity
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>発狂度の値を格納するクラス</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -81,8 +82,15 @@
     <div class="level1"><a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html">StatusOnGaugeBase</a></div>
     <div class="level2"><span class="xref">Insanity</span></div>
   </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><span class="xref">System.IObservable</span>&lt;<span class="xref">System.Int32</span>&gt;</div>
+  </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_changeValueSubject">StatusOnGaugeBase.changeValueSubject</a>
+    </div>
     <div>
       <a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_MAX">StatusOnGaugeBase.MAX</a>
     </div>
@@ -91,6 +99,9 @@
     </div>
     <div>
       <a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Initialize_System_Single_UnityEngine_GameObject_">StatusOnGaugeBase.Initialize(Single, GameObject)</a>
+    </div>
+    <div>
+      <a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Subscribe_UniRx_IObserver_System_Int32__">StatusOnGaugeBase.Subscribe(IObserver&lt;Int32&gt;)</a>
     </div>
     <div>
       <a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_WithInRange_System_Int32_">StatusOnGaugeBase.WithInRange(Int32)</a>
@@ -124,7 +135,7 @@
   <h6><strong>Assembly</strong>: CroD.dll</h6>
   <h5 id="CroD_Robot_Status_StatusOnGauge_Insanity_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class Insanity : StatusOnGaugeBase</code></pre>
+    <pre><code class="lang-csharp hljs">public class Insanity : StatusOnGaugeBase, IObservable&lt;int&gt;</code></pre>
   </div>
   <h3 id="methods">Methods
   </h3>
@@ -132,7 +143,8 @@
   
   <a id="CroD_Robot_Status_StatusOnGauge_Insanity_Increase_" data-uid="CroD.Robot.Status.StatusOnGauge.Insanity.Increase*"></a>
   <h4 id="CroD_Robot_Status_StatusOnGauge_Insanity_Increase_System_Int32_" data-uid="CroD.Robot.Status.StatusOnGauge.Insanity.Increase(System.Int32)">Increase(Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>発狂度の値を増加させる</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -151,7 +163,8 @@
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">increaseValue</span></td>
-        <td></td>
+        <td><p>発狂度の増加値</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -159,7 +172,8 @@
   
   <a id="CroD_Robot_Status_StatusOnGauge_Insanity_OnChangeMaxInsanity_" data-uid="CroD.Robot.Status.StatusOnGauge.Insanity.OnChangeMaxInsanity*"></a>
   <h4 id="CroD_Robot_Status_StatusOnGauge_Insanity_OnChangeMaxInsanity_System_Int32_" data-uid="CroD.Robot.Status.StatusOnGauge.Insanity.OnChangeMaxInsanity(System.Int32)">OnChangeMaxInsanity(Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>発狂度の最大値が変化したときに呼ばれるコールバック関数</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -182,6 +196,10 @@
       </tr>
     </tbody>
   </table>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <span class="xref">System.IObservable&lt;T&gt;</span>
+  </div>
 </article>
           </div>
           

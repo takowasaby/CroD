@@ -73,7 +73,8 @@
   
   <h1 id="CroD_Robot_Status_StatusAlimentFactory_Builder" data-uid="CroD.Robot.Status.StatusAlimentFactory.Builder" class="text-break">Class StatusAlimentFactory.Builder
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>状態異常を生成するメソッドをもつクラス</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -116,7 +117,8 @@
   
   <a id="CroD_Robot_Status_StatusAlimentFactory_Builder__ctor_" data-uid="CroD.Robot.Status.StatusAlimentFactory.Builder.#ctor*"></a>
   <h4 id="CroD_Robot_Status_StatusAlimentFactory_Builder__ctor_System_Single_" data-uid="CroD.Robot.Status.StatusAlimentFactory.Builder.#ctor(System.Single)">Builder(Single)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Builderを生成し、メソッドによって状態異常を生成できる状態にする</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -135,7 +137,8 @@
       <tr>
         <td><span class="xref">System.Single</span></td>
         <td><span class="parametername">refreshTime</span></td>
-        <td></td>
+        <td><p>状態異常の回復時間</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -202,7 +205,8 @@
   
   <a id="CroD_Robot_Status_StatusAlimentFactory_Builder_AbnormalGravity_" data-uid="CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity*"></a>
   <h4 id="CroD_Robot_Status_StatusAlimentFactory_Builder_AbnormalGravity_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Single_System_Int32_" data-uid="CroD.Robot.Status.StatusAlimentFactory.Builder.AbnormalGravity(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single,System.Int32)">AbnormalGravity(StatusAilmentType, ConstantStatusHolder&lt;Int32&gt;, Single, Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>重力場異常の状態異常を生成する</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -221,22 +225,26 @@
       <tr>
         <td><a class="xref" href="CroD.Robot.Status.StatusAilmentType.html">StatusAilmentType</a></td>
         <td><span class="parametername">type</span></td>
-        <td></td>
+        <td><p>状態異常を表す列挙子</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="CroD.Robot.Status.ConstantStatusHolder-1.html">ConstantStatusHolder</a>&lt;<span class="xref">System.Int32</span>&gt;</td>
         <td><span class="parametername">totalWeight</span></td>
-        <td></td>
+        <td><p>総重量のステータスを格納するConstantStatusHolder</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Single</span></td>
         <td><span class="parametername">abnormalGravityRate</span></td>
-        <td></td>
+        <td><p>総重量が上昇する割合</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">progress</span></td>
-        <td></td>
+        <td><p>生成する状態異常の進行度</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -251,7 +259,8 @@
     <tbody>
       <tr>
         <td><a class="xref" href="CroD.Robot.Status.StatusAlimentComponent.html">StatusAlimentComponent</a></td>
-        <td></td>
+        <td><p>状態異常のGameObject</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -316,7 +325,8 @@
   
   <a id="CroD_Robot_Status_StatusAlimentFactory_Builder_FallPrecisely_" data-uid="CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely*"></a>
   <h4 id="CroD_Robot_Status_StatusAlimentFactory_Builder_FallPrecisely_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Single_System_Int32_" data-uid="CroD.Robot.Status.StatusAlimentFactory.Builder.FallPrecisely(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single,System.Int32)">FallPrecisely(StatusAilmentType, ConstantStatusHolder&lt;Int32&gt;, Single, Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>精密起動性低下の状態異常を生成する</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -335,22 +345,26 @@
       <tr>
         <td><a class="xref" href="CroD.Robot.Status.StatusAilmentType.html">StatusAilmentType</a></td>
         <td><span class="parametername">type</span></td>
-        <td></td>
+        <td><p>状態異常を表す列挙子</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="CroD.Robot.Status.ConstantStatusHolder-1.html">ConstantStatusHolder</a>&lt;<span class="xref">System.Int32</span>&gt;</td>
         <td><span class="parametername">precisely</span></td>
-        <td></td>
+        <td><p>精密起動性のステータスを格納するConstantStatusHolder</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Single</span></td>
         <td><span class="parametername">fallPreciselyRate</span></td>
-        <td></td>
+        <td><p>精密起動性が低下する割合</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">progress</span></td>
-        <td></td>
+        <td><p>生成する状態異常の進行度</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -365,7 +379,8 @@
     <tbody>
       <tr>
         <td><a class="xref" href="CroD.Robot.Status.StatusAlimentComponent.html">StatusAlimentComponent</a></td>
-        <td></td>
+        <td><p>状態異常のGameObject</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -430,7 +445,8 @@
   
   <a id="CroD_Robot_Status_StatusAlimentFactory_Builder_FallSynchrony_" data-uid="CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony*"></a>
   <h4 id="CroD_Robot_Status_StatusAlimentFactory_Builder_FallSynchrony_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_ConstantStatusHolder_System_Int32__System_Single_System_Int32_" data-uid="CroD.Robot.Status.StatusAlimentFactory.Builder.FallSynchrony(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.ConstantStatusHolder{System.Int32},System.Single,System.Int32)">FallSynchrony(StatusAilmentType, ConstantStatusHolder&lt;Int32&gt;, Single, Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>同調性低下の状態異常を生成する</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -449,22 +465,26 @@
       <tr>
         <td><a class="xref" href="CroD.Robot.Status.StatusAilmentType.html">StatusAilmentType</a></td>
         <td><span class="parametername">type</span></td>
-        <td></td>
+        <td><p>状態異常を表す列挙子</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="CroD.Robot.Status.ConstantStatusHolder-1.html">ConstantStatusHolder</a>&lt;<span class="xref">System.Int32</span>&gt;</td>
         <td><span class="parametername">synchrony</span></td>
-        <td></td>
+        <td><p>同調性のステータスを格納するConstantStatusHolder</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Single</span></td>
         <td><span class="parametername">fallSynchronyRate</span></td>
-        <td></td>
+        <td><p>同調性が低下する割合</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">progress</span></td>
-        <td></td>
+        <td><p>生成する状態異常の進行度</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -479,7 +499,8 @@
     <tbody>
       <tr>
         <td><a class="xref" href="CroD.Robot.Status.StatusAlimentComponent.html">StatusAlimentComponent</a></td>
-        <td></td>
+        <td><p>状態異常のGameObject</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -673,7 +694,8 @@
   
   <a id="CroD_Robot_Status_StatusAlimentFactory_Builder_Panic_" data-uid="CroD.Robot.Status.StatusAlimentFactory.Builder.Panic*"></a>
   <h4 id="CroD_Robot_Status_StatusAlimentFactory_Builder_Panic_CroD_Robot_Status_StatusAilmentType_CroD_Robot_Status_StatusOnGauge_HP_System_Single_System_TimeSpan_System_Int32_" data-uid="CroD.Robot.Status.StatusAlimentFactory.Builder.Panic(CroD.Robot.Status.StatusAilmentType,CroD.Robot.Status.StatusOnGauge.HP,System.Single,System.TimeSpan,System.Int32)">Panic(StatusAilmentType, HP, Single, TimeSpan, Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>精神不安定の状態異常を生成する</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -692,27 +714,32 @@
       <tr>
         <td><a class="xref" href="CroD.Robot.Status.StatusAilmentType.html">StatusAilmentType</a></td>
         <td><span class="parametername">type</span></td>
-        <td></td>
+        <td><p>状態異常を表す列挙子</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="CroD.Robot.Status.StatusOnGauge.HP.html">HP</a></td>
         <td><span class="parametername">hp</span></td>
-        <td></td>
+        <td><p>HPの値を格納するオブジェクト</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Single</span></td>
         <td><span class="parametername">damageRate</span></td>
-        <td></td>
+        <td><p>HPが低下する割合</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.TimeSpan</span></td>
         <td><span class="parametername">damageSpan</span></td>
-        <td></td>
+        <td><p>HPが低下する時間間隔</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">progress</span></td>
-        <td></td>
+        <td><p>生成する状態異常の進行度</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -727,7 +754,8 @@
     <tbody>
       <tr>
         <td><a class="xref" href="CroD.Robot.Status.StatusAlimentComponent.html">StatusAlimentComponent</a></td>
-        <td></td>
+        <td><p>状態異常のGameObject</p>
+</td>
       </tr>
     </tbody>
   </table>

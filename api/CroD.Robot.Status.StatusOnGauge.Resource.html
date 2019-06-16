@@ -73,7 +73,8 @@
   
   <h1 id="CroD_Robot_Status_StatusOnGauge_Resource" data-uid="CroD.Robot.Status.StatusOnGauge.Resource" class="text-break">Class Resource
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>汎用エネルギーの値を格納するクラス</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -81,8 +82,15 @@
     <div class="level1"><a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html">StatusOnGaugeBase</a></div>
     <div class="level2"><span class="xref">Resource</span></div>
   </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><span class="xref">System.IObservable</span>&lt;<span class="xref">System.Int32</span>&gt;</div>
+  </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_changeValueSubject">StatusOnGaugeBase.changeValueSubject</a>
+    </div>
     <div>
       <a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_MAX">StatusOnGaugeBase.MAX</a>
     </div>
@@ -91,6 +99,9 @@
     </div>
     <div>
       <a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Initialize_System_Single_UnityEngine_GameObject_">StatusOnGaugeBase.Initialize(Single, GameObject)</a>
+    </div>
+    <div>
+      <a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Subscribe_UniRx_IObserver_System_Int32__">StatusOnGaugeBase.Subscribe(IObserver&lt;Int32&gt;)</a>
     </div>
     <div>
       <a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_WithInRange_System_Int32_">StatusOnGaugeBase.WithInRange(Int32)</a>
@@ -121,7 +132,7 @@
   <h6><strong>Assembly</strong>: CroD.dll</h6>
   <h5 id="CroD_Robot_Status_StatusOnGauge_Resource_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class Resource : StatusOnGaugeBase</code></pre>
+    <pre><code class="lang-csharp hljs">public class Resource : StatusOnGaugeBase, IObservable&lt;int&gt;</code></pre>
   </div>
   <h3 id="methods">Methods
   </h3>
@@ -129,7 +140,8 @@
   
   <a id="CroD_Robot_Status_StatusOnGauge_Resource_OnChangePreciseMobility_" data-uid="CroD.Robot.Status.StatusOnGauge.Resource.OnChangePreciseMobility*"></a>
   <h4 id="CroD_Robot_Status_StatusOnGauge_Resource_OnChangePreciseMobility_System_Int32_" data-uid="CroD.Robot.Status.StatusOnGauge.Resource.OnChangePreciseMobility(System.Int32)">OnChangePreciseMobility(Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>精密機動性が変化した呼ばれるコールバック関数</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -148,7 +160,8 @@
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">PreciseMobility</span></td>
-        <td></td>
+        <td><p>精密機動性の値</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -156,7 +169,8 @@
   
   <a id="CroD_Robot_Status_StatusOnGauge_Resource_OnChangeSynchrony_" data-uid="CroD.Robot.Status.StatusOnGauge.Resource.OnChangeSynchrony*"></a>
   <h4 id="CroD_Robot_Status_StatusOnGauge_Resource_OnChangeSynchrony_System_Int32_" data-uid="CroD.Robot.Status.StatusOnGauge.Resource.OnChangeSynchrony(System.Int32)">OnChangeSynchrony(Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>同調性が変化した場合に呼ばれるコールバック関数</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -175,7 +189,8 @@
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">Synchrony</span></td>
-        <td></td>
+        <td><p>同調性の値</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -183,7 +198,8 @@
   
   <a id="CroD_Robot_Status_StatusOnGauge_Resource_OnChangeUnitPower_" data-uid="CroD.Robot.Status.StatusOnGauge.Resource.OnChangeUnitPower*"></a>
   <h4 id="CroD_Robot_Status_StatusOnGauge_Resource_OnChangeUnitPower_System_Int32_" data-uid="CroD.Robot.Status.StatusOnGauge.Resource.OnChangeUnitPower(System.Int32)">OnChangeUnitPower(Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>機関出力が変化したときに呼ばれるコールバック関数</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -202,7 +218,8 @@
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">UnitPower</span></td>
-        <td></td>
+        <td><p>機関出力の値</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -210,7 +227,8 @@
   
   <a id="CroD_Robot_Status_StatusOnGauge_Resource_Reduce_" data-uid="CroD.Robot.Status.StatusOnGauge.Resource.Reduce*"></a>
   <h4 id="CroD_Robot_Status_StatusOnGauge_Resource_Reduce_System_Int32_" data-uid="CroD.Robot.Status.StatusOnGauge.Resource.Reduce(System.Int32)">Reduce(Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>汎用エネルギーを減少させる</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -229,7 +247,8 @@
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">reduceValue</span></td>
-        <td></td>
+        <td><p>減少させるエネルギーの値</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -262,6 +281,10 @@
   </table>
   <h5 class="overrides">Overrides</h5>
   <div><a class="xref" href="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_SpecificInitialize_UnityEngine_GameObject_">StatusOnGaugeBase.SpecificInitialize(GameObject)</a></div>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <span class="xref">System.IObservable&lt;T&gt;</span>
+  </div>
 </article>
           </div>
           

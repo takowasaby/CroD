@@ -73,7 +73,8 @@
   
   <h1 id="CroD_Robot_Status_ConstantStatusHolder_1" data-uid="CroD.Robot.Status.ConstantStatusHolder`1" class="text-break">Class ConstantStatusHolder&lt;T&gt;
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>基本的に固定されるが状態異常などで一時的に変化するステータスを格納するクラス</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -125,7 +126,8 @@
     <tbody>
       <tr>
         <td><span class="parametername">T</span></td>
-        <td></td>
+        <td><p>格納するステータスの数値型</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -135,7 +137,8 @@
   
   <a id="CroD_Robot_Status_ConstantStatusHolder_1_CurrentValue_" data-uid="CroD.Robot.Status.ConstantStatusHolder`1.CurrentValue*"></a>
   <h4 id="CroD_Robot_Status_ConstantStatusHolder_1_CurrentValue" data-uid="CroD.Robot.Status.ConstantStatusHolder`1.CurrentValue">CurrentValue</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>補正がかかったステータスの値</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -160,7 +163,8 @@
   
   <a id="CroD_Robot_Status_ConstantStatusHolder_1_OriginalValue_" data-uid="CroD.Robot.Status.ConstantStatusHolder`1.OriginalValue*"></a>
   <h4 id="CroD_Robot_Status_ConstantStatusHolder_1_OriginalValue" data-uid="CroD.Robot.Status.ConstantStatusHolder`1.OriginalValue">OriginalValue</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>固定ステータスのもともとの値</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -187,7 +191,8 @@
   
   <a id="CroD_Robot_Status_ConstantStatusHolder_1_AddCorrection_" data-uid="CroD.Robot.Status.ConstantStatusHolder`1.AddCorrection*"></a>
   <h4 id="CroD_Robot_Status_ConstantStatusHolder_1_AddCorrection_System_String_System_Func__0__0__" data-uid="CroD.Robot.Status.ConstantStatusHolder`1.AddCorrection(System.String,System.Func{`0,`0})">AddCorrection(String, Func&lt;T, T&gt;)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>ステータスに新たな補正を加える</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -206,12 +211,14 @@
       <tr>
         <td><span class="xref">System.String</span></td>
         <td><span class="parametername">key</span></td>
-        <td></td>
+        <td><p>補正を表すキー（解除時にも使う）</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Func</span>&lt;T, T&gt;</td>
         <td><span class="parametername">correction</span></td>
-        <td></td>
+        <td><p>補正を行うデリゲート</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -219,7 +226,8 @@
   
   <a id="CroD_Robot_Status_ConstantStatusHolder_1_Initialize_" data-uid="CroD.Robot.Status.ConstantStatusHolder`1.Initialize*"></a>
   <h4 id="CroD_Robot_Status_ConstantStatusHolder_1_Initialize__0_" data-uid="CroD.Robot.Status.ConstantStatusHolder`1.Initialize(`0)">Initialize(T)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>ステータスのもともとの値を与えて初期化する</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -246,7 +254,8 @@
   
   <a id="CroD_Robot_Status_ConstantStatusHolder_1_RemoveCorrection_" data-uid="CroD.Robot.Status.ConstantStatusHolder`1.RemoveCorrection*"></a>
   <h4 id="CroD_Robot_Status_ConstantStatusHolder_1_RemoveCorrection_System_String_" data-uid="CroD.Robot.Status.ConstantStatusHolder`1.RemoveCorrection(System.String)">RemoveCorrection(String)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>ステータスに加えた補正を解除する</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -265,7 +274,8 @@
       <tr>
         <td><span class="xref">System.String</span></td>
         <td><span class="parametername">key</span></td>
-        <td></td>
+        <td><p>補正を加える際に指定したキー</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -280,7 +290,8 @@
     <tbody>
       <tr>
         <td><span class="xref">System.Boolean</span></td>
-        <td></td>
+        <td><p>解除しようとした補正が存在したかどうかを表す論理値</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -288,7 +299,8 @@
   
   <a id="CroD_Robot_Status_ConstantStatusHolder_1_Subscribe_" data-uid="CroD.Robot.Status.ConstantStatusHolder`1.Subscribe*"></a>
   <h4 id="CroD_Robot_Status_ConstantStatusHolder_1_Subscribe_System_IObserver__0__" data-uid="CroD.Robot.Status.ConstantStatusHolder`1.Subscribe(System.IObserver{`0})">Subscribe(IObserver&lt;T&gt;)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>補正がかけられたとき、値の変化を受け取るobserverを登録する</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -307,7 +319,8 @@
       <tr>
         <td><span class="xref">System.IObserver</span>&lt;T&gt;</td>
         <td><span class="parametername">observer</span></td>
-        <td></td>
+        <td><p>登録するobserver</p>
+</td>
       </tr>
     </tbody>
   </table>

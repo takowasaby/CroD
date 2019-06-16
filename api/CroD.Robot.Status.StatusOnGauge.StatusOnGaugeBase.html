@@ -73,7 +73,8 @@
   
   <h1 id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase" data-uid="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase" class="text-break">Class StatusOnGaugeBase
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>最大値が固定で値が細かく変化するステータスを格納する基底クラス</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -83,6 +84,10 @@
       <div class="level2"><a class="xref" href="CroD.Robot.Status.StatusOnGauge.HP.html">HP</a></div>
       <div class="level2"><a class="xref" href="CroD.Robot.Status.StatusOnGauge.Insanity.html">Insanity</a></div>
       <div class="level2"><a class="xref" href="CroD.Robot.Status.StatusOnGauge.Resource.html">Resource</a></div>
+  </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><span class="xref">System.IObservable</span>&lt;<span class="xref">System.Int32</span>&gt;</div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
@@ -112,7 +117,7 @@
   <h6><strong>Assembly</strong>: CroD.dll</h6>
   <h5 id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class StatusOnGaugeBase</code></pre>
+    <pre><code class="lang-csharp hljs">public class StatusOnGaugeBase : IObservable&lt;int&gt;</code></pre>
   </div>
   <h3 id="constructors">Constructors
   </h3>
@@ -126,13 +131,40 @@
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">protected StatusOnGaugeBase()</code></pre>
   </div>
+  <h3 id="fields">Fields
+  </h3>
+  
+  
+  <h4 id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_changeValueSubject" data-uid="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.changeValueSubject">changeValueSubject</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected Subject&lt;int&gt; changeValueSubject</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">UniRx.Subject</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="properties">Properties
   </h3>
   
   
   <a id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_MAX_" data-uid="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.MAX*"></a>
   <h4 id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_MAX" data-uid="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.MAX">MAX</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>ステータスの固定の最大値</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -157,7 +189,8 @@
   
   <a id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Value_" data-uid="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Value*"></a>
   <h4 id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Value" data-uid="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Value">Value</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>ステータスの現在の値</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -184,7 +217,8 @@
   
   <a id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Initialize_" data-uid="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Initialize*"></a>
   <h4 id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Initialize_System_Single_UnityEngine_GameObject_" data-uid="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Initialize(System.Single,UnityEngine.GameObject)">Initialize(Single, GameObject)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>デフォルトの割合で初期化を行う</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -203,12 +237,14 @@
       <tr>
         <td><span class="xref">System.Single</span></td>
         <td><span class="parametername">defaultRate</span></td>
-        <td></td>
+        <td><p>最大値に対しての初期値の割合</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">UnityEngine.GameObject</span></td>
         <td><span class="parametername">robot</span></td>
-        <td></td>
+        <td><p>ステータスを保持するRobotのGameObject</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -241,9 +277,54 @@
   </table>
   
   
+  <a id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Subscribe_" data-uid="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe*"></a>
+  <h4 id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Subscribe_UniRx_IObserver_System_Int32__" data-uid="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver{System.Int32})">Subscribe(IObserver&lt;Int32&gt;)</h4>
+  <div class="markdown level1 summary"><p>HPの変化を観測するobserverを登録する</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IDisposable Subscribe(IObserver&lt;int&gt; observer)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">UniRx.IObserver</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><span class="parametername">observer</span></td>
+        <td><p>登録するobserver</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.IDisposable</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
   <a id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_WithInRange_" data-uid="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.WithInRange*"></a>
   <h4 id="CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_WithInRange_System_Int32_" data-uid="CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.WithInRange(System.Int32)">WithInRange(Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>値を最大値と最小値（0）で丸める</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -281,6 +362,10 @@
       </tr>
     </tbody>
   </table>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <span class="xref">System.IObservable&lt;T&gt;</span>
+  </div>
 </article>
           </div>
           

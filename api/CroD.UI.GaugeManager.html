@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class StatusAlimentComponent
+    <title>Class GaugeManager
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class StatusAlimentComponent
+    <meta name="title" content="Class GaugeManager
    ">
     <meta name="generator" content="docfx 2.42.0.0">
     
@@ -68,13 +68,12 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="CroD.Robot.Status.StatusAlimentComponent">
+            <article class="content wrap" id="_content" data-uid="CroD.UI.GaugeManager">
   
   
-  <h1 id="CroD_Robot_Status_StatusAlimentComponent" data-uid="CroD.Robot.Status.StatusAlimentComponent" class="text-break">Class StatusAlimentComponent
+  <h1 id="CroD_UI_GaugeManager" data-uid="CroD.UI.GaugeManager" class="text-break">Class GaugeManager
   </h1>
-  <div class="markdown level0 summary"><p>状態異常の効果の処理を行うComponent</p>
-</div>
+  <div class="markdown level0 summary"></div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -83,7 +82,7 @@
     <div class="level2"><span class="xref">UnityEngine.Component</span></div>
     <div class="level3"><span class="xref">UnityEngine.Behaviour</span></div>
     <div class="level4"><span class="xref">UnityEngine.MonoBehaviour</span></div>
-    <div class="level5"><span class="xref">StatusAlimentComponent</span></div>
+    <div class="level5"><span class="xref">GaugeManager</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
@@ -418,52 +417,23 @@
       <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
     </div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="CroD.Robot.Status.html">CroD.Robot.Status</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="CroD.UI.html">CroD.UI</a></h6>
   <h6><strong>Assembly</strong>: CroD.dll</h6>
-  <h5 id="CroD_Robot_Status_StatusAlimentComponent_syntax">Syntax</h5>
+  <h5 id="CroD_UI_GaugeManager_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class StatusAlimentComponent : MonoBehaviour</code></pre>
+    <pre><code class="lang-csharp hljs">public class GaugeManager : MonoBehaviour</code></pre>
   </div>
-  <h3 id="properties">Properties
-  </h3>
-  
-  
-  <a id="CroD_Robot_Status_StatusAlimentComponent_Progress_" data-uid="CroD.Robot.Status.StatusAlimentComponent.Progress*"></a>
-  <h4 id="CroD_Robot_Status_StatusAlimentComponent_Progress" data-uid="CroD.Robot.Status.StatusAlimentComponent.Progress">Progress</h4>
-  <div class="markdown level1 summary"><p>状態異常の進行度</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public int Progress { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
   <h3 id="methods">Methods
   </h3>
   
   
-  <a id="CroD_Robot_Status_StatusAlimentComponent_Initialize_" data-uid="CroD.Robot.Status.StatusAlimentComponent.Initialize*"></a>
-  <h4 id="CroD_Robot_Status_StatusAlimentComponent_Initialize_CroD_Robot_Status_StatusAlimentComponent_IAliment_System_Single_System_Int32_" data-uid="CroD.Robot.Status.StatusAlimentComponent.Initialize(CroD.Robot.Status.StatusAlimentComponent.IAliment,System.Single,System.Int32)">Initialize(StatusAlimentComponent.IAliment, Single, Int32)</h4>
-  <div class="markdown level1 summary"><p>状態異常を初期化し、効果の処理を始める</p>
-</div>
+  <a id="CroD_UI_GaugeManager_HPGaugeRegister_" data-uid="CroD.UI.GaugeManager.HPGaugeRegister*"></a>
+  <h4 id="CroD_UI_GaugeManager_HPGaugeRegister_CroD_UI_HPGauge_" data-uid="CroD.UI.GaugeManager.HPGaugeRegister(CroD.UI.HPGauge)">HPGaugeRegister(HPGauge)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public StatusAlimentComponent Initialize(StatusAlimentComponent.IAliment aliment, float refreshTime, int progress)</code></pre>
+    <pre><code class="lang-csharp hljs">public void HPGaugeRegister(HPGauge hpGauge)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -476,51 +446,21 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="CroD.Robot.Status.StatusAlimentComponent.IAliment.html">StatusAlimentComponent.IAliment</a></td>
-        <td><span class="parametername">aliment</span></td>
-        <td><p>状態異常ごとの具体的な実装を持つオブジェクト</p>
-</td>
-      </tr>
-      <tr>
-        <td><span class="xref">System.Single</span></td>
-        <td><span class="parametername">refreshTime</span></td>
-        <td><p>状態異常の自然回復までの時間</p>
-</td>
-      </tr>
-      <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td><span class="parametername">progress</span></td>
-        <td><p>状態異常の初期進行度</p>
-</td>
-      </tr>
-    </tbody>
-  </table>
-  <h5 class="returns">Returns</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="CroD.Robot.Status.StatusAlimentComponent.html">StatusAlimentComponent</a></td>
-        <td><p>状態異常の処理を行うComponent</p>
-</td>
+        <td><a class="xref" href="CroD.UI.HPGauge.html">HPGauge</a></td>
+        <td><span class="parametername">hpGauge</span></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
   
   
-  <a id="CroD_Robot_Status_StatusAlimentComponent_MakeProgress_" data-uid="CroD.Robot.Status.StatusAlimentComponent.MakeProgress*"></a>
-  <h4 id="CroD_Robot_Status_StatusAlimentComponent_MakeProgress_System_Int32_" data-uid="CroD.Robot.Status.StatusAlimentComponent.MakeProgress(System.Int32)">MakeProgress(Int32)</h4>
-  <div class="markdown level1 summary"><p>状態異常の進行度を増加させる</p>
-</div>
+  <a id="CroD_UI_GaugeManager_RobotRegister_" data-uid="CroD.UI.GaugeManager.RobotRegister*"></a>
+  <h4 id="CroD_UI_GaugeManager_RobotRegister_CroD_Robot_Status_RobotStatus_" data-uid="CroD.UI.GaugeManager.RobotRegister(CroD.Robot.Status.RobotStatus)">RobotRegister(RobotStatus)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void MakeProgress(int progress = 1)</code></pre>
+    <pre><code class="lang-csharp hljs">public void RobotRegister(RobotStatus status)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -533,50 +473,9 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td><span class="parametername">progress</span></td>
-        <td><p>増加させる状態異常の進行度</p>
-</td>
-      </tr>
-    </tbody>
-  </table>
-  
-  
-  <a id="CroD_Robot_Status_StatusAlimentComponent_ResetTimer_" data-uid="CroD.Robot.Status.StatusAlimentComponent.ResetTimer*"></a>
-  <h4 id="CroD_Robot_Status_StatusAlimentComponent_ResetTimer" data-uid="CroD.Robot.Status.StatusAlimentComponent.ResetTimer">ResetTimer()</h4>
-  <div class="markdown level1 summary"><p>状態異常の回復までの時間をリセットする</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void ResetTimer()</code></pre>
-  </div>
-  
-  
-  <a id="CroD_Robot_Status_StatusAlimentComponent_RestoreProgress_" data-uid="CroD.Robot.Status.StatusAlimentComponent.RestoreProgress*"></a>
-  <h4 id="CroD_Robot_Status_StatusAlimentComponent_RestoreProgress_System_Int32_" data-uid="CroD.Robot.Status.StatusAlimentComponent.RestoreProgress(System.Int32)">RestoreProgress(Int32)</h4>
-  <div class="markdown level1 summary"><p>状態異常の進行度を減少させる</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void RestoreProgress(int progress = 1)</code></pre>
-  </div>
-  <h5 class="parameters">Parameters</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Name</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td><span class="parametername">progress</span></td>
-        <td><p>減少させる状態異常の進行度</p>
-</td>
+        <td><a class="xref" href="CroD.Robot.Status.RobotStatus.html">RobotStatus</a></td>
+        <td><span class="parametername">status</span></td>
+        <td></td>
       </tr>
     </tbody>
   </table>

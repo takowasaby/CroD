@@ -2458,6 +2458,12 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.StatusOnGaugeBase
   nameWithType: StatusOnGaugeBase.StatusOnGaugeBase
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.changeValueSubject
+  name: changeValueSubject
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_changeValueSubject
+  commentId: F:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.changeValueSubject
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.changeValueSubject
+  nameWithType: StatusOnGaugeBase.changeValueSubject
 - uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Initialize(System.Single,UnityEngine.GameObject)
   name: Initialize(Single, GameObject)
   href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Initialize_System_Single_UnityEngine_GameObject_
@@ -2497,6 +2503,22 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.SpecificInitialize
   nameWithType: StatusOnGaugeBase.SpecificInitialize
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver{System.Int32})
+  name: Subscribe(IObserver<Int32>)
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Subscribe_UniRx_IObserver_System_Int32__
+  commentId: M:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver{System.Int32})
+  name.vb: Subscribe(IObserver(Of Int32))
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver<System.Int32>)
+  fullName.vb: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe(UniRx.IObserver(Of System.Int32))
+  nameWithType: StatusOnGaugeBase.Subscribe(IObserver<Int32>)
+  nameWithType.vb: StatusOnGaugeBase.Subscribe(IObserver(Of Int32))
+- uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe*
+  name: Subscribe
+  href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Subscribe_
+  commentId: Overload:CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe
+  isSpec: "True"
+  fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Subscribe
+  nameWithType: StatusOnGaugeBase.Subscribe
 - uid: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.Value
   name: Value
   href: api/CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.html#CroD_Robot_Status_StatusOnGauge_StatusOnGaugeBase_Value
@@ -2523,3 +2545,79 @@ references:
   isSpec: "True"
   fullName: CroD.Robot.Status.StatusOnGauge.StatusOnGaugeBase.WithInRange
   nameWithType: StatusOnGaugeBase.WithInRange
+- uid: CroD.UI
+  name: CroD.UI
+  href: api/CroD.UI.html
+  commentId: N:CroD.UI
+  fullName: CroD.UI
+  nameWithType: CroD.UI
+- uid: CroD.UI.GaugeManager
+  name: GaugeManager
+  href: api/CroD.UI.GaugeManager.html
+  commentId: T:CroD.UI.GaugeManager
+  fullName: CroD.UI.GaugeManager
+  nameWithType: GaugeManager
+- uid: CroD.UI.GaugeManager.HPGaugeRegister(CroD.UI.HPGauge)
+  name: HPGaugeRegister(HPGauge)
+  href: api/CroD.UI.GaugeManager.html#CroD_UI_GaugeManager_HPGaugeRegister_CroD_UI_HPGauge_
+  commentId: M:CroD.UI.GaugeManager.HPGaugeRegister(CroD.UI.HPGauge)
+  fullName: CroD.UI.GaugeManager.HPGaugeRegister(CroD.UI.HPGauge)
+  nameWithType: GaugeManager.HPGaugeRegister(HPGauge)
+- uid: CroD.UI.GaugeManager.HPGaugeRegister*
+  name: HPGaugeRegister
+  href: api/CroD.UI.GaugeManager.html#CroD_UI_GaugeManager_HPGaugeRegister_
+  commentId: Overload:CroD.UI.GaugeManager.HPGaugeRegister
+  isSpec: "True"
+  fullName: CroD.UI.GaugeManager.HPGaugeRegister
+  nameWithType: GaugeManager.HPGaugeRegister
+- uid: CroD.UI.GaugeManager.RobotRegister(CroD.Robot.Status.RobotStatus)
+  name: RobotRegister(RobotStatus)
+  href: api/CroD.UI.GaugeManager.html#CroD_UI_GaugeManager_RobotRegister_CroD_Robot_Status_RobotStatus_
+  commentId: M:CroD.UI.GaugeManager.RobotRegister(CroD.Robot.Status.RobotStatus)
+  fullName: CroD.UI.GaugeManager.RobotRegister(CroD.Robot.Status.RobotStatus)
+  nameWithType: GaugeManager.RobotRegister(RobotStatus)
+- uid: CroD.UI.GaugeManager.RobotRegister*
+  name: RobotRegister
+  href: api/CroD.UI.GaugeManager.html#CroD_UI_GaugeManager_RobotRegister_
+  commentId: Overload:CroD.UI.GaugeManager.RobotRegister
+  isSpec: "True"
+  fullName: CroD.UI.GaugeManager.RobotRegister
+  nameWithType: GaugeManager.RobotRegister
+- uid: CroD.UI.HPGauge
+  name: HPGauge
+  href: api/CroD.UI.HPGauge.html
+  commentId: T:CroD.UI.HPGauge
+  fullName: CroD.UI.HPGauge
+  nameWithType: HPGauge
+- uid: CroD.UI.HPGauge.changePropotion(System.Single)
+  name: changePropotion(Single)
+  href: api/CroD.UI.HPGauge.html#CroD_UI_HPGauge_changePropotion_System_Single_
+  commentId: M:CroD.UI.HPGauge.changePropotion(System.Single)
+  fullName: CroD.UI.HPGauge.changePropotion(System.Single)
+  nameWithType: HPGauge.changePropotion(Single)
+- uid: CroD.UI.HPGauge.changePropotion*
+  name: changePropotion
+  href: api/CroD.UI.HPGauge.html#CroD_UI_HPGauge_changePropotion_
+  commentId: Overload:CroD.UI.HPGauge.changePropotion
+  isSpec: "True"
+  fullName: CroD.UI.HPGauge.changePropotion
+  nameWithType: HPGauge.changePropotion
+- uid: CroD.UI.IGauge
+  name: IGauge
+  href: api/CroD.UI.IGauge.html
+  commentId: T:CroD.UI.IGauge
+  fullName: CroD.UI.IGauge
+  nameWithType: IGauge
+- uid: CroD.UI.IGauge.changePropotion(System.Single)
+  name: changePropotion(Single)
+  href: api/CroD.UI.IGauge.html#CroD_UI_IGauge_changePropotion_System_Single_
+  commentId: M:CroD.UI.IGauge.changePropotion(System.Single)
+  fullName: CroD.UI.IGauge.changePropotion(System.Single)
+  nameWithType: IGauge.changePropotion(Single)
+- uid: CroD.UI.IGauge.changePropotion*
+  name: changePropotion
+  href: api/CroD.UI.IGauge.html#CroD_UI_IGauge_changePropotion_
+  commentId: Overload:CroD.UI.IGauge.changePropotion
+  isSpec: "True"
+  fullName: CroD.UI.IGauge.changePropotion
+  nameWithType: IGauge.changePropotion
