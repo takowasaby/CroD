@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class RobotMover
+    <title>Class StatusAilmentComponent
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class RobotMover
+    <meta name="title" content="Class StatusAilmentComponent
    ">
     <meta name="generator" content="docfx 2.42.0.0">
     
@@ -68,12 +68,13 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="CroD.Robot.Action.RobotMover">
+            <article class="content wrap" id="_content" data-uid="CroD.Robot.Status.StatusAilmentComponent">
   
   
-  <h1 id="CroD_Robot_Action_RobotMover" data-uid="CroD.Robot.Action.RobotMover" class="text-break">Class RobotMover
+  <h1 id="CroD_Robot_Status_StatusAilmentComponent" data-uid="CroD.Robot.Status.StatusAilmentComponent" class="text-break">Class StatusAilmentComponent
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>状態異常の効果の処理を行うComponent</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -82,11 +83,7 @@
     <div class="level2"><span class="xref">UnityEngine.Component</span></div>
     <div class="level3"><span class="xref">UnityEngine.Behaviour</span></div>
     <div class="level4"><span class="xref">UnityEngine.MonoBehaviour</span></div>
-    <div class="level5"><span class="xref">RobotMover</span></div>
-  </div>
-  <div classs="implements">
-    <h5>Implements</h5>
-    <div><a class="xref" href="CroD.Robot.Action.IRobotAction.html">IRobotAction</a></div>
+    <div class="level5"><span class="xref">StatusAilmentComponent</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
@@ -421,23 +418,52 @@
       <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
     </div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="CroD.Robot.Action.html">CroD.Robot.Action</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="CroD.Robot.Status.html">CroD.Robot.Status</a></h6>
   <h6><strong>Assembly</strong>: CroD.dll</h6>
-  <h5 id="CroD_Robot_Action_RobotMover_syntax">Syntax</h5>
+  <h5 id="CroD_Robot_Status_StatusAilmentComponent_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class RobotMover : MonoBehaviour, IRobotAction</code></pre>
+    <pre><code class="lang-csharp hljs">public class StatusAilmentComponent : MonoBehaviour</code></pre>
   </div>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="CroD_Robot_Status_StatusAilmentComponent_Progress_" data-uid="CroD.Robot.Status.StatusAilmentComponent.Progress*"></a>
+  <h4 id="CroD_Robot_Status_StatusAilmentComponent_Progress" data-uid="CroD.Robot.Status.StatusAilmentComponent.Progress">Progress</h4>
+  <div class="markdown level1 summary"><p>状態異常の進行度</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int Progress { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="methods">Methods
   </h3>
   
   
-  <a id="CroD_Robot_Action_RobotMover_OnChangeMoveState_" data-uid="CroD.Robot.Action.RobotMover.OnChangeMoveState*"></a>
-  <h4 id="CroD_Robot_Action_RobotMover_OnChangeMoveState_UniRx_Unit_" data-uid="CroD.Robot.Action.RobotMover.OnChangeMoveState(UniRx.Unit)">OnChangeMoveState(Unit)</h4>
-  <div class="markdown level1 summary"></div>
+  <a id="CroD_Robot_Status_StatusAilmentComponent_Initialize_" data-uid="CroD.Robot.Status.StatusAilmentComponent.Initialize*"></a>
+  <h4 id="CroD_Robot_Status_StatusAilmentComponent_Initialize_CroD_Robot_Status_StatusAilmentComponent_IAliment_System_Single_System_Int32_" data-uid="CroD.Robot.Status.StatusAilmentComponent.Initialize(CroD.Robot.Status.StatusAilmentComponent.IAliment,System.Single,System.Int32)">Initialize(StatusAilmentComponent.IAliment, Single, Int32)</h4>
+  <div class="markdown level1 summary"><p>状態異常を初期化し、効果の処理を始める</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void OnChangeMoveState(Unit _)</code></pre>
+    <pre><code class="lang-csharp hljs">public StatusAilmentComponent Initialize(StatusAilmentComponent.IAliment aliment, float refreshTime, int progress)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -450,49 +476,25 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">UniRx.Unit</span></td>
-        <td><span class="parametername">_</span></td>
-        <td></td>
+        <td><a class="xref" href="CroD.Robot.Status.StatusAilmentComponent.IAliment.html">StatusAilmentComponent.IAliment</a></td>
+        <td><span class="parametername">aliment</span></td>
+        <td><p>状態異常ごとの具体的な実装を持つオブジェクト</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">refreshTime</span></td>
+        <td><p>状態異常の自然回復までの時間</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">progress</span></td>
+        <td><p>状態異常の初期進行度</p>
+</td>
       </tr>
     </tbody>
   </table>
-  
-  
-  <a id="CroD_Robot_Action_RobotMover_OnMoveRobot_" data-uid="CroD.Robot.Action.RobotMover.OnMoveRobot*"></a>
-  <h4 id="CroD_Robot_Action_RobotMover_OnMoveRobot_UnityEngine_Vector2_" data-uid="CroD.Robot.Action.RobotMover.OnMoveRobot(UnityEngine.Vector2)">OnMoveRobot(Vector2)</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void OnMoveRobot(Vector2 input)</code></pre>
-  </div>
-  <h5 class="parameters">Parameters</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Name</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">UnityEngine.Vector2</span></td>
-        <td><span class="parametername">input</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  
-  
-  <a id="CroD_Robot_Action_RobotMover_SetMovePower_" data-uid="CroD.Robot.Action.RobotMover.SetMovePower*"></a>
-  <h4 id="CroD_Robot_Action_RobotMover_SetMovePower" data-uid="CroD.Robot.Action.RobotMover.SetMovePower">SetMovePower()</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public float SetMovePower()</code></pre>
-  </div>
   <h5 class="returns">Returns</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
@@ -503,20 +505,22 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Single</span></td>
-        <td></td>
+        <td><a class="xref" href="CroD.Robot.Status.StatusAilmentComponent.html">StatusAilmentComponent</a></td>
+        <td><p>状態異常の処理を行うComponent</p>
+</td>
       </tr>
     </tbody>
   </table>
   
   
-  <a id="CroD_Robot_Action_RobotMover_SetParentRobot_" data-uid="CroD.Robot.Action.RobotMover.SetParentRobot*"></a>
-  <h4 id="CroD_Robot_Action_RobotMover_SetParentRobot_UnityEngine_Transform_" data-uid="CroD.Robot.Action.RobotMover.SetParentRobot(UnityEngine.Transform)">SetParentRobot(Transform)</h4>
-  <div class="markdown level1 summary"></div>
+  <a id="CroD_Robot_Status_StatusAilmentComponent_MakeProgress_" data-uid="CroD.Robot.Status.StatusAilmentComponent.MakeProgress*"></a>
+  <h4 id="CroD_Robot_Status_StatusAilmentComponent_MakeProgress_System_Int32_" data-uid="CroD.Robot.Status.StatusAilmentComponent.MakeProgress(System.Int32)">MakeProgress(Int32)</h4>
+  <div class="markdown level1 summary"><p>状態異常の進行度を増加させる</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void SetParentRobot(Transform target)</code></pre>
+    <pre><code class="lang-csharp hljs">public void MakeProgress(int progress = 1)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -529,21 +533,34 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">UnityEngine.Transform</span></td>
-        <td><span class="parametername">target</span></td>
-        <td></td>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">progress</span></td>
+        <td><p>増加させる状態異常の進行度</p>
+</td>
       </tr>
     </tbody>
   </table>
   
   
-  <a id="CroD_Robot_Action_RobotMover_SwitchMoveDirection_" data-uid="CroD.Robot.Action.RobotMover.SwitchMoveDirection*"></a>
-  <h4 id="CroD_Robot_Action_RobotMover_SwitchMoveDirection_CroD_Robot_Action_MoveState_" data-uid="CroD.Robot.Action.RobotMover.SwitchMoveDirection(CroD.Robot.Action.MoveState)">SwitchMoveDirection(MoveState)</h4>
-  <div class="markdown level1 summary"></div>
+  <a id="CroD_Robot_Status_StatusAilmentComponent_ResetTimer_" data-uid="CroD.Robot.Status.StatusAilmentComponent.ResetTimer*"></a>
+  <h4 id="CroD_Robot_Status_StatusAilmentComponent_ResetTimer" data-uid="CroD.Robot.Status.StatusAilmentComponent.ResetTimer">ResetTimer()</h4>
+  <div class="markdown level1 summary"><p>状態異常の回復までの時間をリセットする</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void SwitchMoveDirection(MoveState state)</code></pre>
+    <pre><code class="lang-csharp hljs">public void ResetTimer()</code></pre>
+  </div>
+  
+  
+  <a id="CroD_Robot_Status_StatusAilmentComponent_RestoreProgress_" data-uid="CroD.Robot.Status.StatusAilmentComponent.RestoreProgress*"></a>
+  <h4 id="CroD_Robot_Status_StatusAilmentComponent_RestoreProgress_System_Int32_" data-uid="CroD.Robot.Status.StatusAilmentComponent.RestoreProgress(System.Int32)">RestoreProgress(Int32)</h4>
+  <div class="markdown level1 summary"><p>状態異常の進行度を減少させる</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void RestoreProgress(int progress = 1)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -556,16 +573,13 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="CroD.Robot.Action.MoveState.html">MoveState</a></td>
-        <td><span class="parametername">state</span></td>
-        <td></td>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">progress</span></td>
+        <td><p>減少させる状態異常の進行度</p>
+</td>
       </tr>
     </tbody>
   </table>
-  <h3 id="implements">Implements</h3>
-  <div>
-      <a class="xref" href="CroD.Robot.Action.IRobotAction.html">IRobotAction</a>
-  </div>
 </article>
           </div>
           

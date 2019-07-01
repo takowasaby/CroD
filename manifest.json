@@ -5,6 +5,114 @@
   "files": [
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/CroD.AI.AICoreID.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.AI.AICoreID.html",
+          "hash": "1xS66loMXrdhoxi20v7Idw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.AI.AIRegister.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.AI.AIRegister.html",
+          "hash": "JdlRavVrllLA5nn0VBUi5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.AI.AITransmitter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.AI.AITransmitter.html",
+          "hash": "ZvbZ6AiGkxGcw1sBSYqGWQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.AI.Core.Simple.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.AI.Core.Simple.html",
+          "hash": "ASrabHNrSUdBJYFXQ6ohjA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.AI.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.AI.Core.html",
+          "hash": "rozmFamYL7MPhYiwonFiqA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.AI.CoreFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.AI.CoreFactory.html",
+          "hash": "9rOahFvW9bvju7m41Zi8VQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.AI.IAICore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.AI.IAICore.html",
+          "hash": "Y7xCHyKwak5Q68nQxvhnJQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.AI.RobotAI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.AI.RobotAI.html",
+          "hash": "HUJswpRxFo8JWQ3pmu8Huw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.AI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.AI.html",
+          "hash": "O6lA42j3czGsiaBM5wRPEw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/CroD.Data.HyperParamater.yml",
       "output": {
         ".html": {
@@ -141,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Operator.OperatorID.html",
-          "hash": "I+3hassXdcnoqkNWYjo78Q=="
+          "hash": "1X9s9Ata/d9apJfkP81WyQ=="
         }
       },
       "is_incremental": true,
@@ -197,6 +305,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Action.IRobotAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Action.IRobotAction.html",
+          "hash": "7sfTQ8VToO+XinhKVqzKJg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Action.LockOn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Action.LockOn.html",
+          "hash": "sQ0QqG+1JWXVFMLxmwpQ2w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/CroD.Robot.Action.MoveState.yml",
       "output": {
         ".html": {
@@ -213,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Robot.Action.RobotBooster.html",
-          "hash": "hFyXxKtC2cz9yOa/0FOH9w=="
+          "hash": "0T2aDN+5Q+2+G9H5CH+s9A=="
         }
       },
       "is_incremental": true,
@@ -225,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Robot.Action.RobotMover.html",
-          "hash": "Hc61pdPmkw3Qpz6r6AYkgA=="
+          "hash": "43xgczICn7ebhxc0o7skxw=="
         }
       },
       "is_incremental": true,
@@ -237,7 +369,31 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Robot.Action.html",
-          "hash": "DSZAAG58rtuVYb9mQn9jKg=="
+          "hash": "spKhrVj+X07rll6UV+AvUw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Lockable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Lockable.html",
+          "hash": "CaiY4FIp3heb2lX5tzzj8Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.LockableRobots.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.LockableRobots.html",
+          "hash": "dlKV2bG1KWdGjkdxHhg4CQ=="
         }
       },
       "is_incremental": true,
@@ -252,7 +408,7 @@
           "hash": "HPftVre2OQj1LeoiKUh/pg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -264,7 +420,7 @@
           "hash": "AU/X2dFfKBOFqlZi1DLOEg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -297,7 +453,67 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Robot.Status.RobotStatus.html",
-          "hash": "MGz+9ANy9R+OphOx87zxLg=="
+          "hash": "q14AuGP92NzRfvn3yK5Crw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAilment.html",
+          "hash": "mPIJZBZ5TYQLvfErgktf7g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilmentComponent.IAliment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAilmentComponent.IAliment.html",
+          "hash": "F8gLfrPsRy4rvJonUGfP3g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilmentComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAilmentComponent.html",
+          "hash": "VDUbe+5yGgC+whW7cASTLA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilmentFactory.Builder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAilmentFactory.Builder.html",
+          "hash": "yzr9+vs29KUjsZla6P5fBA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilmentFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CroD.Robot.Status.StatusAilmentFactory.html",
+          "hash": "+u44JzAWag1tqiPX6sFdzA=="
         }
       },
       "is_incremental": true,
@@ -317,11 +533,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Robot.Status.StatusAliment.yml",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilments.AbnormalGravity.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CroD.Robot.Status.StatusAliment.html",
-          "hash": "zyIg3trLZFnazG7kdi8mMg=="
+          "relative_path": "api/CroD.Robot.Status.StatusAilments.AbnormalGravity.html",
+          "hash": "BgoCxA9VF65252HwwfschQ=="
         }
       },
       "is_incremental": true,
@@ -329,11 +545,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Robot.Status.StatusAlimentComponent.IAliment.yml",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilments.BlockRockOn.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CroD.Robot.Status.StatusAlimentComponent.IAliment.html",
-          "hash": "y5CHjdJc8z7Ae634DzCLfg=="
+          "relative_path": "api/CroD.Robot.Status.StatusAilments.BlockRockOn.html",
+          "hash": "ARJPWs2ZIcmGTfWMZ6L9FQ=="
         }
       },
       "is_incremental": true,
@@ -341,11 +557,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Robot.Status.StatusAlimentComponent.yml",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilments.FallPrecisely.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CroD.Robot.Status.StatusAlimentComponent.html",
-          "hash": "FlnWA71giDY6+FhNK07tYw=="
+          "relative_path": "api/CroD.Robot.Status.StatusAilments.FallPrecisely.html",
+          "hash": "JuGh+Il6FWqsM3g8POT2vA=="
         }
       },
       "is_incremental": true,
@@ -353,11 +569,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Robot.Status.StatusAlimentFactory.Builder.yml",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilments.FallSpeed.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CroD.Robot.Status.StatusAlimentFactory.Builder.html",
-          "hash": "o5OoExG2lbGL/z9kFvmFTA=="
+          "relative_path": "api/CroD.Robot.Status.StatusAilments.FallSpeed.html",
+          "hash": "OlxhDps2FJynS7z/QHQoCA=="
         }
       },
       "is_incremental": true,
@@ -365,11 +581,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Robot.Status.StatusAlimentFactory.yml",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilments.FallSynchrony.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CroD.Robot.Status.StatusAlimentFactory.html",
-          "hash": "eOQfJQAHDie2RQnPjsBJJw=="
+          "relative_path": "api/CroD.Robot.Status.StatusAilments.FallSynchrony.html",
+          "hash": "YwacQ8NrCuBrNykd3Xoz1Q=="
         }
       },
       "is_incremental": true,
@@ -377,23 +593,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Robot.Status.StatusAliments.AbnormalGravity.yml",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilments.Panic.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CroD.Robot.Status.StatusAliments.AbnormalGravity.html",
-          "hash": "uZO0PxMFq6hvRHQRgUucQA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Robot.Status.StatusAliments.BlockRockOn.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CroD.Robot.Status.StatusAliments.BlockRockOn.html",
-          "hash": "bVunLYch6DoEmxSrqQba9w=="
+          "relative_path": "api/CroD.Robot.Status.StatusAilments.Panic.html",
+          "hash": "XIZKMh1p4Hb4Y4L7Aj4Jiw=="
         }
       },
       "is_incremental": true,
@@ -401,62 +605,14 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Robot.Status.StatusAliments.FallPrecisely.yml",
+      "source_relative_path": "api/CroD.Robot.Status.StatusAilments.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CroD.Robot.Status.StatusAliments.FallPrecisely.html",
-          "hash": "E7jVeVlnOTmE2QwTzvCUcw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Robot.Status.StatusAliments.FallSpeed.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CroD.Robot.Status.StatusAliments.FallSpeed.html",
-          "hash": "xVUWh4r9rODydRF0RmZJEg=="
+          "relative_path": "api/CroD.Robot.Status.StatusAilments.html",
+          "hash": "fUnLTsQ1HuZpL7XGkDUNIg=="
         }
       },
       "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Robot.Status.StatusAliments.FallSynchrony.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CroD.Robot.Status.StatusAliments.FallSynchrony.html",
-          "hash": "cWYZYaVOBwojZdczMcn80A=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Robot.Status.StatusAliments.Panic.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CroD.Robot.Status.StatusAliments.Panic.html",
-          "hash": "EKedQMTz3XtLOp1LGyQV/w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CroD.Robot.Status.StatusAliments.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CroD.Robot.Status.StatusAliments.html",
-          "hash": "/mJiJuh7hhyzZlU4E3MIrw=="
-        }
-      },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -537,7 +693,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Robot.Status.html",
-          "hash": "fkPu9cxR2M3WOrkjacbkrg=="
+          "hash": "mX+/V1tBA1c6+Q+YMPIwdw=="
         }
       },
       "is_incremental": true,
@@ -549,10 +705,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CroD.Robot.html",
-          "hash": "MmucdnqADorS7uaGSwzO9Q=="
+          "hash": "NmHrhfpXrF8fEJ39JcEhWQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -564,7 +720,7 @@
           "hash": "lJPn1JebRi8ZrzKpw8Bb+w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -576,7 +732,7 @@
           "hash": "/68IJx+vJJDJYsa/owaKYQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -600,7 +756,7 @@
           "hash": "0gWPQtX17NnC8DUQd6Limw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -621,7 +777,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "ZAb2GNsuuqAU1WQk0NlVzA=="
+          "hash": "FmvQVY73MPObepMH2l/0Ww=="
         }
       },
       "is_incremental": false,
@@ -717,12 +873,11 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
+          "total_file_count": 63,
+          "skipped_file_count": 63
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
@@ -730,11 +885,12 @@
           "total_file_count": 3,
           "skipped_file_count": 3
         },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
-          "total_file_count": 50,
-          "skipped_file_count": 43
+          "total_file_count": 0,
+          "skipped_file_count": 0
         }
       }
     },

@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class RobotMover
+    <title>Class LockableRobots
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class RobotMover
+    <meta name="title" content="Class LockableRobots
    ">
     <meta name="generator" content="docfx 2.42.0.0">
     
@@ -68,12 +68,13 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="CroD.Robot.Action.RobotMover">
+            <article class="content wrap" id="_content" data-uid="CroD.Robot.LockableRobots">
   
   
-  <h1 id="CroD_Robot_Action_RobotMover" data-uid="CroD.Robot.Action.RobotMover" class="text-break">Class RobotMover
+  <h1 id="CroD_Robot_LockableRobots" data-uid="CroD.Robot.LockableRobots" class="text-break">Class LockableRobots
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>ロックオン時の対象を速やかに見つけるために、ロックオン可能なオブジェクトへの参照をまとめておくオブジェクト</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -82,14 +83,31 @@
     <div class="level2"><span class="xref">UnityEngine.Component</span></div>
     <div class="level3"><span class="xref">UnityEngine.Behaviour</span></div>
     <div class="level4"><span class="xref">UnityEngine.MonoBehaviour</span></div>
-    <div class="level5"><span class="xref">RobotMover</span></div>
+    <div class="level5"><span class="xref">Sirenix.OdinInspector.SerializedMonoBehaviour</span></div>
+    <div class="level6"><span class="xref">LockableRobots</span></div>
   </div>
   <div classs="implements">
     <h5>Implements</h5>
-    <div><a class="xref" href="CroD.Robot.Action.IRobotAction.html">IRobotAction</a></div>
+    <div><span class="xref">UnityEngine.ISerializationCallbackReceiver</span></div>
+    <div><span class="xref">Sirenix.Serialization.ISupportsPrefabSerialization</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
+    <div>
+      <span class="xref">Sirenix.OdinInspector.SerializedMonoBehaviour.UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize()</span>
+    </div>
+    <div>
+      <span class="xref">Sirenix.OdinInspector.SerializedMonoBehaviour.UnityEngine.ISerializationCallbackReceiver.OnBeforeSerialize()</span>
+    </div>
+    <div>
+      <span class="xref">Sirenix.OdinInspector.SerializedMonoBehaviour.OnAfterDeserialize()</span>
+    </div>
+    <div>
+      <span class="xref">Sirenix.OdinInspector.SerializedMonoBehaviour.OnBeforeSerialize()</span>
+    </div>
+    <div>
+      <span class="xref">Sirenix.OdinInspector.SerializedMonoBehaviour.Sirenix.Serialization.ISupportsPrefabSerialization.SerializationData</span>
+    </div>
     <div>
       <span class="xref">UnityEngine.MonoBehaviour.IsInvoking()</span>
     </div>
@@ -421,23 +439,24 @@
       <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
     </div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="CroD.Robot.Action.html">CroD.Robot.Action</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="CroD.Robot.html">CroD.Robot</a></h6>
   <h6><strong>Assembly</strong>: CroD.dll</h6>
-  <h5 id="CroD_Robot_Action_RobotMover_syntax">Syntax</h5>
+  <h5 id="CroD_Robot_LockableRobots_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class RobotMover : MonoBehaviour, IRobotAction</code></pre>
+    <pre><code class="lang-csharp hljs">public class LockableRobots : SerializedMonoBehaviour, ISerializationCallbackReceiver, ISupportsPrefabSerialization</code></pre>
   </div>
   <h3 id="methods">Methods
   </h3>
   
   
-  <a id="CroD_Robot_Action_RobotMover_OnChangeMoveState_" data-uid="CroD.Robot.Action.RobotMover.OnChangeMoveState*"></a>
-  <h4 id="CroD_Robot_Action_RobotMover_OnChangeMoveState_UniRx_Unit_" data-uid="CroD.Robot.Action.RobotMover.OnChangeMoveState(UniRx.Unit)">OnChangeMoveState(Unit)</h4>
-  <div class="markdown level1 summary"></div>
+  <a id="CroD_Robot_LockableRobots_Add_" data-uid="CroD.Robot.LockableRobots.Add*"></a>
+  <h4 id="CroD_Robot_LockableRobots_Add_CroD_Robot_Lockable_" data-uid="CroD.Robot.LockableRobots.Add(CroD.Robot.Lockable)">Add(Lockable)</h4>
+  <div class="markdown level1 summary"><p>ロックオン対象となるRobotを追加する</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void OnChangeMoveState(Unit _)</code></pre>
+    <pre><code class="lang-csharp hljs">public void Add(Lockable robotInfo)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -450,21 +469,23 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">UniRx.Unit</span></td>
-        <td><span class="parametername">_</span></td>
-        <td></td>
+        <td><a class="xref" href="CroD.Robot.Lockable.html">Lockable</a></td>
+        <td><span class="parametername">robotInfo</span></td>
+        <td><p>追加するRobotの情報を格納したLockableコンポーネント</p>
+</td>
       </tr>
     </tbody>
   </table>
   
   
-  <a id="CroD_Robot_Action_RobotMover_OnMoveRobot_" data-uid="CroD.Robot.Action.RobotMover.OnMoveRobot*"></a>
-  <h4 id="CroD_Robot_Action_RobotMover_OnMoveRobot_UnityEngine_Vector2_" data-uid="CroD.Robot.Action.RobotMover.OnMoveRobot(UnityEngine.Vector2)">OnMoveRobot(Vector2)</h4>
-  <div class="markdown level1 summary"></div>
+  <a id="CroD_Robot_LockableRobots_GetFrontRobot_" data-uid="CroD.Robot.LockableRobots.GetFrontRobot*"></a>
+  <h4 id="CroD_Robot_LockableRobots_GetFrontRobot_UnityEngine_Vector3_UnityEngine_Vector3_" data-uid="CroD.Robot.LockableRobots.GetFrontRobot(UnityEngine.Vector3,UnityEngine.Vector3)">GetFrontRobot(Vector3, Vector3)</h4>
+  <div class="markdown level1 summary"><p>引数で指定した位置と正面方向から、角度的に最も正面に近いロックオン対象を探す</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void OnMoveRobot(Vector2 input)</code></pre>
+    <pre><code class="lang-csharp hljs">public Lockable GetFrontRobot(Vector3 ownPosition, Vector3 ownFrontVector)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -477,22 +498,19 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">UnityEngine.Vector2</span></td>
-        <td><span class="parametername">input</span></td>
-        <td></td>
+        <td><span class="xref">UnityEngine.Vector3</span></td>
+        <td><span class="parametername">ownPosition</span></td>
+        <td><p>ロックオン対象を探す起点となる座標</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">UnityEngine.Vector3</span></td>
+        <td><span class="parametername">ownFrontVector</span></td>
+        <td><p>ロックオン対象を探すときに正面となる方向</p>
+</td>
       </tr>
     </tbody>
   </table>
-  
-  
-  <a id="CroD_Robot_Action_RobotMover_SetMovePower_" data-uid="CroD.Robot.Action.RobotMover.SetMovePower*"></a>
-  <h4 id="CroD_Robot_Action_RobotMover_SetMovePower" data-uid="CroD.Robot.Action.RobotMover.SetMovePower">SetMovePower()</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public float SetMovePower()</code></pre>
-  </div>
   <h5 class="returns">Returns</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
@@ -503,20 +521,25 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Single</span></td>
-        <td></td>
+        <td><a class="xref" href="CroD.Robot.Lockable.html">Lockable</a></td>
+        <td><p>ロックオン対象となるRobot（対象となるRobotがいない場合null）</p>
+</td>
       </tr>
     </tbody>
   </table>
+  <h5 id="CroD_Robot_LockableRobots_GetFrontRobot_UnityEngine_Vector3_UnityEngine_Vector3__remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>背面のロックオン対象は選択されない</p>
+</div>
   
   
-  <a id="CroD_Robot_Action_RobotMover_SetParentRobot_" data-uid="CroD.Robot.Action.RobotMover.SetParentRobot*"></a>
-  <h4 id="CroD_Robot_Action_RobotMover_SetParentRobot_UnityEngine_Transform_" data-uid="CroD.Robot.Action.RobotMover.SetParentRobot(UnityEngine.Transform)">SetParentRobot(Transform)</h4>
-  <div class="markdown level1 summary"></div>
+  <a id="CroD_Robot_LockableRobots_GetNearestRobot_" data-uid="CroD.Robot.LockableRobots.GetNearestRobot*"></a>
+  <h4 id="CroD_Robot_LockableRobots_GetNearestRobot_UnityEngine_Vector3_" data-uid="CroD.Robot.LockableRobots.GetNearestRobot(UnityEngine.Vector3)">GetNearestRobot(Vector3)</h4>
+  <div class="markdown level1 summary"><p>引数で指定した位置から最も近いロックオン対象を探す</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void SetParentRobot(Transform target)</code></pre>
+    <pre><code class="lang-csharp hljs">public Lockable GetNearestRobot(Vector3 ownPosition)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -529,21 +552,39 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">UnityEngine.Transform</span></td>
-        <td><span class="parametername">target</span></td>
-        <td></td>
+        <td><span class="xref">UnityEngine.Vector3</span></td>
+        <td><span class="parametername">ownPosition</span></td>
+        <td><p>ロックオン対象を探す起点となる座標</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CroD.Robot.Lockable.html">Lockable</a></td>
+        <td><p>ロックオン対象となるRobot（対象となるRobotがいない場合null）</p>
+</td>
       </tr>
     </tbody>
   </table>
   
   
-  <a id="CroD_Robot_Action_RobotMover_SwitchMoveDirection_" data-uid="CroD.Robot.Action.RobotMover.SwitchMoveDirection*"></a>
-  <h4 id="CroD_Robot_Action_RobotMover_SwitchMoveDirection_CroD_Robot_Action_MoveState_" data-uid="CroD.Robot.Action.RobotMover.SwitchMoveDirection(CroD.Robot.Action.MoveState)">SwitchMoveDirection(MoveState)</h4>
-  <div class="markdown level1 summary"></div>
+  <a id="CroD_Robot_LockableRobots_Remove_" data-uid="CroD.Robot.LockableRobots.Remove*"></a>
+  <h4 id="CroD_Robot_LockableRobots_Remove_CroD_Robot_Lockable_" data-uid="CroD.Robot.LockableRobots.Remove(CroD.Robot.Lockable)">Remove(Lockable)</h4>
+  <div class="markdown level1 summary"><p>ロックオン対象となるRobotを削除する</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void SwitchMoveDirection(MoveState state)</code></pre>
+    <pre><code class="lang-csharp hljs">public void Remove(Lockable robotInfo)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -556,15 +597,19 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="CroD.Robot.Action.MoveState.html">MoveState</a></td>
-        <td><span class="parametername">state</span></td>
-        <td></td>
+        <td><a class="xref" href="CroD.Robot.Lockable.html">Lockable</a></td>
+        <td><span class="parametername">robotInfo</span></td>
+        <td><p>削除するRobotの情報を格納したLockableコンポーネント</p>
+</td>
       </tr>
     </tbody>
   </table>
   <h3 id="implements">Implements</h3>
   <div>
-      <a class="xref" href="CroD.Robot.Action.IRobotAction.html">IRobotAction</a>
+      <span class="xref">UnityEngine.ISerializationCallbackReceiver</span>
+  </div>
+  <div>
+      <span class="xref">Sirenix.Serialization.ISupportsPrefabSerialization</span>
   </div>
 </article>
           </div>
