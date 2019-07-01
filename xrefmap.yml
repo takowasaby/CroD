@@ -150,19 +150,19 @@ references:
   commentId: T:CroD.AI.Core.Simple
   fullName: CroD.AI.Core.Simple
   nameWithType: Simple
-- uid: CroD.AI.Core.Simple.flameProcess(UnityEngine.Transform,CroD.Robot.Status.RobotStatus,CroD.Robot.Lockable)
-  name: flameProcess(Transform, RobotStatus, Lockable)
-  href: api/CroD.AI.Core.Simple.html#CroD_AI_Core_Simple_flameProcess_UnityEngine_Transform_CroD_Robot_Status_RobotStatus_CroD_Robot_Lockable_
-  commentId: M:CroD.AI.Core.Simple.flameProcess(UnityEngine.Transform,CroD.Robot.Status.RobotStatus,CroD.Robot.Lockable)
-  fullName: CroD.AI.Core.Simple.flameProcess(UnityEngine.Transform, CroD.Robot.Status.RobotStatus, CroD.Robot.Lockable)
-  nameWithType: Simple.flameProcess(Transform, RobotStatus, Lockable)
-- uid: CroD.AI.Core.Simple.flameProcess*
-  name: flameProcess
-  href: api/CroD.AI.Core.Simple.html#CroD_AI_Core_Simple_flameProcess_
-  commentId: Overload:CroD.AI.Core.Simple.flameProcess
+- uid: CroD.AI.Core.Simple.FlameProcess(UnityEngine.Transform,CroD.Robot.Status.RobotStatus,CroD.Robot.Lockable)
+  name: FlameProcess(Transform, RobotStatus, Lockable)
+  href: api/CroD.AI.Core.Simple.html#CroD_AI_Core_Simple_FlameProcess_UnityEngine_Transform_CroD_Robot_Status_RobotStatus_CroD_Robot_Lockable_
+  commentId: M:CroD.AI.Core.Simple.FlameProcess(UnityEngine.Transform,CroD.Robot.Status.RobotStatus,CroD.Robot.Lockable)
+  fullName: CroD.AI.Core.Simple.FlameProcess(UnityEngine.Transform, CroD.Robot.Status.RobotStatus, CroD.Robot.Lockable)
+  nameWithType: Simple.FlameProcess(Transform, RobotStatus, Lockable)
+- uid: CroD.AI.Core.Simple.FlameProcess*
+  name: FlameProcess
+  href: api/CroD.AI.Core.Simple.html#CroD_AI_Core_Simple_FlameProcess_
+  commentId: Overload:CroD.AI.Core.Simple.FlameProcess
   isSpec: "True"
-  fullName: CroD.AI.Core.Simple.flameProcess
-  nameWithType: Simple.flameProcess
+  fullName: CroD.AI.Core.Simple.FlameProcess
+  nameWithType: Simple.FlameProcess
 - uid: CroD.AI.Core.Simple.SetUnitOperatorCaller(System.Action{CroD.Operator.OperatorID,UniRx.Unit})
   name: SetUnitOperatorCaller(Action<OperatorID, Unit>)
   href: api/CroD.AI.Core.Simple.html#CroD_AI_Core_Simple_SetUnitOperatorCaller_System_Action_CroD_Operator_OperatorID_UniRx_Unit__
@@ -233,19 +233,19 @@ references:
   commentId: T:CroD.AI.IAICore
   fullName: CroD.AI.IAICore
   nameWithType: IAICore
-- uid: CroD.AI.IAICore.flameProcess(UnityEngine.Transform,CroD.Robot.Status.RobotStatus,CroD.Robot.Lockable)
-  name: flameProcess(Transform, RobotStatus, Lockable)
-  href: api/CroD.AI.IAICore.html#CroD_AI_IAICore_flameProcess_UnityEngine_Transform_CroD_Robot_Status_RobotStatus_CroD_Robot_Lockable_
-  commentId: M:CroD.AI.IAICore.flameProcess(UnityEngine.Transform,CroD.Robot.Status.RobotStatus,CroD.Robot.Lockable)
-  fullName: CroD.AI.IAICore.flameProcess(UnityEngine.Transform, CroD.Robot.Status.RobotStatus, CroD.Robot.Lockable)
-  nameWithType: IAICore.flameProcess(Transform, RobotStatus, Lockable)
-- uid: CroD.AI.IAICore.flameProcess*
-  name: flameProcess
-  href: api/CroD.AI.IAICore.html#CroD_AI_IAICore_flameProcess_
-  commentId: Overload:CroD.AI.IAICore.flameProcess
+- uid: CroD.AI.IAICore.FlameProcess(UnityEngine.Transform,CroD.Robot.Status.RobotStatus,CroD.Robot.Lockable)
+  name: FlameProcess(Transform, RobotStatus, Lockable)
+  href: api/CroD.AI.IAICore.html#CroD_AI_IAICore_FlameProcess_UnityEngine_Transform_CroD_Robot_Status_RobotStatus_CroD_Robot_Lockable_
+  commentId: M:CroD.AI.IAICore.FlameProcess(UnityEngine.Transform,CroD.Robot.Status.RobotStatus,CroD.Robot.Lockable)
+  fullName: CroD.AI.IAICore.FlameProcess(UnityEngine.Transform, CroD.Robot.Status.RobotStatus, CroD.Robot.Lockable)
+  nameWithType: IAICore.FlameProcess(Transform, RobotStatus, Lockable)
+- uid: CroD.AI.IAICore.FlameProcess*
+  name: FlameProcess
+  href: api/CroD.AI.IAICore.html#CroD_AI_IAICore_FlameProcess_
+  commentId: Overload:CroD.AI.IAICore.FlameProcess
   isSpec: "True"
-  fullName: CroD.AI.IAICore.flameProcess
-  nameWithType: IAICore.flameProcess
+  fullName: CroD.AI.IAICore.FlameProcess
+  nameWithType: IAICore.FlameProcess
 - uid: CroD.AI.IAICore.SetUnitOperatorCaller(System.Action{CroD.Operator.OperatorID,UniRx.Unit})
   name: SetUnitOperatorCaller(Action<OperatorID, Unit>)
   href: api/CroD.AI.IAICore.html#CroD_AI_IAICore_SetUnitOperatorCaller_System_Action_CroD_Operator_OperatorID_UniRx_Unit__
